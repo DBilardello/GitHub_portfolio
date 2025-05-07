@@ -1,0 +1,521 @@
+Site Name,State,Lat,Lon,Type,Solar-Augment Potential,Augment Technology Type,Augmented Capacity (MWe)
+TS Power Plant,NV,40.6422,-116.937,Coal,Good,Max Tower Capacity (MWe),64.7
+Desert Rock,NM,36.5435,-108.2235,Coal,Good,Max Tower Capacity (MWe),169.2
+Oak Grove Project,TX,31.0494,-96.4813,Coal,Good,Max Tower Capacity (MWe),484.4
+Tenaska Trailblazer Energy Center,TX,32.8043,-100.158,Coal,Good,Max Tower Capacity (MWe),174.7
+Rio Bravo Jasmin,CA,35.7415,-119.0512,Coal,Good,Max Tower Capacity (MWe),9.8
+Savannah Mill,GA,32.3683,-81.3413,Coal,Good,Max Tower Capacity (MWe),21.0
+E S Joslin,TX,28.67945,-96.56,Coal,Good,Max Tower Capacity (MWe),88.7
+Sandy Creek,TX,31.5031,-96.9602,Coal,Good,Max Tower Capacity (MWe),243.6
+Shady Point,OK,35.1931,-94.6458,Coal,Good,Max Tower Capacity (MWe),102.5
+"Jefferson Smurfit Nassau County,  FL",FL,30.6833,-81.4592,Coal,Good,Max Tower Capacity (MWe),22.0
+Limestone (TX),TX,31.4219,-96.2525,Coal,Good,Max Tower Capacity (MWe),487.9
+Rio Bravo Poso,CA,35.5556,-119.0832,Coal,Fair,Max Tower Capacity (MWe),11.3
+Cholla,AZ,34.9394,-110.3033,Coal,Excellent,Max Tower Capacity (MWe),212.4
+Southport NC,NC,33.9444,-78.0125,Coal,Fair,Max Tower Capacity (MWe),39.8
+W A Parish,TX,29.4828,-95.6311,Coal,Good,Max Tower Capacity (MWe),357.6
+J K Spruce,TX,29.3091,-98.3205,Coal,Good,Max Tower Capacity (MWe),203.4
+Charles R Lowman,AL,31.4858,-87.9106,Coal,Fair,Max Tower Capacity (MWe),69.2
+Stockton Cogen,CA,37.9119,-121.2611,Coal,Good,Max Tower Capacity (MWe),17.8
+Valmy,NV,40.8831,-117.1542,Coal,Good,Max Tower Capacity (MWe),166.2
+Valmy,NV,40.8831,-117.1542,Coal,Good,Max Tower Capacity (MWe),145.9
+Intermountain,UT,39.5108,-112.5792,Coal,Good,Max Tower Capacity (MWe),470.2
+UNC - Chapel Hill,NC,35.9069,-79.0617,Coal,Fair,Max Tower Capacity (MWe),15.4
+Hunter,UT,39.1747,-111.0289,Coal,Good,Max Tower Capacity (MWe),286.8
+Victor J. Daniel Jr.,MS,30.5335,-88.5574,Coal,Good,Max Tower Capacity (MWe),159.8
+Stanton Energy Center,FL,28.4836,-81.1686,Coal,Fair,Max Tower Capacity (MWe),12.3
+Mayo,NC,36.5278,-78.8917,Coal,Fair,Max Tower Capacity (MWe),212.9
+Rocky Mount,NC,36.0378,-77.7542,Coal,Good,Max Tower Capacity (MWe),33.9
+Roxboro,NC,36.4833,-79.0731,Coal,Fair,Max Tower Capacity (MWe),215.6
+Indiantown Cogeneration Facility,FL,27.0393,-80.5144,Coal,Good,Max Tower Capacity (MWe),115.4
+San Miguel,TX,28.7044,-98.4781,Coal,Good,Max Tower Capacity (MWe),119.8
+Big Bend,FL,27.7944,-82.4036,Coal,Good,Max Tower Capacity (MWe),139.8
+Bonanza,UT,40.0864,-109.2844,Coal,Good,Max Tower Capacity (MWe),145.8
+C D McIntosh Jr,FL,28.0809,-81.9256,Coal,Fair,Max Tower Capacity (MWe),45.4
+Comanche (CO),CO,38.2081,-104.5747,Coal,Good,Max Tower Capacity (MWe),235.4
+Cross,SC,33.3692,-80.1119,Coal,Good,Max Tower Capacity (MWe),147.6
+Crystal River,FL,28.9594,-82.7003,Coal,Fair,Max Tower Capacity (MWe),123.2
+Deerhaven,FL,29.7586,-82.3883,Coal,Good,Max Tower Capacity (MWe),73.5
+Dolet Hills,LA,32.0306,-93.5692,Coal,Fair,Max Tower Capacity (MWe),209.2
+Escalante,NM,35.4159,-108.082,Coal,Good,Max Tower Capacity (MWe),75.4
+Fayette Power Project,TX,29.9172,-96.7506,Coal,Fair,Max Tower Capacity (MWe),291.4
+Florence Mill,SC,34.1519,-79.5587,Coal,Good,Max Tower Capacity (MWe),23.4
+GRDA,OK,36.1906,-95.2889,Coal,Fair,Max Tower Capacity (MWe),293.7
+Hugo,OK,34.0158,-95.3206,Coal,Good,Max Tower Capacity (MWe),130.0
+Muskogee,OK,35.7617,-95.2847,Coal,Fair,Max Tower Capacity (MWe),166.5
+Northeastern,OK,36.4317,-95.7008,Coal,Good,Max Tower Capacity (MWe),138.0
+Nucla,CO,38.2387,-108.5083,Coal,Good,Max Tower Capacity (MWe),23.5
+Pawnee,CO,40.2217,-103.6803,Coal,Fair,Max Tower Capacity (MWe),160.8
+Pirkey,TX,32.4607,-94.4852,Coal,Fair,Max Tower Capacity (MWe),209.2
+Rawhide,CO,40.8611,-105.0206,Coal,Good,Max Tower Capacity (MWe),86.1
+Ray D Nixon,CO,38.6306,-104.7056,Coal,Good,Max Tower Capacity (MWe),60.8
+Red Hills,MS,33.3761,-89.2183,Coal,Fair,Max Tower Capacity (MWe),149.8
+Reid Gardner,NV,36.6531,-114.6364,Coal,Excellent,Max Tower Capacity (MWe),86.5
+Roanoke Valley I,NC,36.4364,-77.6167,Coal,Good,Max Tower Capacity (MWe),53.6
+Roanoke Valley II,NC,36.4364,-77.6167,Coal,Good,Max Tower Capacity (MWe),17.1
+Roxboro NC,NC,36.435,-78.9619,Coal,Fair,Max Tower Capacity (MWe),20.0
+Sandow,TX,30.5642,-97.0639,Coal,Fair,Max Tower Capacity (MWe),171.8
+Welsh,TX,33.0583,-94.844,Coal,Fair,Max Tower Capacity (MWe),324.8
+Winyah,SC,33.3303,-79.3611,Coal,Good,Max Tower Capacity (MWe),182.9
+Coronado,AZ,34.5778,-109.2717,Coal,Excellent,Max Tower Capacity (MWe),120.2
+Sooner,OK,36.4537,-97.0527,Coal,Fair,Max Tower Capacity (MWe),165.7
+Springerville,AZ,34.3186,-109.1636,Coal,Excellent,Max Tower Capacity (MWe),511.6
+Coleto Creek,TX,28.7128,-97.2142,Coal,Good,Max Tower Capacity (MWe),174.7
+Coleto Creek,TX,28.7128,-97.2142,Coal,Good,Max Tower Capacity (MWe),174.7
+"Colorado Energy Nations Company, LLP",CO,39.7606,-105.215,Coal,Good,Max Tower Capacity (MWe),6.0
+Tolk,TX,34.1847,-102.5686,Coal,Good,Max Tower Capacity (MWe),330.8
+Washington County Power Station,GA,33.0917,-82.9803,Coal,Fair,Max Tower Capacity (MWe),242.6
+"Rodemacher (Rapides Parish, LA)",LA,31.395,-92.7167,Coal,Good,Max Tower Capacity (MWe),55.6
+St Johns River Power,FL,30.4311,-81.5508,Coal,Good,Max Tower Capacity (MWe),134.5
+Seminole (FL),FL,29.7333,-81.6339,Coal,Good,Max Tower Capacity (MWe),410.8
+Craig (CO),CO,40.4627,-107.5912,Coal,Good,Max Tower Capacity (MWe),257.0
+James H. Miller Jr.,AL,33.6319,-87.0597,Coal,Fair,Max Tower Capacity (MWe),202.1
+Oklaunion,TX,34.0825,-99.1753,Coal,Fair,Max Tower Capacity (MWe),208.8
+Central Power & Lime,FL,28.5814,-82.4303,Coal,Good,Max Tower Capacity (MWe),36.8
+Big Cajun 2,LA,30.7261,-91.3669,Coal,Good,Max Tower Capacity (MWe),321.2
+San Juan,NM,36.8006,-108.4386,Coal,Good,Max Tower Capacity (MWe),161.6
+Scherer,GA,33.0583,-83.8072,Coal,Fair,Max Tower Capacity (MWe),373.8
+Gibbons Creek,TX,30.6167,-96.0778,Coal,Good,Max Tower Capacity (MWe),132.5
+Harrington,TX,35.2972,-101.7475,Coal,Good,Max Tower Capacity (MWe),105.4
+Twin Oaks Power,TX,31.0932,-96.6965,Coal,Good,Max Tower Capacity (MWe),102.3
+Navajo,AZ,36.9047,-111.3886,Coal,Good,Max Tower Capacity (MWe),198.5
+Muskogee Mill,OK,35.7322,-95.2939,Coal,Good,Max Tower Capacity (MWe),13.2
+Sandow (Alcoa),TX,30.5642,-97.0639,Coal,Good,Max Tower Capacity (MWe),192.0
+Longleaf,GA,31.1844,-85.0359,Coal,Good,Max Tower Capacity (MWe),174.5
+Whelan Energy Center,NE,40.5806,-98.3106,Coal,Fair,Max Tower Capacity (MWe),66.0
+Dry Fork Station,WY,44.291092,-105.502221,Coal,Fair,Max Tower Capacity (MWe),114.0
+Plum Point Energy,AR,35.6763,-90.0131,Coal,Good,Max Tower Capacity (MWe),156.0
+Holcomb East,KS,37.9306,-100.9725,Coal,Good,Max Tower Capacity (MWe),102.0
+Independence (AR),AR,35.6733,-91.4083,Coal,Good,Max Tower Capacity (MWe),304.0
+Jeffrey Energy Center,KS,39.2825,-96.1153,Coal,Fair,Max Tower Capacity (MWe),208.0
+Wygen III,WY,44.287,-105.387,Coal,Good,Max Tower Capacity (MWe),34.0
+Gerald Gentleman,NE,41.0808,-101.1408,Coal,Good,Max Tower Capacity (MWe),203.0
+Nebraska City,NE,40.6215,-95.7765,Coal,Good,Max Tower Capacity (MWe),198.0
+Platte,NE,40.8538,-98.3481,Coal,Good,Max Tower Capacity (MWe),32.0
+Laramie River,WY,42.1103,-104.8828,Coal,Good,Max Tower Capacity (MWe),166.0
+Neil Simpson II,WY,44.2853,-105.3841,Coal,Fair,Max Tower Capacity (MWe),24.0
+Wygen,WY,44.2862,-105.3843,Coal,Good,Max Tower Capacity (MWe),26.0
+Wygen II,WY,44.2911,-105.3815,Coal,Good,Max Tower Capacity (MWe),28.0
+Holcomb East,KS,37.986135,-100.989333,Coal,Good,Max Tower Capacity (MWe),246.0
+John W Turk Jr Power Plant,AR,33.614565,-93.813516,Coal,Good,Max Tower Capacity (MWe),177.0
+Afton,NM,32.1134,-106.848,Natural Gas,Excellent,Max Tower Capacity (MWe),20.9
+Allen,NV,36.425,-114.9,Natural Gas,Excellent,Max Tower Capacity (MWe),42.6
+Apex Industrial Park,NV,36.4178,-114.9622,Natural Gas,Excellent,Max Tower Capacity (MWe),75.2
+Arlington Valley Energy,AZ,33.3417,-112.8897,Natural Gas,Good,Max Tower Capacity (MWe),96.5
+Avenal,CA,36.00417,-120.1281,Natural Gas,Good,Max Tower Capacity (MWe),87.7
+Bluffview,NM,36.7164,-108.2153,Natural Gas,Good,Max Tower Capacity (MWe),6.7
+Blythe Energy Power Plant,CA,33.6157,-114.6865,Natural Gas,Excellent,Max Tower Capacity (MWe),44.6
+Bowie Power Station,AZ,32.3225,-109.4872,Natural Gas,Excellent,Max Tower Capacity (MWe),17.7
+Brush,CO,40.2403,-103.6225,Natural Gas,Good,Max Tower Capacity (MWe),32.3
+Chuck Lenzie Generating Station,NV,36.3853,-114.9228,Natural Gas,Excellent,Max Tower Capacity (MWe),192.3
+Clark (NV),NV,36.0875,-115.0507,Natural Gas,Good,Max Tower Capacity (MWe),11.8
+Wolf Hollow,TX,32.3347,-97.7344,Natural Gas,Fair,Max Tower Capacity (MWe),15.1
+Colusa CC,CA,39.1019,-122.1113,Natural Gas,Good,Max Tower Capacity (MWe),88.7
+Cosumnes Power Plant,CA,38.3461,-121.1217,Natural Gas,Good,Max Tower Capacity (MWe),20.0
+Currant Creek,UT,39.8223,-111.894,Natural Gas,Good,Max Tower Capacity (MWe),70.3
+Desert Basin Generating,AZ,32.9042,-111.7889,Natural Gas,Excellent,Max Tower Capacity (MWe),82.8
+Elk Hills Power,CA,35.2803,-119.311,Natural Gas,Good,Max Tower Capacity (MWe),25.9
+Fort St Vrain,CO,40.2461,-104.8742,Natural Gas,Good,Max Tower Capacity (MWe),95.9
+Front Range Power,CO,38.6281,-104.7069,Natural Gas,Good,Max Tower Capacity (MWe),73.4
+Gateway Generating Station,CA,38.0051,-121.8049,Natural Gas,Good,Max Tower Capacity (MWe),10.0
+Gila River Project,AZ,32.9761,-112.694,Natural Gas,Excellent,Max Tower Capacity (MWe),339.2
+Griffith Generating Station,AZ,35.0517,-114.1334,Natural Gas,Excellent,Max Tower Capacity (MWe),85.6
+Harquahala,AZ,33.4759,-113.1133,Natural Gas,Excellent,Max Tower Capacity (MWe),57.1
+Haynes,CA,33.7639,-118.0942,Natural Gas,Fair,Max Tower Capacity (MWe),40.3
+Haynes,CA,33.7639,-118.0942,Natural Gas,Fair,Max Tower Capacity (MWe),19.7
+High Desert Power Project,CA,34.5953,-117.3647,Natural Gas,Excellent,Max Tower Capacity (MWe),72.0
+Hobbs Generating Station,NM,32.7798,-103.2156,Natural Gas,Good,Max Tower Capacity (MWe),88.8
+J Robert Massengale,TX,33.6039,-101.8408,Natural Gas,Good,Max Tower Capacity (MWe),10.0
+Lake Side Power,UT,40.3311,-111.7547,Natural Gas,Good,Max Tower Capacity (MWe),41.9
+Lodi,CA,38.1562,-121.2975,Natural Gas,Good,Max Tower Capacity (MWe),6.5
+Los Esteros Critical Energy Facility,CA,37.425,-121.9319,Natural Gas,Good,Max Tower Capacity (MWe),29.0
+Luna Energy Facility,NM,32.2983,-107.78,Natural Gas,Excellent,Max Tower Capacity (MWe),83.9
+Mesquite Power,AZ,33.344,-112.8535,Natural Gas,Excellent,Max Tower Capacity (MWe),180.8
+Metcalf Energy Center,CA,37.2169,-121.7439,Natural Gas,Good,Max Tower Capacity (MWe),34.2
+Nebo Power Station,UT,40.0614,-111.7294,Natural Gas,Good,Max Tower Capacity (MWe),15.5
+Newman,TX,31.9858,-106.4322,Natural Gas,Good,Max Tower Capacity (MWe),41.4
+Odessa-Ector Power Project,TX,31.8378,-102.3278,Natural Gas,Good,Max Tower Capacity (MWe),102.5
+Palmdale Hybrid Power Project | solar trough hybrid,CA,34.6416,-118.1263,Natural Gas,Good,Max Tower Capacity (MWe),0.0
+Pastoria Energy Center,CA,34.9556,-118.844,Natural Gas,Good,Max Tower Capacity (MWe),22.2
+Quail Run,TX,31.8414,-102.315,Natural Gas,Good,Max Tower Capacity (MWe),109.0
+Redding,CA,40.5083,-122.4253,Natural Gas,Fair,Max Tower Capacity (MWe),6.9
+Redhawk,AZ,33.33,-112.84,Natural Gas,Excellent,Max Tower Capacity (MWe),43.8
+Rocky Mountain Energy Center,CO,40.0911,-104.5947,Natural Gas,Good,Max Tower Capacity (MWe),88.5
+Roseville Energy Park,CA,38.7926,-121.3823,Natural Gas,Good,Max Tower Capacity (MWe),20.5
+Russell City Energy Center,CA,37.6276,-122.1046,Natural Gas,Fair,Max Tower Capacity (MWe),16.1
+San Bernardino,CA,34.0027,-117.2405,Natural Gas,Good,Max Tower Capacity (MWe),86.8
+Santan,AZ,33.3333,-111.751,Natural Gas,Excellent,Max Tower Capacity (MWe),112.7
+Silverhawk Power Project,NV,36.4078,-114.9603,Natural Gas,Excellent,Max Tower Capacity (MWe),70.3
+South Point Energy Center,AZ,34.8764,-114.5297,Natural Gas,Excellent,Max Tower Capacity (MWe),12.8
+Sunrise Power Project,CA,35.2097,-119.585,Natural Gas,Good,Max Tower Capacity (MWe),81.4
+Sutter Power,CA,39.0531,-121.6939,Natural Gas,Good,Max Tower Capacity (MWe),5.7
+Tesla Generating Station,CA,37.6803,-121.7717,Natural Gas,Good,Max Tower Capacity (MWe),92.0
+Tracy (NV),NV,39.5625,-119.525,Natural Gas,Good,Max Tower Capacity (MWe),29.4
+Tracy Peaker Project,CA,37.7107,-121.4906,Natural Gas,Good,Max Tower Capacity (MWe),41.2
+Valley (CA),CA,34.2481,-118.3903,Natural Gas,Fair,Max Tower Capacity (MWe),18.0
+Victorville 2 Hybrid,CA,34.639705,-117.364883,Natural Gas,Excellent,Max Tower Capacity (MWe),74.6
+Walnut Energy Center,CA,37.4903,-120.9071,Natural Gas,Good,Max Tower Capacity (MWe),15.8
+Walter M. Higgins Generating Station,NV,35.6139,-115.3561,Natural Gas,Excellent,Max Tower Capacity (MWe),86.4
+Carty Generating Station,OR,45.839855,-119.700583,Natural Gas,Good,Max Tower Capacity (MWe),69.0
+West Phoenix,AZ,33.4417,-112.1583,Natural Gas,Excellent,Max Tower Capacity (MWe),17.0
+Woodland,CA,37.6528,-121.0172,Natural Gas,Good,Max Tower Capacity (MWe),7.3
+Klamath Cogeneration Project,OR,42.1739,-121.8106,Natural Gas,Good,Max Tower Capacity (MWe),72.0
+Langley Gulch Power Plant,ID,43.969886,-116.81904,Natural Gas,Good,Max Tower Capacity (MWe),41.0
+Rathdrum Power LLC,ID,47.7861,-116.9214,Natural Gas,Fair,Max Tower Capacity (MWe),29.0
+Coyote Springs II,OR,45.8478,-119.6738,Natural Gas,Fair,Max Tower Capacity (MWe),20.0
+Hermiston Power Project,OR,45.7931,-119.3117,Natural Gas,Fair,Max Tower Capacity (MWe),74.0
+Cass County,NE,40.9472,-95.9667,Natural Gas,Fair,Max Tower Capacity (MWe),26.0
+Coyote Springs,OR,45.8486,-119.6744,Natural Gas,Fair,Max Tower Capacity (MWe),37.0
+Hermiston Generating Plant,OR,45.8042,-119.37,Natural Gas,Fair,Max Tower Capacity (MWe),86.0
+Cheyenne Power Plant,WY,41.139981,-104.820246,Natural Gas,Good,Max Tower Capacity (MWe),18.0
+Arvah B Hopkins,FL,30.4522,-84.4,Natural Gas,Fair,Max Tower Capacity (MWe),44.9
+Attala Generating Plant,MS,33.0142,-89.6758,Natural Gas,Fair,Max Tower Capacity (MWe),19.5
+Autaugaville,AL,32.391885,-86.571064,Natural Gas,Fair,Max Tower Capacity (MWe),177.2
+Barney M Davis,TX,27.6067,-97.3119,Natural Gas,Good,Max Tower Capacity (MWe),91.9
+Barry,AL,31.0069,-88.0103,Natural Gas,Good,Max Tower Capacity (MWe),48.9
+Bastrop Energy Center,TX,30.1458,-97.55,Natural Gas,Fair,Max Tower Capacity (MWe),62.0
+Batesville Generation Facility,MS,34.3345,-89.9272,Natural Gas,Fair,Max Tower Capacity (MWe),59.3
+Bosque County,TX,31.8594,-97.3586,Natural Gas,Fair,Max Tower Capacity (MWe),17.7
+Brandy Branch,FL,30.3206,-81.9486,Natural Gas,Good,Max Tower Capacity (MWe),42.0
+Brazos Valley Project,TX,29.4731,-95.6244,Natural Gas,Good,Max Tower Capacity (MWe),73.4
+Caledonia Power Project,MS,33.6464,-88.2717,Natural Gas,Fair,Max Tower Capacity (MWe),74.1
+Cane Island Power Park,FL,28.2764,-81.533,Natural Gas,Good,Max Tower Capacity (MWe),15.4
+Chattahoochee Energy Facility,GA,33.407,-85.0387,Natural Gas,Fair,Max Tower Capacity (MWe),11.4
+"Choctaw Gas Generation, LLC",MS,33.3792,-89.2089,Natural Gas,Fair,Max Tower Capacity (MWe),11.3
+Chouteau,OK,36.2206,-95.2756,Natural Gas,Fair,Max Tower Capacity (MWe),6.4
+Cherokee County Cogeneration,SC,35.0727,-81.613,Natural Gas,Fair,Max Tower Capacity (MWe),10.8
+Colorado Bend Energy Center,TX,29.2878,-96.0683,Natural Gas,Fair,Max Tower Capacity (MWe),59.8
+Chouteau,OK,36.2206,-95.2756,Natural Gas,Fair,Max Tower Capacity (MWe),0.0
+Corpus Christi Energy Center,TX,27.8139,-97.4283,Natural Gas,Good,Max Tower Capacity (MWe),5.4
+Cottonwood Energy,TX,30.2588,-93.7353,Natural Gas,Good,Max Tower Capacity (MWe),42.8
+Evangeline Power Project,LA,30.8442,-92.2606,Natural Gas,Fair,Max Tower Capacity (MWe),71.7
+Forney Generating Facility,TX,32.7563,-96.4916,Natural Gas,Fair,Max Tower Capacity (MWe),246.8
+Fort Myers,FL,26.6967,-81.7831,Natural Gas,Good,Max Tower Capacity (MWe),14.9
+Franklin CC,AL,32.6094,-85.0961,Natural Gas,Fair,Max Tower Capacity (MWe),163.4
+Franklin CC,AL,32.6094,-85.0961,Natural Gas,Fair,Max Tower Capacity (MWe),76.3
+Freestone Energy Center,TX,31.8907,-96.1128,Natural Gas,Fair,Max Tower Capacity (MWe),35.4
+Frontera Generation Facility,TX,26.208,-98.3992,Natural Gas,Fair,Max Tower Capacity (MWe),13.0
+GenPower Anderson,SC,34.5299,-82.7122,Natural Gas,Fair,Max Tower Capacity (MWe),83.8
+GenPower Earleys,NC,36.305926,-76.986952,Natural Gas,Good,Max Tower Capacity (MWe),86.6
+GenPower Kelley,AL,33.5193,-86.8012,Natural Gas,Fair,Max Tower Capacity (MWe),171.8
+GenPower McIntosh,GA,32.3558,-81.1683,Natural Gas,Good,Max Tower Capacity (MWe),86.6
+Green Country Energy Project,OK,35.9833,-95.9346,Natural Gas,Good,Max Tower Capacity (MWe),95.0
+Guadalupe,TX,29.6237,-98.1395,Natural Gas,Good,Max Tower Capacity (MWe),34.3
+H L Culbreath Bayside,FL,27.9072,-82.4231,Natural Gas,Good,Max Tower Capacity (MWe),27.1
+Hidalgo Energy Center,TX,26.3417,-98.1757,Natural Gas,Good,Max Tower Capacity (MWe),21.2
+Hillabee Energy Center,AL,32.9346,-85.9597,Natural Gas,Fair,Max Tower Capacity (MWe),46.3
+Hinds Energy Facility,MS,32.412,-90.2315,Natural Gas,Fair,Max Tower Capacity (MWe),30.2
+Hines,FL,27.7886,-81.8694,Natural Gas,Good,Max Tower Capacity (MWe),38.4
+Ingleside Cogeneration,TX,27.8827,-97.2429,Natural Gas,Good,Max Tower Capacity (MWe),37.0
+Jack Energy Facility,TX,33.1691,-97.8246,Natural Gas,Good,Max Tower Capacity (MWe),82.3
+Jack Energy Facility,TX,33.1691,-97.8246,Natural Gas,Good,Max Tower Capacity (MWe),82.3
+Jasper County,SC,32.3592,-81.1236,Natural Gas,Good,Max Tower Capacity (MWe),103.4
+Johnson County,TX,32.3994,-97.4078,Natural Gas,Good,Max Tower Capacity (MWe),14.7
+Kiamichi Energy Facility,OK,34.6831,-95.9349,Natural Gas,Fair,Max Tower Capacity (MWe),176.7
+Lagoon Creek,TN,35.6578,-89.3964,Natural Gas,Good,Max Tower Capacity (MWe),44.8
+Lamar Power,TX,33.6314,-95.589,Natural Gas,Good,Max Tower Capacity (MWe),60.4
+Lansing Smith,FL,30.2689,-85.7003,Natural Gas,Good,Max Tower Capacity (MWe),9.9
+Limestone (TX),TX,31.4219,-96.2525,Natural Gas,Fair,Max Tower Capacity (MWe),22.0
+Lost Pines 1 Power Plant,TX,30.1478,-97.27,Natural Gas,Fair,Max Tower Capacity (MWe),8.4
+Louisiana 1,LA,30.4903,-91.1875,Natural Gas,Good,Max Tower Capacity (MWe),19.2
+Magic Valley Generating Station,TX,26.3403,-98.19,Natural Gas,Good,Max Tower Capacity (MWe),22.2
+Manatee,FL,27.6058,-82.3456,Natural Gas,Good,Max Tower Capacity (MWe),93.0
+Martin,FL,27.0536,-80.5628,Natural Gas,Good,Max Tower Capacity (MWe),92.9
+McClain Energy Facility,OK,35.2979,-97.5896,Natural Gas,Good,Max Tower Capacity (MWe),32.6
+McIntosh CC,GA,32.3558,-81.1683,Natural Gas,Good,Max Tower Capacity (MWe),152.3
+McWilliams,AL,31.4001,-86.4767,Natural Gas,Fair,Max Tower Capacity (MWe),11.8
+Moselle,MS,31.5289,-89.2992,Natural Gas,Good,Max Tower Capacity (MWe),36.0
+Mulberry Cogen,FL,27.8489,-81.8775,Natural Gas,Fair,Max Tower Capacity (MWe),8.3
+Nueces Bay,TX,27.80028,-97.39611,Natural Gas,Good,Max Tower Capacity (MWe),70.6
+Oneta Energy Center,OK,36.0119,-95.6967,Natural Gas,Fair,Max Tower Capacity (MWe),308.0
+Osprey Energy Center,FL,28.0525,-81.8083,Natural Gas,Fair,Max Tower Capacity (MWe),10.8
+Ouachita Power,LA,32.7056,-92.0697,Natural Gas,Fair,Max Tower Capacity (MWe),93.9
+Oyster Creek Unit VIII,TX,28.9455,-95.3149,Natural Gas,Fair,Max Tower Capacity (MWe),9.0
+Paris Energy Center,TX,33.6968,-95.5577,Natural Gas,Fair,Max Tower Capacity (MWe),10.0
+Perryville,LA,32.6914,-92.0192,Natural Gas,Fair,Max Tower Capacity (MWe),26.1
+PowerSmith Cogen Project,OK,35.4401,-97.6498,Natural Gas,Fair,Max Tower Capacity (MWe),13.3
+Rainey Generating Station,SC,34.3477,-82.776,Natural Gas,Fair,Max Tower Capacity (MWe),24.5
+Redbud Energy,OK,35.6853,-97.2242,Natural Gas,Fair,Max Tower Capacity (MWe),173.4
+Richmond County,NC,34.8422,-79.7444,Natural Gas,Fair,Max Tower Capacity (MWe),16.5
+Rio Nogales Power Project,TX,29.5932,-97.9724,Natural Gas,Fair,Max Tower Capacity (MWe),108.2
+S O Purdom,FL,30.1619,-84.2014,Natural Gas,Good,Max Tower Capacity (MWe),6.9
+Sand Hill Energy Center,TX,30.2091,-97.6139,Natural Gas,Good,Max Tower Capacity (MWe),47.7
+Southaven Energy Center,MS,34.9597,-89.9817,Natural Gas,Fair,Max Tower Capacity (MWe),93.8
+Southeast Generating Station,FL,30.1546,-81.5055,Natural Gas,Good,Max Tower Capacity (MWe),38.6
+Stanton CC,FL,28.4836,-81.1686,Natural Gas,Fair,Max Tower Capacity (MWe),13.5
+Taft Cogeneration Facility,LA,29.9861,-90.4575,Natural Gas,Good,Max Tower Capacity (MWe),88.9
+Tenaska Frontier,TX,30.5924,-95.9178,Natural Gas,Good,Max Tower Capacity (MWe),111.5
+Tenaska Gateway,TX,32.0164,-94.6189,Natural Gas,Fair,Max Tower Capacity (MWe),111.4
+Treasure Coast Energy Center,FL,27.44639,-80.32584,Natural Gas,Good,Max Tower Capacity (MWe),52.7
+Turkey Point,FL,25.4356,-80.3308,Natural Gas,Good,Max Tower Capacity (MWe),18.0
+Victor J. Daniel Jr.,MS,30.5335,-88.5574,Natural Gas,Good,Max Tower Capacity (MWe),19.0
+Von Rosenburg,TX,29.2575,-98.3828,Natural Gas,Fair,Max Tower Capacity (MWe),24.8
+Wansley CC,GA,33.4124,-85.0345,Natural Gas,Fair,Max Tower Capacity (MWe),20.1
+West County Energy Center,FL,26.65833,-80.24167,Natural Gas,Good,Max Tower Capacity (MWe),120.8
+Wansley Unit 9,GA,33.4082,-85.0399,Natural Gas,Fair,Max Tower Capacity (MWe),53.1
+Wise County Power Company,TX,33.0583,-97.9103,Natural Gas,Good,Max Tower Capacity (MWe),19.8
+Pine Bluff Energy Center,AR,34.2181,-91.9025,Natural Gas,Good,Max Tower Capacity (MWe),32.0
+Harry L Oswald Power Facility,AR,34.5923,-92.2166,Natural Gas,Fair,Max Tower Capacity (MWe),76.0
+KGen Hot Spring,AR,34.2963,-92.8683,Natural Gas,Fair,Max Tower Capacity (MWe),60.0
+Union Power,AR,33.2961,-92.5933,Natural Gas,Fair,Max Tower Capacity (MWe),332.0
+Harrison County Power Project,TX,32.3958,-94.4361,Natural Gas,Fair,Max Tower Capacity (MWe),58.7
+TS Power Plant,NV,40.6422,-116.937,Coal,Good,Max Trough Capacity (MWe),16.4
+Desert Rock,NM,36.5435,-108.2235,Coal,Good,Max Trough Capacity (MWe),111.6
+Oak Grove Project,TX,31.0494,-96.4813,Coal,Good,Max Trough Capacity (MWe),140.4
+Tenaska Trailblazer Energy Center,TX,32.8043,-100.158,Coal,Good,Max Trough Capacity (MWe),44.6
+Rio Bravo Jasmin,CA,35.7415,-119.0512,Coal,Good,Max Trough Capacity (MWe),2.5
+Savannah Mill,GA,32.3683,-81.3413,Coal,Good,Max Trough Capacity (MWe),5.3
+E S Joslin,TX,28.67945,-96.56,Coal,Good,Max Trough Capacity (MWe),22.5
+Sandy Creek,TX,31.5031,-96.9602,Coal,Good,Max Trough Capacity (MWe),66.9
+Shady Point,OK,35.1931,-94.6458,Coal,Good,Max Trough Capacity (MWe),26.0
+"Jefferson Smurfit Nassau County,  FL",FL,30.6833,-81.4592,Coal,Good,Max Trough Capacity (MWe),5.5
+Limestone (TX),TX,31.4219,-96.2525,Coal,Good,Max Trough Capacity (MWe),137.3
+Rio Bravo Poso,CA,35.5556,-119.0832,Coal,Fair,Max Trough Capacity (MWe),2.8
+Cholla,AZ,34.9394,-110.3033,Coal,Excellent,Max Trough Capacity (MWe),54.0
+Southport NC,NC,33.9444,-78.0125,Coal,Fair,Max Trough Capacity (MWe),10.0
+W A Parish,TX,29.4828,-95.6311,Coal,Good,Max Trough Capacity (MWe),91.4
+J K Spruce,TX,29.3091,-98.3205,Coal,Good,Max Trough Capacity (MWe),103.1
+Charles R Lowman,AL,31.4858,-87.9106,Coal,Fair,Max Trough Capacity (MWe),17.6
+Stockton Cogen,CA,37.9119,-121.2611,Coal,Good,Max Trough Capacity (MWe),4.5
+Valmy,NV,40.8831,-117.1542,Coal,Good,Max Trough Capacity (MWe),42.2
+Valmy,NV,40.8831,-117.1542,Coal,Good,Max Trough Capacity (MWe),37.2
+Intermountain,UT,39.5108,-112.5792,Coal,Good,Max Trough Capacity (MWe),122.0
+UNC - Chapel Hill,NC,35.9069,-79.0617,Coal,Fair,Max Trough Capacity (MWe),3.9
+Hunter,UT,39.1747,-111.0289,Coal,Good,Max Trough Capacity (MWe),73.2
+Victor J. Daniel Jr.,MS,30.5335,-88.5574,Coal,Good,Max Trough Capacity (MWe),40.8
+Stanton Energy Center,FL,28.4836,-81.1686,Coal,Fair,Max Trough Capacity (MWe),12.6
+Mayo,NC,36.5278,-78.8917,Coal,Fair,Max Trough Capacity (MWe),54.7
+Rocky Mount,NC,36.0378,-77.7542,Coal,Good,Max Trough Capacity (MWe),8.6
+Roxboro,NC,36.4833,-79.0731,Coal,Fair,Max Trough Capacity (MWe),55.4
+Indiantown Cogeneration Facility,FL,27.0393,-80.5144,Coal,Good,Max Trough Capacity (MWe),29.4
+San Miguel,TX,28.7044,-98.4781,Coal,Good,Max Trough Capacity (MWe),30.5
+Big Bend,FL,27.7944,-82.4036,Coal,Good,Max Trough Capacity (MWe),36.1
+Bonanza,UT,40.0864,-109.2844,Coal,Good,Max Trough Capacity (MWe),37.2
+C D McIntosh Jr,FL,28.0809,-81.9256,Coal,Fair,Max Trough Capacity (MWe),27.1
+Comanche (CO),CO,38.2081,-104.5747,Coal,Good,Max Trough Capacity (MWe),61.0
+Cross,SC,33.3692,-80.1119,Coal,Good,Max Trough Capacity (MWe),92.5
+Crystal River,FL,28.9594,-82.7003,Coal,Fair,Max Trough Capacity (MWe),98.6
+Deerhaven,FL,29.7586,-82.3883,Coal,Good,Max Trough Capacity (MWe),18.7
+Dolet Hills,LA,32.0306,-93.5692,Coal,Fair,Max Trough Capacity (MWe),53.6
+Escalante,NM,35.4159,-108.082,Coal,Good,Max Trough Capacity (MWe),19.1
+Fayette Power Project,TX,29.9172,-96.7506,Coal,Fair,Max Trough Capacity (MWe),90.0
+Florence Mill,SC,34.1519,-79.5587,Coal,Good,Max Trough Capacity (MWe),5.9
+GRDA,OK,36.1906,-95.2889,Coal,Fair,Max Trough Capacity (MWe),75.1
+Hugo,OK,34.0158,-95.3206,Coal,Good,Max Trough Capacity (MWe),33.2
+Muskogee,OK,35.7617,-95.2847,Coal,Fair,Max Trough Capacity (MWe),42.4
+Northeastern,OK,36.4317,-95.7008,Coal,Good,Max Trough Capacity (MWe),35.2
+Nucla,CO,38.2387,-108.5083,Coal,Good,Max Trough Capacity (MWe),5.9
+Pawnee,CO,40.2217,-103.6803,Coal,Fair,Max Trough Capacity (MWe),41.1
+Pirkey,TX,32.4607,-94.4852,Coal,Fair,Max Trough Capacity (MWe),53.6
+Rawhide,CO,40.8611,-105.0206,Coal,Good,Max Trough Capacity (MWe),21.8
+Ray D Nixon,CO,38.6306,-104.7056,Coal,Good,Max Trough Capacity (MWe),15.4
+Red Hills,MS,33.3761,-89.2183,Coal,Fair,Max Trough Capacity (MWe),38.2
+Reid Gardner,NV,36.6531,-114.6364,Coal,Excellent,Max Trough Capacity (MWe),21.9
+Roanoke Valley I,NC,36.4364,-77.6167,Coal,Good,Max Trough Capacity (MWe),13.6
+Roanoke Valley II,NC,36.4364,-77.6167,Coal,Good,Max Trough Capacity (MWe),4.3
+Roxboro NC,NC,36.435,-78.9619,Coal,Fair,Max Trough Capacity (MWe),5.0
+Sandow,TX,30.5642,-97.0639,Coal,Fair,Max Trough Capacity (MWe),44.0
+Welsh,TX,33.0583,-94.844,Coal,Fair,Max Trough Capacity (MWe),83.0
+Winyah,SC,33.3303,-79.3611,Coal,Good,Max Trough Capacity (MWe),46.8
+Coronado,AZ,34.5778,-109.2717,Coal,Excellent,Max Trough Capacity (MWe),30.6
+Sooner,OK,36.4537,-97.0527,Coal,Fair,Max Trough Capacity (MWe),42.3
+Springerville,AZ,34.3186,-109.1636,Coal,Excellent,Max Trough Capacity (MWe),130.2
+Coleto Creek,TX,28.7128,-97.2142,Coal,Good,Max Trough Capacity (MWe),44.7
+Coleto Creek,TX,28.7128,-97.2142,Coal,Good,Max Trough Capacity (MWe),44.7
+"Colorado Energy Nations Company, LLP",CO,39.7606,-105.215,Coal,Good,Max Trough Capacity (MWe),1.5
+Tolk,TX,34.1847,-102.5686,Coal,Good,Max Trough Capacity (MWe),84.4
+Washington County Power Station,GA,33.0917,-82.9803,Coal,Fair,Max Trough Capacity (MWe),63.2
+"Rodemacher (Rapides Parish, LA)",LA,31.395,-92.7167,Coal,Good,Max Trough Capacity (MWe),41.5
+St Johns River Power,FL,30.4311,-81.5508,Coal,Good,Max Trough Capacity (MWe),99.9
+Seminole (FL),FL,29.7333,-81.6339,Coal,Good,Max Trough Capacity (MWe),106.2
+Craig (CO),CO,40.4627,-107.5912,Coal,Good,Max Trough Capacity (MWe),66.4
+James H. Miller Jr.,AL,33.6319,-87.0597,Coal,Fair,Max Trough Capacity (MWe),155.4
+Oklaunion,TX,34.0825,-99.1753,Coal,Fair,Max Trough Capacity (MWe),53.6
+Central Power & Lime,FL,28.5814,-82.4303,Coal,Good,Max Trough Capacity (MWe),9.3
+Big Cajun 2,LA,30.7261,-91.3669,Coal,Good,Max Trough Capacity (MWe),139.2
+San Juan,NM,36.8006,-108.4386,Coal,Good,Max Trough Capacity (MWe),41.3
+Scherer,GA,33.0583,-83.8072,Coal,Fair,Max Trough Capacity (MWe),263.9
+Gibbons Creek,TX,30.6167,-96.0778,Coal,Good,Max Trough Capacity (MWe),33.7
+Harrington,TX,35.2972,-101.7475,Coal,Good,Max Trough Capacity (MWe),26.8
+Twin Oaks Power,TX,31.0932,-96.6965,Coal,Good,Max Trough Capacity (MWe),26.0
+Navajo,AZ,36.9047,-111.3886,Coal,Good,Max Trough Capacity (MWe),158.3
+Muskogee Mill,OK,35.7322,-95.2939,Coal,Good,Max Trough Capacity (MWe),3.3
+Sandow (Alcoa),TX,30.5642,-97.0639,Coal,Good,Max Trough Capacity (MWe),49.2
+Longleaf,GA,31.1844,-85.0359,Coal,Good,Max Trough Capacity (MWe),89.2
+Whelan Energy Center,NE,40.5806,-98.3106,Coal,Fair,Max Trough Capacity (MWe),16.0
+Dry Fork Station,WY,44.291092,-105.502221,Coal,Fair,Max Trough Capacity (MWe),29.0
+Plum Point Energy,AR,35.6763,-90.0131,Coal,Good,Max Trough Capacity (MWe),54.0
+Holcomb East,KS,37.9306,-100.9725,Coal,Good,Max Trough Capacity (MWe),26.0
+Independence (AR),AR,35.6733,-91.4083,Coal,Good,Max Trough Capacity (MWe),126.0
+Jeffrey Energy Center,KS,39.2825,-96.1153,Coal,Fair,Max Trough Capacity (MWe),52.0
+Wygen III,WY,44.287,-105.387,Coal,Good,Max Trough Capacity (MWe),9.0
+Gerald Gentleman,NE,41.0808,-101.1408,Coal,Good,Max Trough Capacity (MWe),52.0
+Nebraska City,NE,40.6215,-95.7765,Coal,Good,Max Trough Capacity (MWe),51.0
+Platte,NE,40.8538,-98.3481,Coal,Good,Max Trough Capacity (MWe),8.0
+Laramie River,WY,42.1103,-104.8828,Coal,Good,Max Trough Capacity (MWe),42.0
+Neil Simpson II,WY,44.2853,-105.3841,Coal,Fair,Max Trough Capacity (MWe),6.0
+Wygen,WY,44.2862,-105.3843,Coal,Good,Max Trough Capacity (MWe),7.0
+Wygen II,WY,44.2911,-105.3815,Coal,Good,Max Trough Capacity (MWe),7.0
+Holcomb East,KS,37.986135,-100.989333,Coal,Good,Max Trough Capacity (MWe),67.0
+John W Turk Jr Power Plant,AR,33.614565,-93.813516,Coal,Good,Max Trough Capacity (MWe),45.0
+Afton,NM,32.1134,-106.848,Natural Gas,Excellent,Max Trough Capacity (MWe),18.7
+Allen,NV,36.425,-114.9,Natural Gas,Excellent,Max Trough Capacity (MWe),38.4
+Apex Industrial Park,NV,36.4178,-114.9622,Natural Gas,Excellent,Max Trough Capacity (MWe),63.8
+Arlington Valley Energy,AZ,33.3417,-112.8897,Natural Gas,Good,Max Trough Capacity (MWe),80.7
+Avenal,CA,36.00417,-120.1281,Natural Gas,Good,Max Trough Capacity (MWe),73.2
+Bluffview,NM,36.7164,-108.2153,Natural Gas,Good,Max Trough Capacity (MWe),5.9
+Blythe Energy Power Plant,CA,33.6157,-114.6865,Natural Gas,Excellent,Max Trough Capacity (MWe),39.8
+Bowie Power Station,AZ,32.3225,-109.4872,Natural Gas,Excellent,Max Trough Capacity (MWe),16.6
+Brush,CO,40.2403,-103.6225,Natural Gas,Good,Max Trough Capacity (MWe),27.2
+Chuck Lenzie Generating Station,NV,36.3853,-114.9228,Natural Gas,Excellent,Max Trough Capacity (MWe),161.0
+Clark (NV),NV,36.0875,-115.0507,Natural Gas,Good,Max Trough Capacity (MWe),10.9
+Wolf Hollow,TX,32.3347,-97.7344,Natural Gas,Fair,Max Trough Capacity (MWe),14.1
+Colusa CC,CA,39.1019,-122.1113,Natural Gas,Good,Max Trough Capacity (MWe),74.0
+Cosumnes Power Plant,CA,38.3461,-121.1217,Natural Gas,Good,Max Trough Capacity (MWe),18.4
+Currant Creek,UT,39.8223,-111.894,Natural Gas,Good,Max Trough Capacity (MWe),58.5
+Desert Basin Generating,AZ,32.9042,-111.7889,Natural Gas,Excellent,Max Trough Capacity (MWe),70.0
+Elk Hills Power,CA,35.2803,-119.311,Natural Gas,Good,Max Trough Capacity (MWe),23.7
+Fort St Vrain,CO,40.2461,-104.8742,Natural Gas,Good,Max Trough Capacity (MWe),80.5
+Front Range Power,CO,38.6281,-104.7069,Natural Gas,Good,Max Trough Capacity (MWe),61.6
+Gateway Generating Station,CA,38.0051,-121.8049,Natural Gas,Good,Max Trough Capacity (MWe),9.3
+Gila River Project,AZ,32.9761,-112.694,Natural Gas,Excellent,Max Trough Capacity (MWe),283.2
+Griffith Generating Station,AZ,35.0517,-114.1334,Natural Gas,Excellent,Max Trough Capacity (MWe),71.4
+Harquahala,AZ,33.4759,-113.1133,Natural Gas,Excellent,Max Trough Capacity (MWe),52.2
+Haynes,CA,33.7639,-118.0942,Natural Gas,Fair,Max Trough Capacity (MWe),40.8
+Haynes,CA,33.7639,-118.0942,Natural Gas,Fair,Max Trough Capacity (MWe),18.0
+High Desert Power Project,CA,34.5953,-117.3647,Natural Gas,Excellent,Max Trough Capacity (MWe),63.8
+Hobbs Generating Station,NM,32.7798,-103.2156,Natural Gas,Good,Max Trough Capacity (MWe),74.3
+J Robert Massengale,TX,33.6039,-101.8408,Natural Gas,Good,Max Trough Capacity (MWe),8.0
+Lake Side Power,UT,40.3311,-111.7547,Natural Gas,Good,Max Trough Capacity (MWe),37.6
+Lodi,CA,38.1562,-121.2975,Natural Gas,Good,Max Trough Capacity (MWe),6.1
+Los Esteros Critical Energy Facility,CA,37.425,-121.9319,Natural Gas,Good,Max Trough Capacity (MWe),25.2
+Luna Energy Facility,NM,32.2983,-107.78,Natural Gas,Excellent,Max Trough Capacity (MWe),70.3
+Mesquite Power,AZ,33.344,-112.8535,Natural Gas,Excellent,Max Trough Capacity (MWe),151.0
+Metcalf Energy Center,CA,37.2169,-121.7439,Natural Gas,Good,Max Trough Capacity (MWe),31.1
+Nebo Power Station,UT,40.0614,-111.7294,Natural Gas,Good,Max Trough Capacity (MWe),13.0
+Newman,TX,31.9858,-106.4322,Natural Gas,Good,Max Trough Capacity (MWe),34.7
+Odessa-Ector Power Project,TX,31.8378,-102.3278,Natural Gas,Good,Max Trough Capacity (MWe),90.4
+Palmdale Hybrid Power Project | solar trough hybrid,CA,34.6416,-118.1263,Natural Gas,Good,Max Trough Capacity (MWe),63.0
+Pastoria Energy Center,CA,34.9556,-118.844,Natural Gas,Good,Max Trough Capacity (MWe),20.7
+Quail Run,TX,31.8414,-102.315,Natural Gas,Good,Max Trough Capacity (MWe),62.0
+Redding,CA,40.5083,-122.4253,Natural Gas,Fair,Max Trough Capacity (MWe),5.8
+Redhawk,AZ,33.33,-112.84,Natural Gas,Excellent,Max Trough Capacity (MWe),20.1
+Rocky Mountain Energy Center,CO,40.0911,-104.5947,Natural Gas,Good,Max Trough Capacity (MWe),74.2
+Roseville Energy Park,CA,38.7926,-121.3823,Natural Gas,Good,Max Trough Capacity (MWe),17.1
+Russell City Energy Center,CA,37.6276,-122.1046,Natural Gas,Fair,Max Trough Capacity (MWe),18.5
+San Bernardino,CA,34.0027,-117.2405,Natural Gas,Good,Max Trough Capacity (MWe),76.6
+Santan,AZ,33.3333,-111.751,Natural Gas,Excellent,Max Trough Capacity (MWe),94.2
+Silverhawk Power Project,NV,36.4078,-114.9603,Natural Gas,Excellent,Max Trough Capacity (MWe),60.9
+South Point Energy Center,AZ,34.8764,-114.5297,Natural Gas,Excellent,Max Trough Capacity (MWe),11.9
+Sunrise Power Project,CA,35.2097,-119.585,Natural Gas,Good,Max Trough Capacity (MWe),68.0
+Sutter Power,CA,39.0531,-121.6939,Natural Gas,Good,Max Trough Capacity (MWe),5.3
+Tesla Generating Station,CA,37.6803,-121.7717,Natural Gas,Good,Max Trough Capacity (MWe),76.7
+Tracy (NV),NV,39.5625,-119.525,Natural Gas,Good,Max Trough Capacity (MWe),25.0
+Tracy Peaker Project,CA,37.7107,-121.4906,Natural Gas,Good,Max Trough Capacity (MWe),34.3
+Valley (CA),CA,34.2481,-118.3903,Natural Gas,Fair,Max Trough Capacity (MWe),19.7
+Victorville 2 Hybrid,CA,34.639705,-117.364883,Natural Gas,Excellent,Max Trough Capacity (MWe),62.4
+Walnut Energy Center,CA,37.4903,-120.9071,Natural Gas,Good,Max Trough Capacity (MWe),14.4
+Walter M. Higgins Generating Station,NV,35.6139,-115.3561,Natural Gas,Excellent,Max Trough Capacity (MWe),72.0
+Carty Generating Station,OR,45.839855,-119.700583,Natural Gas,Good,Max Trough Capacity (MWe),41.0
+West Phoenix,AZ,33.4417,-112.1583,Natural Gas,Excellent,Max Trough Capacity (MWe),15.7
+Woodland,CA,37.6528,-121.0172,Natural Gas,Good,Max Trough Capacity (MWe),6.6
+Klamath Cogeneration Project,OR,42.1739,-121.8106,Natural Gas,Good,Max Trough Capacity (MWe),60.0
+Langley Gulch Power Plant,ID,43.969886,-116.81904,Natural Gas,Good,Max Trough Capacity (MWe),35.0
+Rathdrum Power LLC,ID,47.7861,-116.9214,Natural Gas,Fair,Max Trough Capacity (MWe),25.0
+Coyote Springs II,OR,45.8478,-119.6738,Natural Gas,Fair,Max Trough Capacity (MWe),18.0
+Hermiston Power Project,OR,45.7931,-119.3117,Natural Gas,Fair,Max Trough Capacity (MWe),64.0
+Cass County,NE,40.9472,-95.9667,Natural Gas,Fair,Max Trough Capacity (MWe),22.0
+Coyote Springs,OR,45.8486,-119.6744,Natural Gas,Fair,Max Trough Capacity (MWe),31.0
+Hermiston Generating Plant,OR,45.8042,-119.37,Natural Gas,Fair,Max Trough Capacity (MWe),72.0
+Cheyenne Power Plant,WY,41.139981,-104.820246,Natural Gas,Good,Max Trough Capacity (MWe),15.0
+Arvah B Hopkins,FL,30.4522,-84.4,Natural Gas,Fair,Max Trough Capacity (MWe),37.3
+Attala Generating Plant,MS,33.0142,-89.6758,Natural Gas,Fair,Max Trough Capacity (MWe),17.9
+Autaugaville,AL,32.391885,-86.571064,Natural Gas,Fair,Max Trough Capacity (MWe),147.2
+Barney M Davis,TX,27.6067,-97.3119,Natural Gas,Good,Max Trough Capacity (MWe),76.5
+Barry,AL,31.0069,-88.0103,Natural Gas,Good,Max Trough Capacity (MWe),44.6
+Bastrop Energy Center,TX,30.1458,-97.55,Natural Gas,Fair,Max Trough Capacity (MWe),54.6
+Batesville Generation Facility,MS,34.3345,-89.9272,Natural Gas,Fair,Max Trough Capacity (MWe),53.1
+Bosque County,TX,31.8594,-97.3586,Natural Gas,Fair,Max Trough Capacity (MWe),15.8
+Brandy Branch,FL,30.3206,-81.9486,Natural Gas,Good,Max Trough Capacity (MWe),37.5
+Brazos Valley Project,TX,29.4731,-95.6244,Natural Gas,Good,Max Trough Capacity (MWe),62.8
+Caledonia Power Project,MS,33.6464,-88.2717,Natural Gas,Fair,Max Trough Capacity (MWe),64.5
+Cane Island Power Park,FL,28.2764,-81.533,Natural Gas,Good,Max Trough Capacity (MWe),13.9
+Chattahoochee Energy Facility,GA,33.407,-85.0387,Natural Gas,Fair,Max Trough Capacity (MWe),10.6
+"Choctaw Gas Generation, LLC",MS,33.3792,-89.2089,Natural Gas,Fair,Max Trough Capacity (MWe),10.6
+Chouteau,OK,36.2206,-95.2756,Natural Gas,Fair,Max Trough Capacity (MWe),6.0
+Cherokee County Cogeneration,SC,35.0727,-81.613,Natural Gas,Fair,Max Trough Capacity (MWe),0.0
+Colorado Bend Energy Center,TX,29.2878,-96.0683,Natural Gas,Fair,Max Trough Capacity (MWe),40.5
+Chouteau,OK,36.2206,-95.2756,Natural Gas,Fair,Max Trough Capacity (MWe),0.0
+Corpus Christi Energy Center,TX,27.8139,-97.4283,Natural Gas,Good,Max Trough Capacity (MWe),5.1
+Cottonwood Energy,TX,30.2588,-93.7353,Natural Gas,Good,Max Trough Capacity (MWe),35.6
+Evangeline Power Project,LA,30.8442,-92.2606,Natural Gas,Fair,Max Trough Capacity (MWe),63.4
+Forney Generating Facility,TX,32.7563,-96.4916,Natural Gas,Fair,Max Trough Capacity (MWe),205.8
+Fort Myers,FL,26.6967,-81.7831,Natural Gas,Good,Max Trough Capacity (MWe),14.0
+Franklin CC,AL,32.6094,-85.0961,Natural Gas,Fair,Max Trough Capacity (MWe),140.4
+Franklin CC,AL,32.6094,-85.0961,Natural Gas,Fair,Max Trough Capacity (MWe),65.5
+Freestone Energy Center,TX,31.8907,-96.1128,Natural Gas,Fair,Max Trough Capacity (MWe),32.6
+Frontera Generation Facility,TX,26.208,-98.3992,Natural Gas,Fair,Max Trough Capacity (MWe),12.0
+GenPower Anderson,SC,34.5299,-82.7122,Natural Gas,Fair,Max Trough Capacity (MWe),69.7
+GenPower Earleys,NC,36.305926,-76.986952,Natural Gas,Good,Max Trough Capacity (MWe),72.0
+GenPower Kelley,AL,33.5193,-86.8012,Natural Gas,Fair,Max Trough Capacity (MWe),143.0
+GenPower McIntosh,GA,32.3558,-81.1683,Natural Gas,Good,Max Trough Capacity (MWe),72.0
+Green Country Energy Project,OK,35.9833,-95.9346,Natural Gas,Good,Max Trough Capacity (MWe),82.2
+Guadalupe,TX,29.6237,-98.1395,Natural Gas,Good,Max Trough Capacity (MWe),50.8
+H L Culbreath Bayside,FL,27.9072,-82.4231,Natural Gas,Good,Max Trough Capacity (MWe),33.4
+Hidalgo Energy Center,TX,26.3417,-98.1757,Natural Gas,Good,Max Trough Capacity (MWe),19.5
+Hillabee Energy Center,AL,32.9346,-85.9597,Natural Gas,Fair,Max Trough Capacity (MWe),41.8
+Hinds Energy Facility,MS,32.412,-90.2315,Natural Gas,Fair,Max Trough Capacity (MWe),27.2
+Hines,FL,27.7886,-81.8694,Natural Gas,Good,Max Trough Capacity (MWe),35.1
+Ingleside Cogeneration,TX,27.8827,-97.2429,Natural Gas,Good,Max Trough Capacity (MWe),33.1
+Jack Energy Facility,TX,33.1691,-97.8246,Natural Gas,Good,Max Trough Capacity (MWe),68.6
+Jack Energy Facility,TX,33.1691,-97.8246,Natural Gas,Good,Max Trough Capacity (MWe),68.6
+Jasper County,SC,32.3592,-81.1236,Natural Gas,Good,Max Trough Capacity (MWe),89.3
+Johnson County,TX,32.3994,-97.4078,Natural Gas,Good,Max Trough Capacity (MWe),13.4
+Kiamichi Energy Facility,OK,34.6831,-95.9349,Natural Gas,Fair,Max Trough Capacity (MWe),147.8
+Lagoon Creek,TN,35.6578,-89.3964,Natural Gas,Good,Max Trough Capacity (MWe),39.8
+Lamar Power,TX,33.6314,-95.589,Natural Gas,Good,Max Trough Capacity (MWe),54.2
+Lansing Smith,FL,30.2689,-85.7003,Natural Gas,Good,Max Trough Capacity (MWe),9.2
+Limestone (TX),TX,31.4219,-96.2525,Natural Gas,Fair,Max Trough Capacity (MWe),59.5
+Lost Pines 1 Power Plant,TX,30.1478,-97.27,Natural Gas,Fair,Max Trough Capacity (MWe),7.9
+Louisiana 1,LA,30.4903,-91.1875,Natural Gas,Good,Max Trough Capacity (MWe),17.4
+Magic Valley Generating Station,TX,26.3403,-98.19,Natural Gas,Good,Max Trough Capacity (MWe),20.6
+Manatee,FL,27.6058,-82.3456,Natural Gas,Good,Max Trough Capacity (MWe),82.6
+Martin,FL,27.0536,-80.5628,Natural Gas,Good,Max Trough Capacity (MWe),82.0
+McClain Energy Facility,OK,35.2979,-97.5896,Natural Gas,Good,Max Trough Capacity (MWe),29.2
+McIntosh CC,GA,32.3558,-81.1683,Natural Gas,Good,Max Trough Capacity (MWe),130.6
+McWilliams,AL,31.4001,-86.4767,Natural Gas,Fair,Max Trough Capacity (MWe),11.0
+Moselle,MS,31.5289,-89.2992,Natural Gas,Good,Max Trough Capacity (MWe),29.8
+Mulberry Cogen,FL,27.8489,-81.8775,Natural Gas,Fair,Max Trough Capacity (MWe),7.4
+Nueces Bay,TX,27.80028,-97.39611,Natural Gas,Good,Max Trough Capacity (MWe),66.1
+Oneta Energy Center,OK,36.0119,-95.6967,Natural Gas,Fair,Max Trough Capacity (MWe),130.2
+Osprey Energy Center,FL,28.0525,-81.8083,Natural Gas,Fair,Max Trough Capacity (MWe),8.9
+Ouachita Power,LA,32.7056,-92.0697,Natural Gas,Fair,Max Trough Capacity (MWe),81.3
+Oyster Creek Unit VIII,TX,28.9455,-95.3149,Natural Gas,Fair,Max Trough Capacity (MWe),7.0
+Paris Energy Center,TX,33.6968,-95.5577,Natural Gas,Fair,Max Trough Capacity (MWe),9.1
+Perryville,LA,32.6914,-92.0192,Natural Gas,Fair,Max Trough Capacity (MWe),23.9
+PowerSmith Cogen Project,OK,35.4401,-97.6498,Natural Gas,Fair,Max Trough Capacity (MWe),11.5
+Rainey Generating Station,SC,34.3477,-82.776,Natural Gas,Fair,Max Trough Capacity (MWe),22.3
+Redbud Energy,OK,35.6853,-97.2242,Natural Gas,Fair,Max Trough Capacity (MWe),144.8
+Richmond County,NC,34.8422,-79.7444,Natural Gas,Fair,Max Trough Capacity (MWe),15.2
+Rio Nogales Power Project,TX,29.5932,-97.9724,Natural Gas,Fair,Max Trough Capacity (MWe),92.2
+S O Purdom,FL,30.1619,-84.2014,Natural Gas,Good,Max Trough Capacity (MWe),6.4
+Sand Hill Energy Center,TX,30.2091,-97.6139,Natural Gas,Good,Max Trough Capacity (MWe),39.7
+Southaven Energy Center,MS,34.9597,-89.9817,Natural Gas,Fair,Max Trough Capacity (MWe),81.3
+Southeast Generating Station,FL,30.1546,-81.5055,Natural Gas,Good,Max Trough Capacity (MWe),34.6
+Stanton CC,FL,28.4836,-81.1686,Natural Gas,Fair,Max Trough Capacity (MWe),13.1
+Taft Cogeneration Facility,LA,29.9861,-90.4575,Natural Gas,Good,Max Trough Capacity (MWe),76.2
+Tenaska Frontier,TX,30.5924,-95.9178,Natural Gas,Good,Max Trough Capacity (MWe),94.9
+Tenaska Gateway,TX,32.0164,-94.6189,Natural Gas,Fair,Max Trough Capacity (MWe),94.8
+Treasure Coast Energy Center,FL,27.44639,-80.32584,Natural Gas,Good,Max Trough Capacity (MWe),43.8
+Turkey Point,FL,25.4356,-80.3308,Natural Gas,Good,Max Trough Capacity (MWe),20.4
+Victor J. Daniel Jr.,MS,30.5335,-88.5574,Natural Gas,Good,Max Trough Capacity (MWe),17.8
+Von Rosenburg,TX,29.2575,-98.3828,Natural Gas,Fair,Max Trough Capacity (MWe),22.7
+Wansley CC,GA,33.4124,-85.0345,Natural Gas,Fair,Max Trough Capacity (MWe),18.8
+West County Energy Center,FL,26.65833,-80.24167,Natural Gas,Good,Max Trough Capacity (MWe),105.0
+Wansley Unit 9,GA,33.4082,-85.0399,Natural Gas,Fair,Max Trough Capacity (MWe),46.3
+Wise County Power Company,TX,33.0583,-97.9103,Natural Gas,Good,Max Trough Capacity (MWe),18.4
+Pine Bluff Energy Center,AR,34.2181,-91.9025,Natural Gas,Good,Max Trough Capacity (MWe),27.0
+Harry L Oswald Power Facility,AR,34.5923,-92.2166,Natural Gas,Fair,Max Trough Capacity (MWe),64.0
+KGen Hot Spring,AR,34.2963,-92.8683,Natural Gas,Fair,Max Trough Capacity (MWe),53.0
+Union Power,AR,33.2961,-92.5933,Natural Gas,Fair,Max Trough Capacity (MWe),276.0
+Harrison County Power Project,TX,32.3958,-94.4361,Natural Gas,Fair,Max Trough Capacity (MWe),0.0

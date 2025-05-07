@@ -1,0 +1,348 @@
+period,seriesId,seriesDescription,stateId,stateDescription,value,unit,Outlier
+2022,RETCB,Renewable energy total consumption,US,United States,8090779,Billion Btu,True
+2022,RETCB,Renewable energy total consumption,TX,Texas,742759,Billion Btu,True
+2022,RETCB,Renewable energy total consumption,IA,Iowa,417911,Billion Btu,True
+2022,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,33130,Billion Btu,True
+2022,RERCB,Renewable energy sources consumed by the residential sector,CA,California,93435,Billion Btu,True
+2022,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,43402,Billion Btu,True
+2022,RETCB,Renewable energy total consumption,WA,Washington,426074,Billion Btu,True
+2022,RERCB,Renewable energy sources consumed by the residential sector,US,United States,661743,Billion Btu,True
+2022,RETCB,Renewable energy total consumption,CA,California,881980,Billion Btu,True
+2022,REPRB,Renewable energy production,IA,Iowa,770984,Billion Btu,True
+2022,REPRB,Renewable energy production,CA,California,543231,Billion Btu,True
+2022,REPRB,Renewable energy production,WA,Washington,419010,Billion Btu,True
+2022,REPRB,Renewable energy production,US,United States,8307342,Billion Btu,True
+2022,REPRB,Renewable energy production,TX,Texas,654921,Billion Btu,True
+2021,REPRB,Renewable energy production,TX,Texas,557242,Billion Btu,True
+2021,REPRB,Renewable energy production,IA,Iowa,748411,Billion Btu,True
+2021,REPRB,Renewable energy production,US,United States,7807302,Billion Btu,True
+2021,REPRB,Renewable energy production,WA,Washington,396579,Billion Btu,True
+2021,RETCB,Renewable energy total consumption,TX,Texas,652838,Billion Btu,True
+2021,RETCB,Renewable energy total consumption,US,United States,7644235,Billion Btu,True
+2021,RERCB,Renewable energy sources consumed by the residential sector,CA,California,79125,Billion Btu,True
+2021,RETCB,Renewable energy total consumption,WA,Washington,405037,Billion Btu,True
+2021,RERCB,Renewable energy sources consumed by the residential sector,US,United States,552554,Billion Btu,True
+2021,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,41024,Billion Btu,True
+2021,RETCB,Renewable energy total consumption,CA,California,809480,Billion Btu,True
+2021,RETCB,Renewable energy total consumption,IA,Iowa,388813,Billion Btu,True
+2021,REPRB,Renewable energy production,CA,California,528926,Billion Btu,True
+2020,REPRB,Renewable energy production,CA,California,510610,Billion Btu,True
+2020,RETCB,Renewable energy total consumption,TX,Texas,593952,Billion Btu,True
+2020,REPRB,Renewable energy production,US,United States,7465203,Billion Btu,True
+2020,RETCB,Renewable energy total consumption,IA,Iowa,365607,Billion Btu,True
+2020,REPRB,Renewable energy production,TX,Texas,503024,Billion Btu,True
+2020,REPRB,Renewable energy production,IA,Iowa,709062,Billion Btu,True
+2020,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,38953,Billion Btu,True
+2020,REPRB,Renewable energy production,WA,Washington,411233,Billion Btu,True
+2020,RETCB,Renewable energy total consumption,CA,California,736995,Billion Btu,True
+2020,RETCB,Renewable energy total consumption,WA,Washington,418531,Billion Btu,True
+2020,RETCB,Renewable energy total consumption,US,United States,7300560,Billion Btu,True
+2020,RERCB,Renewable energy sources consumed by the residential sector,US,United States,535896,Billion Btu,True
+2020,RERCB,Renewable energy sources consumed by the residential sector,CA,California,72157,Billion Btu,True
+2019,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,37582,Billion Btu,True
+2019,RERCB,Renewable energy sources consumed by the residential sector,CA,California,77692,Billion Btu,True
+2019,RERCB,Renewable energy sources consumed by the residential sector,US,United States,721493,Billion Btu,True
+2019,RERCB,Renewable energy sources consumed by the residential sector,WA,Washington,32791,Billion Btu,True
+2019,REPRB,Renewable energy production,IA,Iowa,752128,Billion Btu,True
+2019,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,40718,Billion Btu,True
+2019,RERCB,Renewable energy sources consumed by the residential sector,PA,Pennsylvania,36421,Billion Btu,True
+2019,RERCB,Renewable energy sources consumed by the residential sector,MI,Michigan,42205,Billion Btu,True
+2019,REPRB,Renewable energy production,WA,Washington,385361,Billion Btu,True
+2019,REPRB,Renewable energy production,CA,California,560175,Billion Btu,True
+2019,REPRB,Renewable energy production,US,United States,7752818,Billion Btu,True
+2019,REPRB,Renewable energy production,TX,Texas,466665,Billion Btu,True
+2019,RETCB,Renewable energy total consumption,CA,California,789197,Billion Btu,True
+2019,RETCB,Renewable energy total consumption,IA,Iowa,369223,Billion Btu,True
+2019,RETCB,Renewable energy total consumption,TX,Texas,574791,Billion Btu,True
+2019,RETCB,Renewable energy total consumption,WA,Washington,397305,Billion Btu,True
+2019,RETCB,Renewable energy total consumption,US,United States,7593816,Billion Btu,True
+2018,RERCB,Renewable energy sources consumed by the residential sector,US,United States,687895,Billion Btu,True
+2018,REPRB,Renewable energy production,US,United States,7744193,Billion Btu,True
+2018,REPRB,Renewable energy production,CA,California,507201,Billion Btu,True
+2018,REPRB,Renewable energy production,IA,Iowa,738301,Billion Btu,True
+2018,REPRB,Renewable energy production,TX,Texas,441871,Billion Btu,True
+2018,REPRB,Renewable energy production,WA,Washington,432887,Billion Btu,True
+2018,RETCB,Renewable energy total consumption,IA,Iowa,351318,Billion Btu,True
+2018,RETCB,Renewable energy total consumption,TX,Texas,550781,Billion Btu,True
+2018,RETCB,Renewable energy total consumption,WA,Washington,449574,Billion Btu,True
+2018,RERCB,Renewable energy sources consumed by the residential sector,PA,Pennsylvania,38090,Billion Btu,True
+2018,RERCB,Renewable energy sources consumed by the residential sector,MI,Michigan,41210,Billion Btu,True
+2018,RETCB,Renewable energy total consumption,US,United States,7534560,Billion Btu,True
+2018,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,36787,Billion Btu,True
+2018,RETCB,Renewable energy total consumption,CA,California,691153,Billion Btu,True
+2018,RERCB,Renewable energy sources consumed by the residential sector,CA,California,67666,Billion Btu,True
+2018,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,39439,Billion Btu,True
+2017,RERCB,Renewable energy sources consumed by the residential sector,MI,Michigan,34765,Billion Btu,True
+2017,RERCB,Renewable energy sources consumed by the residential sector,US,United States,581701,Billion Btu,True
+2017,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,36245,Billion Btu,True
+2017,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,32781,Billion Btu,True
+2017,RERCB,Renewable energy sources consumed by the residential sector,CA,California,60966,Billion Btu,True
+2017,REPRB,Renewable energy production,WA,Washington,432589,Billion Btu,True
+2017,REPRB,Renewable energy production,US,United States,7504595,Billion Btu,True
+2017,REPRB,Renewable energy production,TX,Texas,399805,Billion Btu,True
+2017,REPRB,Renewable energy production,CA,California,537840,Billion Btu,True
+2017,RETCB,Renewable energy total consumption,WA,Washington,450523,Billion Btu,True
+2017,RETCB,Renewable energy total consumption,TX,Texas,505042,Billion Btu,True
+2017,REPRB,Renewable energy production,IA,Iowa,706564,Billion Btu,True
+2017,RETCB,Renewable energy total consumption,CA,California,725380,Billion Btu,True
+2017,RETCB,Renewable energy total consumption,IA,Iowa,342813,Billion Btu,True
+2017,RETCB,Renewable energy total consumption,US,United States,7383481,Billion Btu,True
+2016,RETCB,Renewable energy total consumption,WA,Washington,445992,Billion Btu,True
+2016,REPRB,Renewable energy production,IA,Iowa,679318,Billion Btu,True
+2016,REPRB,Renewable energy production,CA,California,462264,Billion Btu,True
+2016,REPRB,Renewable energy production,TX,Texas,360015,Billion Btu,True
+2016,REPRB,Renewable energy production,WA,Washington,427449,Billion Btu,True
+2016,RETCB,Renewable energy total consumption,US,United States,7119713,Billion Btu,True
+2016,RETCB,Renewable energy total consumption,CA,California,645587,Billion Btu,True
+2016,RETCB,Renewable energy total consumption,TX,Texas,471877,Billion Btu,True
+2016,RETCB,Renewable energy total consumption,IA,Iowa,330249,Billion Btu,True
+2016,RERCB,Renewable energy sources consumed by the residential sector,US,United States,584076,Billion Btu,True
+2016,RERCB,Renewable energy sources consumed by the residential sector,MI,Michigan,34913,Billion Btu,True
+2016,RERCB,Renewable energy sources consumed by the residential sector,CA,California,56441,Billion Btu,True
+2016,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,33100,Billion Btu,True
+2016,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,35529,Billion Btu,True
+2016,REPRB,Renewable energy production,US,United States,7188417,Billion Btu,True
+2015,RERCB,Renewable energy sources consumed by the residential sector,CA,California,52144,Billion Btu,True
+2015,RERCB,Renewable energy sources consumed by the residential sector,US,United States,639212,Billion Btu,True
+2015,RERCB,Renewable energy sources consumed by the residential sector,MI,Michigan,42432,Billion Btu,True
+2015,RERCB,Renewable energy sources consumed by the residential sector,PA,Pennsylvania,37280,Billion Btu,True
+2015,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,35108,Billion Btu,True
+2015,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,39677,Billion Btu,True
+2015,RETCB,Renewable energy total consumption,CA,California,564459,Billion Btu,True
+2015,RETCB,Renewable energy total consumption,WA,Washington,416372,Billion Btu,True
+2015,RETCB,Renewable energy total consumption,US,United States,6829466,Billion Btu,True
+2015,RETCB,Renewable energy total consumption,TX,Texas,398889,Billion Btu,True
+2015,REPRB,Renewable energy production,WA,Washington,396565,Billion Btu,True
+2015,REPRB,Renewable energy production,US,United States,6845928,Billion Btu,True
+2015,REPRB,Renewable energy production,CA,California,391307,Billion Btu,True
+2015,REPRB,Renewable energy production,IA,Iowa,655375,Billion Btu,True
+2014,RERCB,Renewable energy sources consumed by the residential sector,US,United States,697378,Billion Btu,True
+2014,RERCB,Renewable energy sources consumed by the residential sector,CA,California,69155,Billion Btu,True
+2014,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,51232,Billion Btu,True
+2014,REPRB,Renewable energy production,IA,Iowa,622027,Billion Btu,True
+2014,REPRB,Renewable energy production,US,United States,6835588,Billion Btu,True
+2014,REPRB,Renewable energy production,WA,Washington,411829,Billion Btu,True
+2014,REPRB,Renewable energy production,CA,California,407848,Billion Btu,True
+2014,RETCB,Renewable energy total consumption,TX,Texas,385070,Billion Btu,True
+2014,RETCB,Renewable energy total consumption,WA,Washington,428271,Billion Btu,True
+2014,RETCB,Renewable energy total consumption,CA,California,560848,Billion Btu,True
+2014,RETCB,Renewable energy total consumption,US,United States,6799010,Billion Btu,True
+2013,RERCB,Renewable energy sources consumed by the residential sector,CA,California,65030,Billion Btu,True
+2013,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,50290,Billion Btu,True
+2013,RERCB,Renewable energy sources consumed by the residential sector,US,United States,682962,Billion Btu,True
+2013,REPRB,Renewable energy production,CA,California,399975,Billion Btu,True
+2013,REPRB,Renewable energy production,IA,Iowa,605138,Billion Btu,True
+2013,REPRB,Renewable energy production,WA,Washington,405957,Billion Btu,True
+2013,REPRB,Renewable energy production,US,United States,6560782,Billion Btu,True
+2013,RETCB,Renewable energy total consumption,WA,Washington,420843,Billion Btu,True
+2013,RETCB,Renewable energy total consumption,TX,Texas,359700,Billion Btu,True
+2013,RETCB,Renewable energy total consumption,US,United States,6587023,Billion Btu,True
+2013,RETCB,Renewable energy total consumption,CA,California,554027,Billion Btu,True
+2012,RETCB,Renewable energy total consumption,TX,Texas,332011,Billion Btu,True
+2012,RERCB,Renewable energy sources consumed by the residential sector,US,United States,543972,Billion Btu,True
+2012,RERCB,Renewable energy sources consumed by the residential sector,CA,California,52834,Billion Btu,True
+2012,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,45754,Billion Btu,True
+2012,REPRB,Renewable energy production,IA,Iowa,586826,Billion Btu,True
+2012,REPRB,Renewable energy production,WA,Washington,433359,Billion Btu,True
+2012,REPRB,Renewable energy production,CA,California,377749,Billion Btu,True
+2012,REPRB,Renewable energy production,US,United States,6186971,Billion Btu,True
+2012,RETCB,Renewable energy total consumption,US,United States,6150362,Billion Btu,True
+2012,RETCB,Renewable energy total consumption,WA,Washington,450509,Billion Btu,True
+2012,RETCB,Renewable energy total consumption,CA,California,495642,Billion Btu,True
+2011,RERCB,Renewable energy sources consumed by the residential sector,CA,California,57752,Billion Btu,True
+2011,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,46990,Billion Btu,True
+2011,RERCB,Renewable energy sources consumed by the residential sector,US,United States,626097,Billion Btu,True
+2011,REPRB,Renewable energy production,US,United States,6404003,Billion Btu,True
+2011,REPRB,Renewable energy production,WA,Washington,445171,Billion Btu,True
+2011,RETCB,Renewable energy total consumption,CA,California,541230,Billion Btu,True
+2011,RETCB,Renewable energy total consumption,WA,Washington,461703,Billion Btu,True
+2011,REPRB,Renewable energy production,IA,Iowa,595539,Billion Btu,True
+2011,REPRB,Renewable energy production,CA,California,422243,Billion Btu,True
+2011,RETCB,Renewable energy total consumption,US,United States,6308059,Billion Btu,True
+2011,RETCB,Renewable energy total consumption,TX,Texas,328303,Billion Btu,True
+2010,RERCB,Renewable energy sources consumed by the residential sector,CA,California,57789,Billion Btu,True
+2010,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,46975,Billion Btu,True
+2010,RERCB,Renewable energy sources consumed by the residential sector,US,United States,636333,Billion Btu,True
+2010,REPRB,Renewable energy production,US,United States,5942579,Billion Btu,True
+2010,REPRB,Renewable energy production,WA,Washington,358833,Billion Btu,True
+2010,RETCB,Renewable energy total consumption,CA,California,492956,Billion Btu,True
+2010,RETCB,Renewable energy total consumption,WA,Washington,376536,Billion Btu,True
+2010,REPRB,Renewable energy production,IA,Iowa,554423,Billion Btu,True
+2010,REPRB,Renewable energy production,CA,California,370497,Billion Btu,True
+2010,RETCB,Renewable energy total consumption,US,United States,5895676,Billion Btu,True
+2009,RERCB,Renewable energy sources consumed by the residential sector,US,United States,593180,Billion Btu,True
+2009,RERCB,Renewable energy sources consumed by the residential sector,CA,California,54136,Billion Btu,True
+2009,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,44459,Billion Btu,True
+2009,REPRB,Renewable energy production,US,United States,5309126,Billion Btu,True
+2009,RETCB,Renewable energy total consumption,CA,California,419880,Billion Btu,True
+2009,RETCB,Renewable energy total consumption,WA,Washington,368148,Billion Btu,True
+2009,REPRB,Renewable energy production,IA,Iowa,494557,Billion Btu,True
+2009,RETCB,Renewable energy total consumption,US,United States,5292518,Billion Btu,True
+2008,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,56596,Billion Btu,True
+2008,RERCB,Renewable energy sources consumed by the residential sector,US,United States,552252,Billion Btu,True
+2008,RERCB,Renewable energy sources consumed by the residential sector,CA,California,45016,Billion Btu,True
+2008,REPRB,Renewable energy production,US,United States,5084562,Billion Btu,True
+2008,RETCB,Renewable energy total consumption,CA,California,397932,Billion Btu,True
+2008,REPRB,Renewable energy production,WA,Washington,358529,Billion Btu,True
+2008,RETCB,Renewable energy total consumption,WA,Washington,374417,Billion Btu,True
+2008,REPRB,Renewable energy production,IA,Iowa,381752,Billion Btu,True
+2008,RETCB,Renewable energy total consumption,US,United States,5067705,Billion Btu,True
+2007,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,50565,Billion Btu,True
+2007,RERCB,Renewable energy sources consumed by the residential sector,US,United States,495431,Billion Btu,True
+2007,RERCB,Renewable energy sources consumed by the residential sector,CA,California,41341,Billion Btu,True
+2007,RETCB,Renewable energy total consumption,US,United States,4594859,Billion Btu,True
+2007,REPRB,Renewable energy production,US,United States,4582117,Billion Btu,True
+2007,RETCB,Renewable energy total consumption,CA,California,403525,Billion Btu,True
+2007,REPRB,Renewable energy production,WA,Washington,358884,Billion Btu,True
+2007,RETCB,Renewable energy total consumption,WA,Washington,368526,Billion Btu,True
+2006,RERCB,Renewable energy sources consumed by the residential sector,US,United States,449651,Billion Btu,True
+2006,RERCB,Renewable energy sources consumed by the residential sector,CA,California,38204,Billion Btu,True
+2006,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,45723,Billion Btu,True
+2006,REPRB,Renewable energy production,WA,Washington,387878,Billion Btu,True
+2006,RETCB,Renewable energy total consumption,US,United States,4480272,Billion Btu,True
+2006,RETCB,Renewable energy total consumption,WA,Washington,396795,Billion Btu,True
+2006,RETCB,Renewable energy total consumption,CA,California,464146,Billion Btu,True
+2006,REPRB,Renewable energy production,CA,California,388725,Billion Btu,True
+2006,REPRB,Renewable energy production,US,United States,4429647,Billion Btu,True
+2005,RERCB,Renewable energy sources consumed by the residential sector,CA,California,40437,Billion Btu,True
+2005,RERCB,Renewable energy sources consumed by the residential sector,US,United States,493726,Billion Btu,True
+2005,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,51246,Billion Btu,True
+2005,RETCB,Renewable energy total consumption,US,United States,4231361,Billion Btu,True
+2005,RETCB,Renewable energy total consumption,WA,Washington,337323,Billion Btu,True
+2005,REPRB,Renewable energy production,CA,California,361238,Billion Btu,True
+2005,REPRB,Renewable energy production,US,United States,4218618,Billion Btu,True
+2005,RETCB,Renewable energy total consumption,CA,California,439339,Billion Btu,True
+2004,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,61068,Billion Btu,True
+2004,RERCB,Renewable energy sources consumed by the residential sector,CA,California,54022,Billion Btu,True
+2004,RERCB,Renewable energy sources consumed by the residential sector,US,United States,474596,Billion Btu,True
+2004,REPRB,Renewable energy production,US,United States,4093472,Billion Btu,True
+2004,RETCB,Renewable energy total consumption,CA,California,423563,Billion Btu,True
+2004,RETCB,Renewable energy total consumption,WA,Washington,342000,Billion Btu,True
+2004,REPRB,Renewable energy production,CA,California,352132,Billion Btu,True
+2004,RETCB,Renewable energy total consumption,US,United States,4105528,Billion Btu,True
+2003,RERCB,Renewable energy sources consumed by the residential sector,US,United States,464375,Billion Btu,True
+2003,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,59504,Billion Btu,True
+2003,RERCB,Renewable energy sources consumed by the residential sector,CA,California,53320,Billion Btu,True
+2003,RETCB,Renewable energy total consumption,US,United States,3915884,Billion Btu,True
+2003,REPRB,Renewable energy production,CA,California,357449,Billion Btu,True
+2003,RETCB,Renewable energy total consumption,WA,Washington,348997,Billion Btu,True
+2003,RETCB,Renewable energy total consumption,CA,California,406651,Billion Btu,True
+2003,REPRB,Renewable energy production,US,United States,3914192,Billion Btu,True
+2002,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,56530,Billion Btu,True
+2002,RERCB,Renewable energy sources consumed by the residential sector,US,United States,443120,Billion Btu,True
+2002,RERCB,Renewable energy sources consumed by the residential sector,CA,California,51918,Billion Btu,True
+2002,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,32509,Billion Btu,True
+2002,REPRB,Renewable energy production,WA,Washington,356598,Billion Btu,True
+2002,REPRB,Renewable energy production,US,United States,3770941,Billion Btu,True
+2002,RETCB,Renewable energy total consumption,US,United States,3766155,Billion Btu,True
+2002,RETCB,Renewable energy total consumption,WA,Washington,362363,Billion Btu,True
+2002,RETCB,Renewable energy total consumption,CA,California,355371,Billion Btu,True
+2001,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,55686,Billion Btu,True
+2001,RERCB,Renewable energy sources consumed by the residential sector,CA,California,52116,Billion Btu,True
+2001,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,33385,Billion Btu,True
+2001,RERCB,Renewable energy sources consumed by the residential sector,US,United States,438657,Billion Btu,True
+2001,REPRB,Renewable energy production,US,United States,3518114,Billion Btu,True
+2001,RETCB,Renewable energy total consumption,US,United States,3516309,Billion Btu,True
+2001,RETCB,Renewable energy total consumption,CA,California,325466,Billion Btu,True
+2000,RERCB,Renewable energy sources consumed by the residential sector,CA,California,54412,Billion Btu,True
+2000,RERCB,Renewable energy sources consumed by the residential sector,US,United States,486069,Billion Btu,True
+2000,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,35824,Billion Btu,True
+2000,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,83132,Billion Btu,True
+2000,REPRB,Renewable energy production,WA,Washington,363955,Billion Btu,True
+2000,REPRB,Renewable energy production,US,United States,4093068,Billion Btu,True
+2000,RETCB,Renewable energy total consumption,US,United States,4095636,Billion Btu,True
+2000,RETCB,Renewable energy total consumption,WA,Washington,366576,Billion Btu,True
+2000,RETCB,Renewable energy total consumption,CA,California,370066,Billion Btu,True
+2000,REPRB,Renewable energy production,CA,California,364952,Billion Btu,True
+1999,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,77245,Billion Btu,True
+1999,RERCB,Renewable energy sources consumed by the residential sector,CA,California,52678,Billion Btu,True
+1999,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,36436,Billion Btu,True
+1999,RERCB,Renewable energy sources consumed by the residential sector,US,United States,458662,Billion Btu,True
+1999,REPRB,Renewable energy production,WA,Washington,420929,Billion Btu,True
+1999,REPRB,Renewable energy production,US,United States,4203566,Billion Btu,True
+1999,RETCB,Renewable energy total consumption,US,United States,4201726,Billion Btu,True
+1999,RETCB,Renewable energy total consumption,WA,Washington,423236,Billion Btu,True
+1999,RETCB,Renewable energy total consumption,CA,California,372132,Billion Btu,True
+1999,REPRB,Renewable energy production,CA,California,367625,Billion Btu,True
+1998,RERCB,Renewable energy sources consumed by the residential sector,US,United States,449277,Billion Btu,True
+1998,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,75271,Billion Btu,True
+1998,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,36917,Billion Btu,True
+1998,RERCB,Renewable energy sources consumed by the residential sector,CA,California,52502,Billion Btu,True
+1998,REPRB,Renewable energy production,WA,Washington,360447,Billion Btu,True
+1998,REPRB,Renewable energy production,US,United States,4174168,Billion Btu,True
+1998,RETCB,Renewable energy total consumption,US,United States,4172729,Billion Btu,True
+1998,RETCB,Renewable energy total consumption,WA,Washington,363145,Billion Btu,True
+1998,RETCB,Renewable energy total consumption,CA,California,392331,Billion Btu,True
+1998,REPRB,Renewable energy production,CA,California,387102,Billion Btu,True
+1997,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,84615,Billion Btu,True
+1997,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,37927,Billion Btu,True
+1997,RERCB,Renewable energy sources consumed by the residential sector,US,United States,497351,Billion Btu,True
+1997,RERCB,Renewable energy sources consumed by the residential sector,CA,California,57150,Billion Btu,True
+1997,REPRB,Renewable energy production,WA,Washington,450520,Billion Btu,True
+1997,REPRB,Renewable energy production,US,United States,4463583,Billion Btu,True
+1997,RETCB,Renewable energy total consumption,US,United States,4460893,Billion Btu,True
+1997,RETCB,Renewable energy total consumption,WA,Washington,452482,Billion Btu,True
+1997,RETCB,Renewable energy total consumption,CA,California,376474,Billion Btu,True
+1997,REPRB,Renewable energy production,CA,California,369373,Billion Btu,True
+1996,RERCB,Renewable energy sources consumed by the residential sector,CA,California,78781,Billion Btu,True
+1996,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,41832,Billion Btu,True
+1996,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,54929,Billion Btu,True
+1996,RERCB,Renewable energy sources consumed by the residential sector,US,United States,610132,Billion Btu,True
+1996,REPRB,Renewable energy production,WA,Washington,426607,Billion Btu,True
+1996,REPRB,Renewable energy production,US,United States,4479991,Billion Btu,True
+1996,RETCB,Renewable energy total consumption,US,United States,4481498,Billion Btu,True
+1996,RETCB,Renewable energy total consumption,WA,Washington,427620,Billion Btu,True
+1996,RETCB,Renewable energy total consumption,CA,California,404112,Billion Btu,True
+1996,REPRB,Renewable energy production,CA,California,396901,Billion Btu,True
+1995,RERCB,Renewable energy sources consumed by the residential sector,US,United States,589212,Billion Btu,True
+1995,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,41044,Billion Btu,True
+1995,RERCB,Renewable energy sources consumed by the residential sector,CA,California,76661,Billion Btu,True
+1995,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,52852,Billion Btu,True
+1995,REPRB,Renewable energy production,WA,Washington,372764,Billion Btu,True
+1995,REPRB,Renewable energy production,US,United States,4294584,Billion Btu,True
+1995,RETCB,Renewable energy total consumption,US,United States,4296642,Billion Btu,True
+1995,RETCB,Renewable energy total consumption,WA,Washington,374986,Billion Btu,True
+1995,RETCB,Renewable energy total consumption,CA,California,419049,Billion Btu,True
+1995,REPRB,Renewable energy production,CA,California,410708,Billion Btu,True
+1994,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,52797,Billion Btu,True
+1994,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,40418,Billion Btu,True
+1994,RERCB,Renewable energy sources consumed by the residential sector,CA,California,76603,Billion Btu,True
+1994,RERCB,Renewable energy sources consumed by the residential sector,US,United States,587873,Billion Btu,True
+1994,REPRB,Renewable energy production,US,United States,4056472,Billion Btu,True
+1994,RETCB,Renewable energy total consumption,US,United States,4056473,Billion Btu,True
+1994,RETCB,Renewable energy total consumption,WA,Washington,328652,Billion Btu,True
+1994,RETCB,Renewable energy total consumption,CA,California,355772,Billion Btu,True
+1994,REPRB,Renewable energy production,CA,California,353389,Billion Btu,True
+1993,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,40191,Billion Btu,True
+1993,RERCB,Renewable energy sources consumed by the residential sector,CA,California,79413,Billion Btu,True
+1993,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,55544,Billion Btu,True
+1993,RERCB,Renewable energy sources consumed by the residential sector,US,United States,614590,Billion Btu,True
+1993,REPRB,Renewable energy production,US,United States,4005043,Billion Btu,True
+1993,RETCB,Renewable energy total consumption,US,United States,4004770,Billion Btu,True
+1993,RETCB,Renewable energy total consumption,WA,Washington,333704,Billion Btu,True
+1993,RETCB,Renewable energy total consumption,CA,California,416004,Billion Btu,True
+1993,REPRB,Renewable energy production,CA,California,414397,Billion Btu,True
+1992,REPRB,Renewable energy production,CA,California,377325,Billion Btu,True
+1992,RERCB,Renewable energy sources consumed by the residential sector,US,United States,704745,Billion Btu,True
+1992,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,42192,Billion Btu,True
+1992,RERCB,Renewable energy sources consumed by the residential sector,CA,California,99842,Billion Btu,True
+1992,RERCB,Renewable energy sources consumed by the residential sector,OH,Ohio,34749,Billion Btu,True
+1992,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,56707,Billion Btu,True
+1992,RERCB,Renewable energy sources consumed by the residential sector,IL,Illinois,35750,Billion Btu,True
+1992,REPRB,Renewable energy production,US,United States,3931743,Billion Btu,True
+1992,RETCB,Renewable energy total consumption,US,United States,3931743,Billion Btu,True
+1992,RETCB,Renewable energy total consumption,WA,Washington,333174,Billion Btu,True
+1992,RETCB,Renewable energy total consumption,CA,California,377508,Billion Btu,True
+1991,REPRB,Renewable energy production,CA,California,371447,Billion Btu,True
+1991,RERCB,Renewable energy sources consumed by the residential sector,FL,Florida,54136,Billion Btu,True
+1991,RERCB,Renewable energy sources consumed by the residential sector,OH,Ohio,33107,Billion Btu,True
+1991,RERCB,Renewable energy sources consumed by the residential sector,CA,California,95513,Billion Btu,True
+1991,RERCB,Renewable energy sources consumed by the residential sector,US,United States,672295,Billion Btu,True
+1991,RERCB,Renewable energy sources consumed by the residential sector,NY,New York,40206,Billion Btu,True
+1991,RERCB,Renewable energy sources consumed by the residential sector,IL,Illinois,34062,Billion Btu,True
+1991,REPRB,Renewable energy production,WA,Washington,379939,Billion Btu,True
+1991,REPRB,Renewable energy production,US,United States,3901435,Billion Btu,True
+1991,RETCB,Renewable energy total consumption,US,United States,3901433,Billion Btu,True
+1991,RETCB,Renewable energy total consumption,WA,Washington,380353,Billion Btu,True
+1991,RETCB,Renewable energy total consumption,CA,California,376041,Billion Btu,True
+1990,REPRB,Renewable energy production,CA,California,379479,Billion Btu,True

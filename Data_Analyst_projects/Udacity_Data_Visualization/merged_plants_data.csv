@@ -1,0 +1,634 @@
+Site Name,State,Lat,Lon,Max Tower Capacity (MWe),Max Trough Capacity (MWe),Solar-Augment Potential,Type,Capacity (MW)
+TS Power Plant,NV,40.6422,-116.937,64.7,16.4,Good,Coal,220.0
+Desert Rock,NM,36.5435,-108.2235,169.2,111.6,Good,Coal,1500.0
+Oak Grove Project,TX,31.0494,-96.4813,484.4,140.4,Good,Coal,944.0
+Tenaska Trailblazer Energy Center,TX,32.8043,-100.158,174.7,44.6,Good,Coal,600.0
+Rio Bravo Jasmin,CA,35.7415,-119.0512,9.8,2.5,Good,Coal,38.2
+Savannah Mill,GA,32.3683,-81.3413,21.0,5.3,Good,Coal,154.0
+E S Joslin,TX,28.67945,-96.56,88.7,22.5,Good,Coal,303.0
+Sandy Creek,TX,31.5031,-96.9602,243.6,66.9,Good,Coal,900.0
+Shady Point,OK,35.1931,-94.6458,102.5,26.0,Good,Coal,350.0
+"Jefferson Smurfit Nassau County,  FL",FL,30.6833,-81.4592,22.0,5.5,Good,Coal,74.4
+Limestone (TX),TX,31.4219,-96.2525,487.9,137.3,Good,Coal,1849.8
+Rio Bravo Poso,CA,35.5556,-119.0832,11.3,2.8,Fair,Coal,38.2
+Cholla,AZ,34.9394,-110.3033,212.4,54.0,Excellent,Coal,1128.8
+Southport NC,NC,33.9444,-78.0125,39.8,10.0,Fair,Coal,135.0
+W A Parish,TX,29.4828,-95.6311,357.6,91.4,Good,Coal,2697.4
+J K Spruce,TX,29.3091,-98.3205,203.4,103.1,Good,Coal,566.0
+Charles R Lowman,AL,31.4858,-87.9106,69.2,17.6,Fair,Coal,538.0
+Stockton Cogen,CA,37.9119,-121.2611,17.8,4.5,Good,Coal,60.0
+Valmy,NV,40.8831,-117.1542,166.2,42.2,Good,Coal,567.0
+Ben Hill Plant,GA,31.5,-83.1504,0.0,0.0,Not Considered,Coal,850.0
+Cates Cogen Plant,NC,35.6598,-78.2456,0.0,0.0,Not Considered,Coal,11.0
+Carbon Alloy Synthesis Facility,AL,32.6825,-88.1044,0.0,0.0,Not Considered,Coal,20.5
+Ely Energy Center,NV,39.2512,-114.88,0.0,0.0,Not Considered,Coal,1500.0
+Raton,NM,36.893,-104.442,0.0,0.0,Not Considered,Coal,7.5
+Plant Crisp,GA,31.8477,-83.9421,0.0,0.0,Not Considered,Coal,12.5
+Green County,AL,32.6017,-87.7811,0.0,0.0,Not Considered,Coal,568.4
+Kennecott Utah Copper,UT,40.7119,-112.1225,0.0,0.0,Not Considered,Coal,213.8
+Kinston,NC,35.3298,-77.4752,0.0,0.0,Not Considered,Coal,15.0
+Bountiful City Petroleum Coke Plant,UT,40.9897,-112.1096,0.0,0.0,Not Considered,Coal,109.0
+Savannah Sugar Refinery,GA,32.1491,-81.1449,0.0,0.0,Not Considered,Coal,11.7
+Argus Cogen Plant,CA,35.765,-117.3833,0.0,0.0,Not Considered,Coal,55.0
+Yates,GA,33.4622,-84.8986,0.0,0.0,Not Considered,Coal,1487.3
+Carbon,UT,39.7272,-110.8644,0.0,0.0,Not Considered,Coal,188.6
+Canadys,SC,33.0647,-80.6228,0.0,0.0,Not Considered,Coal,489.6
+"Roanoke Rapids, North Carolina",NC,36.4758,-77.6407,0.0,0.0,Not Considered,Coal,22.5
+Valmy,NV,40.8831,-117.1542,145.9,37.2,Good,Coal,567.0
+Intermountain,UT,39.5108,-112.5792,470.2,122.0,Good,Coal,1640.0
+UNC - Chapel Hill,NC,35.9069,-79.0617,15.4,3.9,Fair,Coal,28.0
+Hunter,UT,39.1747,-111.0289,286.8,73.2,Good,Coal,1472.2
+Victor J. Daniel Jr.,MS,30.5335,-88.5574,159.8,40.8,Good,Coal,1096.6
+Stanton Energy Center,FL,28.4836,-81.1686,12.3,12.6,Fair,Coal,929.0
+Mayo,NC,36.5278,-78.8917,212.9,54.7,Fair,Coal,735.8
+Rocky Mount,NC,36.0378,-77.7542,33.9,8.6,Good,Coal,114.8
+Roxboro,NC,36.4833,-79.0731,215.6,55.4,Fair,Coal,2558.2
+Indiantown Cogeneration Facility,FL,27.0393,-80.5144,115.4,29.4,Good,Coal,395.4
+San Miguel,TX,28.7044,-98.4781,119.8,30.5,Good,Coal,410.0
+Big Bend,FL,27.7944,-82.4036,139.8,36.1,Good,Coal,1822.5
+Bonanza,UT,40.0864,-109.2844,145.8,37.2,Good,Coal,499.5
+C D McIntosh Jr,FL,28.0809,-81.9256,45.4,27.1,Fair,Coal,363.8
+Comanche (CO),CO,38.2081,-104.5747,235.4,61.0,Good,Coal,780.0
+Cross,SC,33.3692,-80.1119,147.6,92.5,Good,Coal,2390.1
+Crystal River,FL,28.9594,-82.7003,123.2,98.6,Fair,Coal,2442.7
+Deerhaven,FL,29.7586,-82.3883,73.5,18.7,Good,Coal,250.7
+Dolet Hills,LA,32.0306,-93.5692,209.2,53.6,Fair,Coal,720.7
+Dan River,NC,36.4862,-79.7208,0.0,0.0,Not Considered,Coal,290.0
+Asheville,NC,35.4714,-82.5431,0.0,0.0,Not Considered,Coal,413.6
+Barry,AL,31.0069,-88.0103,0.0,0.0,Not Considered,Coal,1770.7
+Belews Creek,NC,36.2811,-80.0603,0.0,0.0,Not Considered,Coal,2160.2
+Big Brown,TX,31.8206,-96.0561,0.0,0.0,Not Considered,Coal,1186.8
+Bowen,GA,34.1256,-84.9192,0.0,0.0,Not Considered,Coal,3498.6
+Buck (NC),NC,35.7133,-80.3767,0.0,0.0,Not Considered,Coal,370.0
+Bull Run (TN),TN,36.0211,-84.1567,0.0,0.0,Not Considered,Coal,950.0
+Cameo,CO,39.1486,-108.3189,0.0,0.0,Not Considered,Coal,66.0
+Cape Fear,NC,35.595,-79.0492,0.0,0.0,Not Considered,Coal,328.5
+Colbert,AL,34.7439,-87.8486,0.0,0.0,Not Considered,Coal,1350.0
+Comanche (CO),CO,38.2081,-104.5747,0.0,0.0,Not Considered,Coal,778.5
+Crist,FL,30.5661,-87.2289,0.0,0.0,Not Considered,Coal,1135.1
+Cumberland (TN),TN,36.3903,-87.6539,0.0,0.0,Not Considered,Coal,2600.0
+Dolphus M Grainger,SC,33.8253,-79.0528,0.0,0.0,Not Considered,Coal,163.2
+Drake,CO,38.8244,-104.8331,0.0,0.0,Not Considered,Coal,257.0
+Escalante,NM,35.4159,-108.082,75.4,19.1,Good,Coal,257.0
+Fayette Power Project,TX,29.9172,-96.7506,291.4,90.0,Fair,Coal,1690.0
+Florence Mill,SC,34.1519,-79.5587,23.4,5.9,Good,Coal,107.6
+GRDA,OK,36.1906,-95.2889,293.7,75.1,Fair,Coal,1010.0
+Hugo,OK,34.0158,-95.3206,130.0,33.2,Good,Coal,446.0
+Muskogee,OK,35.7617,-95.2847,166.5,42.4,Fair,Coal,1716.0
+Northeastern,OK,36.4317,-95.7008,138.0,35.2,Good,Coal,946.0
+Nucla,CO,38.2387,-108.5083,23.5,5.9,Good,Coal,113.8
+Pawnee,CO,40.2217,-103.6803,160.8,41.1,Fair,Coal,552.3
+Pirkey,TX,32.4607,-94.4852,209.2,53.6,Fair,Coal,721.0
+Elizabethtown,NC,34.6474,-78.6407,0.0,0.0,Not Considered,Coal,34.7
+G G Allen,NC,35.1897,-81.0122,0.0,0.0,Not Considered,Coal,1155.0
+Gallatin,TN,36.3156,-86.4006,0.0,0.0,Not Considered,Coal,1255.2
+H B Robinson,SC,34.4017,-80.1589,0.0,0.0,Not Considered,Coal,206.6
+H.F. Lee Energy Complex,NC,35.3775,-78.0875,0.0,0.0,Not Considered,Coal,402.4
+Harllee Branch,GA,33.1942,-83.2994,0.0,0.0,Not Considered,Coal,1746.2
+Hayden,CO,40.4856,-107.185,0.0,0.0,Not Considered,Coal,465.4
+Huntington,UT,39.3792,-111.0781,0.0,0.0,Not Considered,Coal,996.0
+Irvington,AZ,32.16,-110.9047,0.0,0.0,Not Considered,Coal,173.3
+J T Deely,TX,29.3072,-98.3228,0.0,0.0,Not Considered,Coal,932.0
+Jack McDonough,GA,33.8244,-84.475,0.0,0.0,Not Considered,Coal,598.4
+Jack Watson,MS,30.4408,-89.0265,0.0,0.0,Not Considered,Coal,877.2
+John Sevier,TN,36.3767,-82.9639,0.0,0.0,Not Considered,Coal,800.0
+Johnsonville (TN),TN,36.0278,-87.9861,0.0,0.0,Not Considered,Coal,1485.2
+Kingston,TN,35.8992,-84.5194,0.0,0.0,Not Considered,Coal,1700.0
+Marshall,NC,35.5975,-80.9658,0.0,0.0,Not Considered,Coal,1996.0
+Martin Lake,TX,32.2597,-94.5703,0.0,0.0,Not Considered,Coal,2379.6
+McIntosh,GA,32.3558,-81.1683,0.0,0.0,Not Considered,Coal,177.6
+Mitchell (GA),GA,31.4444,-84.1322,0.0,0.0,Not Considered,Coal,163.2
+Monticello (TX),TX,33.0917,-95.0417,0.0,0.0,Not Considered,Coal,1980.0
+Old Hickory Plant,TN,36.2756,-86.6644,0.0,0.0,Not Considered,Coal,1.0
+R D Morrow,MS,31.2194,-89.3933,0.0,0.0,Not Considered,Coal,400.0
+R S Nelson,LA,30.2861,-93.2917,0.0,0.0,Not Considered,Coal,614.6
+Rawhide,CO,40.8611,-105.0206,86.1,21.8,Good,Coal,293.6
+Ray D Nixon,CO,38.6306,-104.7056,60.8,15.4,Good,Coal,207.0
+Red Hills,MS,33.3761,-89.2183,149.8,38.2,Fair,Coal,513.7
+Reid Gardner,NV,36.6531,-114.6364,86.5,21.9,Excellent,Coal,636.8
+Roanoke Valley I,NC,36.4364,-77.6167,53.6,13.6,Good,Coal,182.3
+Roanoke Valley II,NC,36.4364,-77.6167,17.1,4.3,Good,Coal,57.8
+Roxboro NC,NC,36.435,-78.9619,20.0,5.0,Fair,Coal,67.5
+Sandow,TX,30.5642,-97.0639,171.8,44.0,Fair,Coal,590.6
+Welsh,TX,33.0583,-94.844,324.8,83.0,Fair,Coal,1674.0
+Winyah,SC,33.3303,-79.3611,182.9,46.8,Good,Coal,1260.0
+Coronado,AZ,34.5778,-109.2717,120.2,30.6,Excellent,Coal,821.8
+Sooner,OK,36.4537,-97.0527,165.7,42.3,Fair,Coal,1138.0
+Springerville,AZ,34.3186,-109.1636,511.6,130.2,Excellent,Coal,1299.6
+Coleto Creek,TX,28.7128,-97.2142,174.7,44.7,Good,Coal,600.4
+Coleto Creek,TX,28.7128,-97.2142,174.7,44.7,Good,Coal,650.0
+"Colorado Energy Nations Company, LLP",CO,39.7606,-105.215,6.0,1.5,Good,Coal,35.4
+Tolk,TX,34.1847,-102.5686,330.8,84.4,Good,Coal,1136.0
+Washington County Power Station,GA,33.0917,-82.9803,242.6,63.2,Fair,Coal,850.0
+"Rodemacher (Rapides Parish, LA)",LA,31.395,-92.7167,55.6,41.5,Good,Coal,558.0
+St Johns River Power,FL,30.4311,-81.5508,134.5,99.9,Good,Coal,1358.0
+Seminole (FL),FL,29.7333,-81.6339,410.8,106.2,Good,Coal,1429.2
+Craig (CO),CO,40.4627,-107.5912,257.0,66.4,Good,Coal,1339.2
+James H. Miller Jr.,AL,33.6319,-87.0597,202.1,155.4,Fair,Coal,2822.0
+Oklaunion,TX,34.0825,-99.1753,208.8,53.6,Fair,Coal,720.0
+Central Power & Lime,FL,28.5814,-82.4303,36.8,9.3,Good,Coal,125.0
+Scholz,FL,30.6689,-84.8869,0.0,0.0,Not Considered,Coal,98.0
+Tennessee Eastman Division,TN,36.5192,-82.535,0.0,0.0,Not Considered,Coal,194.3
+Thomas H Allen,TN,35.0742,-90.1439,0.0,0.0,Not Considered,Coal,990.0
+W H Weatherspoon,NC,34.5889,-78.975,0.0,0.0,Not Considered,Coal,165.5
+W S Lee,SC,34.6022,-82.435,0.0,0.0,Not Considered,Coal,355.0
+Wateree,SC,33.8264,-80.6218,0.0,0.0,Not Considered,Coal,771.8
+Widows Creek,AL,34.8825,-85.7547,0.0,0.0,Not Considered,Coal,1968.6
+Williams,SC,33.0163,-79.9285,0.0,0.0,Not Considered,Coal,632.7
+Vanderbilt University Power Plant,TN,36.1456,-86.8042,0.0,0.0,Not Considered,Coal,11.0
+Gadsden,AL,34.0128,-85.9708,0.0,0.0,Not Considered,Coal,138.0
+Big Cajun 2,LA,30.7261,-91.3669,321.2,139.2,Good,Coal,1871.0
+San Juan,NM,36.8006,-108.4386,161.6,41.3,Good,Coal,1848.0
+Scherer,GA,33.0583,-83.8072,373.8,263.9,Fair,Coal,3564.0
+Gibbons Creek,TX,30.6167,-96.0778,132.5,33.7,Good,Coal,453.5
+Harrington,TX,35.2972,-101.7475,105.4,26.8,Good,Coal,1080.0
+Twin Oaks Power,TX,31.0932,-96.6965,102.3,26.0,Good,Coal,349.2
+Navajo,AZ,36.9047,-111.3886,198.5,158.3,Good,Coal,2250.0
+Muskogee Mill,OK,35.7322,-95.2939,13.2,3.3,Good,Coal,114.0
+Sandow (Alcoa),TX,30.5642,-97.0639,192.0,49.2,Good,Coal,661.5
+Longleaf,GA,31.1844,-85.0359,174.5,89.2,Good,Coal,1200.0
+La Cygne,KS,38.3472,-94.6389,0.0,0.0,Not Considered,Coal,1418.0
+Flint Creek (AR),AR,36.2561,-94.5241,0.0,0.0,Not Considered,Coal,528.0
+Lawrence Energy Center (KS),KS,39.0072,-95.2692,0.0,0.0,Not Considered,Coal,529.0
+Quindaro,KS,39.1486,-94.6405,0.0,0.0,Not Considered,Coal,183.0
+Nearman Creek,KS,39.1714,-94.6958,0.0,0.0,Not Considered,Coal,229.0
+Riverton,KS,37.0719,-94.6986,0.0,0.0,Not Considered,Coal,92.0
+Tecumseh Energy Center,KS,39.0522,-95.5669,0.0,0.0,Not Considered,Coal,202.0
+Canton,NC,35.535,-82.8411,0.0,0.0,Not Considered,Coal,52.5
+Henderson (MS),MS,33.5153,-90.2072,0.0,0.0,Not Considered,Coal,32.6
+Cherokee (CO),CO,39.8034,-104.9458,0.0,0.0,Not Considered,Coal,801.2
+Lumberton,NC,34.59,-78.9968,0.0,0.0,Not Considered,Coal,34.7
+Wansley,GA,33.4124,-85.0345,0.0,0.0,Not Considered,Coal,1904.0
+Arapahoe,CO,39.67,-105.0028,0.0,0.0,Not Considered,Coal,160.0
+Cliffside,NC,35.22,-81.7594,0.0,0.0,Not Considered,Coal,780.9
+Kraft,GA,32.1486,-81.1458,0.0,0.0,Not Considered,Coal,207.9
+Hammond,GA,34.2533,-85.3456,0.0,0.0,Not Considered,Coal,953.0
+Provo,UT,40.1183,-111.6686,0.0,0.0,Not Considered,Coal,7.5
+Four Corners,NM,36.69,-108.4814,0.0,0.0,Not Considered,Coal,2269.6
+Lansing Smith,FL,30.2689,-85.7003,0.0,0.0,Not Considered,Coal,340.0
+Snowflake Mill,AZ,34.5025,-110.3361,0.0,0.0,Not Considered,Coal,70.5
+Gorgas,AL,33.6446,-87.2003,0.0,0.0,Not Considered,Coal,1416.7
+TXI Riverside Cement Power House,CA,34.6,-117.3333,0.0,0.0,Not Considered,Coal,24.0
+USDOE Savannah River Site (D Area),SC,32.3683,-81.3413,0.0,0.0,Not Considered,Coal,78.2
+North Omaha,NE,41.3297,-95.9458,0.0,0.0,Not Considered,Coal,646.3
+Lon Wright,NE,41.4275,-96.4619,0.0,0.0,Not Considered,Coal,85.0
+Whelan Energy Center,NE,40.5806,-98.3106,66.0,16.0,Fair,Coal,297.0
+Sheldon (NE),NE,40.5589,-96.7842,0.0,0.0,Not Considered,Coal,225.0
+Boardman (OR),OR,45.6933,-119.8056,0.0,0.0,Not Considered,Coal,585.0
+Jim Bridger,WY,41.7378,-108.7875,0.0,0.0,Not Considered,Coal,2118.0
+Dave Johnston,WY,42.8378,-105.7769,0.0,0.0,Not Considered,Coal,762.0
+Dry Fork Station,WY,44.291092,-105.502221,114.0,29.0,Fair,Coal,390.0
+Naughton,WY,41.7572,-110.5986,0.0,0.0,Not Considered,Coal,700.0
+Plum Point Energy,AR,35.6763,-90.0131,156.0,54.0,Good,Coal,670.0
+Holcomb East,KS,37.9306,-100.9725,102.0,26.0,Good,Coal,362.0
+Independence (AR),AR,35.6733,-91.4083,304.0,126.0,Good,Coal,1678.0
+Jeffrey Energy Center,KS,39.2825,-96.1153,208.0,52.0,Fair,Coal,2164.0
+White Bluff,AR,34.4236,-92.1392,0.0,0.0,Not Considered,Coal,1659.0
+Wygen III,WY,44.287,-105.387,34.0,9.0,Good,Coal,100.0
+Gerald Gentleman,NE,41.0808,-101.1408,203.0,52.0,Good,Coal,1365.0
+Nebraska City,NE,40.6215,-95.7765,198.0,51.0,Good,Coal,1330.2
+Platte,NE,40.8538,-98.3481,32.0,8.0,Good,Coal,100.0
+Laramie River,WY,42.1103,-104.8828,166.0,42.0,Good,Coal,1710.0
+Neil Simpson II,WY,44.2853,-105.3841,24.0,6.0,Fair,Coal,80.0
+Wygen,WY,44.2862,-105.3843,26.0,7.0,Good,Coal,91.0
+Wygen II,WY,44.2911,-105.3815,28.0,7.0,Good,Coal,85.0
+Wyodak,WY,44.2886,-105.3847,0.0,0.0,Not Considered,Coal,335.0
+Holcomb East,KS,37.986135,-100.989333,246.0,67.0,Good,Coal,895.0
+John W Turk Jr Power Plant,AR,33.614565,-93.813516,177.0,45.0,Good,Coal,609.0
+May Plant,SC,34.2338,-80.6558,0.0,0.0,Not Considered,Coal,30.0
+Red River Parish-PAC,LA,32.0306,-93.5692,0.0,0.0,Not Considered,Coal,36.76
+Coosa Pines,AL,33.3278,-86.3583,0.0,1.0,Not Considered,Coal,26.1
+Apache Station,AZ,32.0619,-109.8931,0.0,0.0,Not Considered,Coal,408.0
+E C Gaston,AL,33.2442,-86.4567,0.0,0.0,Not Considered,Coal,2012.8
+Jefferies,SC,33.2422,-79.9875,0.0,0.0,Not Considered,Coal,345.6
+Riverbend,NC,35.36,-80.9742,0.0,0.0,Not Considered,Coal,466.0
+Valmont,CO,40.0195,-105.202,0.0,0.0,Not Considered,Coal,191.7
+L V Sutton,NC,34.2824,-77.9864,0.0,0.0,Not Considered,Coal,671.6
+W N Clark,CO,38.4344,-105.25,0.0,0.0,Not Considered,Coal,43.7
+Afton,NM,32.1134,-106.848,20.9,18.7,Excellent,Natural Gas,287.0
+Allen,NV,36.425,-114.9,42.6,38.4,Excellent,Natural Gas,576.0
+Apex Industrial Park,NV,36.4178,-114.9622,75.2,63.8,Excellent,Natural Gas,600.6
+Arlington Valley Energy,AZ,33.3417,-112.8897,96.5,80.7,Good,Natural Gas,713.0
+Avenal,CA,36.00417,-120.1281,87.7,73.2,Good,Natural Gas,600.0
+Bluffview,NM,36.7164,-108.2153,6.7,5.9,Good,Natural Gas,67.0
+Blythe Energy Power Plant,CA,33.6157,-114.6865,44.6,39.8,Excellent,Natural Gas,591.0
+Agua Fria,AZ,33.5542,-112.2161,0.0,0.0,Not Considered,Natural Gas,390.4
+Animas,NM,36.7251,-108.1919,0.0,0.0,Not Considered,Natural Gas,24.6
+ASU Cogeneration Plant,AZ,32.228086,-110.954232,0.0,0.0,Not Considered,Natural Gas,18.0
+Apache Station,AZ,32.0619,-109.8931,0.0,0.0,Not Considered,Natural Gas,93.1
+Arapahoe,CO,39.67,-105.0028,0.0,0.0,Not Considered,Natural Gas,480.0
+Arapahoe CC,CO,39.6692,-105.0018,0.0,0.0,Not Considered,Natural Gas,193.9
+Agnews Cogeneration,CA,37.2273,-121.6827,0.0,0.0,Not Considered,Natural Gas,32.0
+Berkeley Cogeneration,CA,37.6427,-121.8743,0.0,0.0,Not Considered,Natural Gas,28.5
+BHCI Facility,CO,38.266169,-104.613726,0.0,0.0,Not Considered,Natural Gas,200.0
+Black Hills CC Plant,CO,38.266169,-104.613726,0.0,0.0,Not Considered,Natural Gas,380.0
+Black Mountain Plant,NV,36.2253,-114.8783,0.0,0.0,Not Considered,Natural Gas,96.3
+Agua Mansa,CA,34.0414,-117.3603,0.0,0.0,Not Considered,Natural Gas,75.5
+Bowie Power Station,AZ,32.3225,-109.4872,17.7,16.6,Excellent,Natural Gas,1050.0
+Brush,CO,40.2403,-103.6225,32.3,27.2,Good,Natural Gas,299.6
+Chuck Lenzie Generating Station,NV,36.3853,-114.9228,192.3,161.0,Excellent,Natural Gas,1465.6
+C R Wing Cogeneration Plant,TX,32.2722,-101.4222,0.0,0.0,Not Considered,Natural Gas,230.0
+Campbell Soup Cogeneration,CA,38.511068,-121.471796,0.0,0.0,Not Considered,Natural Gas,173.9
+Clark (NV),NV,36.0875,-115.0507,11.8,10.9,Good,Natural Gas,578.8
+Cardinal Cogen,CA,37.4296,-122.1759,0.0,0.0,Not Considered,Natural Gas,52.8
+Carson Cogeneration,CA,33.8759,-118.2491,0.0,0.0,Not Considered,Natural Gas,55.8
+Carson Ice Cogen,CA,38.4461,-121.4614,0.0,0.0,Not Considered,Natural Gas,71.5
+Chino,CA,33.9961,-117.6726,0.0,0.0,Not Considered,Natural Gas,30.8
+Chino Mines Company,NM,32.6956,-108.1225,0.0,0.0,Not Considered,Natural Gas,54.0
+Wolf Hollow,TX,32.3347,-97.7344,15.1,14.1,Fair,Natural Gas,809.6
+Colusa CC,CA,39.1019,-122.1113,88.7,74.0,Good,Natural Gas,666.0
+Cosumnes Power Plant,CA,38.3461,-121.1217,20.0,18.4,Good,Natural Gas,530.0
+Currant Creek,UT,39.8223,-111.894,70.3,58.5,Good,Natural Gas,566.9
+Desert Basin Generating,AZ,32.9042,-111.7889,82.8,70.0,Excellent,Natural Gas,646.1
+Cool Water,CA,34.8622,-116.854,0.0,0.0,Not Considered,Natural Gas,580.0
+Crosscut,AZ,33.44,-111.9442,0.0,0.0,Not Considered,Natural Gas,30.0
+Delta Energy Center,CA,38.0167,-121.8439,0.0,0.0,Not Considered,Natural Gas,943.5
+Elk Hills Power,CA,35.2803,-119.311,25.9,23.7,Good,Natural Gas,623.0
+Cogeneration 1,AZ,32.105,-111.7931,0.0,0.0,Not Considered,Natural Gas,9.0
+Continental Cogeneration,CA,37.1124,-120.9421,0.0,0.0,Not Considered,Natural Gas,275.0
+CPV Vaca Station,CA,38.3989,-121.9239,0.0,0.0,Not Considered,Natural Gas,660.0
+DAI Oildale (DEXZEL),CA,35.3444,-118.7289,0.0,0.0,Not Considered,Natural Gas,36.0
+Desert Power LP,UT,40.666,-112.5273,0.0,0.0,Not Considered,Natural Gas,125.0
+Fort St Vrain,CO,40.2461,-104.8742,95.9,80.5,Good,Natural Gas,742.6
+Front Range Power,CO,38.6281,-104.7069,73.4,61.6,Good,Natural Gas,541.0
+Gateway Generating Station,CA,38.0051,-121.8049,10.0,9.3,Good,Natural Gas,619.0
+Gila River Project,AZ,32.9761,-112.694,339.2,283.2,Excellent,Natural Gas,2476.0
+El Segundo,CA,33.9058,-118.4031,0.0,0.0,Not Considered,Natural Gas,670.0
+Encina,CA,33.1408,-117.3342,0.0,0.0,Not Considered,Natural Gas,558.0
+Grayson,CA,34.1556,-118.2782,0.0,0.0,Not Considered,Natural Gas,130.0
+Griffith Generating Station,AZ,35.0517,-114.1334,85.6,71.4,Excellent,Natural Gas,654.4
+El Dorado Energy,NV,35.7867,-114.9928,0.0,0.0,Not Considered,Natural Gas,598.0
+Etiwanda,CA,34.0891,-117.528,0.0,0.0,Not Considered,Natural Gas,656.0
+Foster Wheeler Martinez,CA,38.0244,-122.0589,0.0,0.0,Not Considered,Natural Gas,113.5
+"Fresno Cogeneration Partners, L.P.",CA,36.6183,-120.1,0.0,0.0,Not Considered,Natural Gas,60.3
+Gilroy Power Plant,CA,37.0001,-121.5367,0.0,0.0,Not Considered,Natural Gas,130.0
+Goal Line,CA,33.1185,-117.0995,0.0,0.0,Not Considered,Natural Gas,51.4
+Harquahala,AZ,33.4759,-113.1133,57.1,52.2,Excellent,Natural Gas,1325.1
+Haynes,CA,33.7639,-118.0942,40.3,40.8,Fair,Natural Gas,604.3
+Haynes,CA,33.7639,-118.0942,19.7,18.0,Fair,Natural Gas,604.3
+High Desert Power Project,CA,34.5953,-117.3647,72.0,63.8,Excellent,Natural Gas,852.0
+Hobbs Generating Station,NM,32.7798,-103.2156,88.8,74.3,Good,Natural Gas,700.0
+J Robert Massengale,TX,33.6039,-101.8408,10.0,8.0,Good,Natural Gas,84.0
+Hanford Energy Park,CA,36.2689,-119.6469,0.0,0.0,Not Considered,Natural Gas,147.0
+Harbor Cogen,CA,33.7778,-118.236,0.0,0.0,Not Considered,Natural Gas,107.4
+Harper Lake Energy Park,CA,34.929853,-117.0205,0.0,0.0,Not Considered,Natural Gas,400.0
+Henrietta,CA,36.2397,-119.9044,0.0,0.0,Not Considered,Natural Gas,123.0
+Inland Empire Energy Center,CA,33.74583,-117.1742,0.0,0.0,Not Considered,Natural Gas,386.8
+Irvington,AZ,32.1619,-110.9289,0.0,0.0,Not Considered,Natural Gas,331.2
+Lake Side Power,UT,40.3311,-111.7547,41.9,37.6,Good,Natural Gas,591.3
+Lodi,CA,38.1562,-121.2975,6.5,6.1,Good,Natural Gas,307.7
+Los Esteros Critical Energy Facility,CA,37.425,-121.9319,29.0,25.2,Good,Natural Gas,300.0
+Luna Energy Facility,NM,32.2983,-107.78,83.9,70.3,Excellent,Natural Gas,650.0
+King City Power Plant,CA,36.225,-121.1278,0.0,0.0,Not Considered,Natural Gas,133.2
+Kingsburg Cogeneration,CA,36.5397,-119.5794,0.0,1.4,Not Considered,Natural Gas,36.2
+Kyrene,AZ,33.3544,-111.9364,0.0,0.0,Not Considered,Natural Gas,400.0
+Lake Side Power,UT,40.3311,-111.7547,0.0,0.0,Not Considered,Natural Gas,607.0
+Las Vegas Cogen LP,NV,36.2317,-115.1235,0.0,0.0,Not Considered,Natural Gas,61.3
+Las Vegas Cogeneration LP II,NV,36.2322,-115.1239,0.0,0.0,Not Considered,Natural Gas,297.6
+Linde Wilmington,CA,33.78,-118.2619,0.0,0.0,Not Considered,Natural Gas,31.0
+Los Angeles County Civic Center,CA,34.3209,-118.2212,0.0,0.0,Not Considered,Natural Gas,34.5
+Los Medanos Energy Center,CA,38.03,-121.8708,0.0,0.0,Not Considered,Natural Gas,678.3
+Mesquite Power,AZ,33.344,-112.8535,180.8,151.0,Excellent,Natural Gas,1383.2
+Metcalf Energy Center,CA,37.2169,-121.7439,34.2,31.1,Good,Natural Gas,635.0
+Nebo Power Station,UT,40.0614,-111.7294,15.5,13.0,Good,Natural Gas,140.0
+Newman,TX,31.9858,-106.4322,41.4,34.7,Good,Natural Gas,463.0
+Magnolia Power Project,CA,34.1788,-118.3153,0.0,0.0,Not Considered,Natural Gas,387.6
+Malburg Generating Station,CA,33.9983,-118.2219,0.0,0.0,Not Considered,Natural Gas,158.8
+Mojave Cogeneration Company,CA,35.0433,-117.645,0.0,0.0,Not Considered,Natural Gas,57.1
+Morro Bay,CA,35.3747,-120.8578,0.0,0.0,Not Considered,Natural Gas,1200.0
+Moss Landing,CA,36.8042,-121.7775,0.0,0.0,Not Considered,Natural Gas,1398.0
+Mustang Station,TX,32.9728,-102.7417,0.0,0.0,Not Considered,Natural Gas,521.0
+Naval Station Energy Facility,CA,33.0362,-116.7356,0.0,0.0,Not Considered,Natural Gas,55.1
+Nevada Cogen Associates No. 1,NV,36.3429,-114.9203,0.0,0.0,Not Considered,Natural Gas,96.3
+Newman,TX,31.9858,-106.4322,0.0,0.0,Not Considered,Natural Gas,463.0
+North Island Energy Facility,CA,32.705,-117.189,0.0,0.0,Not Considered,Natural Gas,83.5
+Odessa-Ector Power Project,TX,31.8378,-102.3278,102.5,90.4,Good,Natural Gas,1135.2
+Palmdale Hybrid Power Project | solar trough hybrid,CA,34.6416,-118.1263,0.0,63.0,Good,Natural Gas,555.0
+Pastoria Energy Center,CA,34.9556,-118.844,22.2,20.7,Good,Natural Gas,779.0
+Oakley Generating Station,CA,38.01,-121.7486,0.0,4.7,Not Considered,Natural Gas,644.0
+Ocotillo,AZ,33.4225,-111.9122,0.0,0.0,Not Considered,Natural Gas,227.2
+Olive View Medical Center,CA,34.3209,-118.2212,0.0,0.0,Not Considered,Natural Gas,5.6
+Otay Mesa Generating Project,CA,33.0362,-116.7356,0.0,0.0,Not Considered,Natural Gas,688.5
+Palomar Energy,CA,33.1192,-117.118,0.0,0.0,Not Considered,Natural Gas,559.0
+Pinal Central CC,AZ,32.8765,-111.5462,0.0,0.0,Not Considered,Natural Gas,1150.0
+Pitchess Cogeneration Station,CA,34.4458,-118.5871,0.0,0.0,Not Considered,Natural Gas,28.3
+Pittsburg,CA,38.0392,-121.894,0.0,0.0,Not Considered,Natural Gas,550.0
+Quail Run,TX,31.8414,-102.315,109.0,62.0,Good,Natural Gas,573.0
+Redding,CA,40.5083,-122.4253,6.9,5.8,Fair,Natural Gas,70.0
+Redhawk,AZ,33.33,-112.84,43.8,20.1,Excellent,Natural Gas,1136.0
+Rocky Mountain Energy Center,CO,40.0911,-104.5947,88.5,74.2,Good,Natural Gas,704.9
+Roseville Energy Park,CA,38.7926,-121.3823,20.5,17.1,Good,Natural Gas,164.0
+Russell City Energy Center,CA,37.6276,-122.1046,16.1,18.5,Fair,Natural Gas,600.0
+San Bernardino,CA,34.0027,-117.2405,86.8,76.6,Good,Natural Gas,1108.1
+Proctor & Gamble Cogeneration,CA,38.525943,-121.389313,0.0,0.0,Not Considered,Natural Gas,149.4
+Rifle Generating Station,CO,39.5173,-107.7299,0.0,0.0,Not Considered,Natural Gas,108.3
+Saguaro,AZ,32.5517,-111.3,0.0,0.0,Not Considered,Natural Gas,250.0
+Saguaro Power Company,NV,36.0417,-115.0117,0.0,0.0,Not Considered,Natural Gas,127.2
+San Diego State University,CA,33.0362,-116.7356,0.0,0.0,Not Considered,Natural Gas,14.3
+Sanger,CA,36.8137,-119.3747,0.0,0.0,Not Considered,Natural Gas,56.0
+Santan,AZ,33.3333,-111.751,112.7,94.2,Excellent,Natural Gas,1326.0
+Silverhawk Power Project,NV,36.4078,-114.9603,70.3,60.9,Excellent,Natural Gas,664.7
+South Point Energy Center,AZ,34.8764,-114.5297,12.8,11.9,Excellent,Natural Gas,708.0
+Sunrise Power Project,CA,35.2097,-119.585,81.4,68.0,Good,Natural Gas,605.4
+Sutter Power,CA,39.0531,-121.6939,5.7,5.3,Good,Natural Gas,636.0
+Tesla Generating Station,CA,37.6803,-121.7717,92.0,76.7,Good,Natural Gas,624.0
+Santa Ynez Facility,CA,34.6688,-120.0125,0.0,0.0,Not Considered,Natural Gas,49.3
+Scattergood,CA,33.9175,-118.4258,0.0,0.0,Not Considered,Natural Gas,900.0
+Shell Martinez Refining,CA,38.0169,-122.1117,0.0,0.0,Not Considered,Natural Gas,100.0
+Sigurd Coal Plant,UT,38.8407,-111.967077,0.0,0.0,Not Considered,Natural Gas,540.0
+Southeast Regional Energy Center,CA,34.0099,-118.2355,0.0,0.0,Not Considered,Natural Gas,330.0
+Thermo Fort Lupton CC Plant,CO,40.0979,-104.7745,0.0,0.0,Not Considered,Natural Gas,386.5
+Tracy (NV),NV,39.5625,-119.525,29.4,25.0,Good,Natural Gas,668.9
+Tracy Peaker Project,CA,37.7107,-121.4906,41.2,34.3,Good,Natural Gas,313.8
+Valley (CA),CA,34.2481,-118.3903,18.0,19.7,Fair,Natural Gas,741.0
+Victorville 2 Hybrid,CA,34.639705,-117.364883,74.6,62.4,Excellent,Natural Gas,572.0
+Walnut Energy Center,CA,37.4903,-120.9071,15.8,14.4,Good,Natural Gas,300.6
+Walter M. Higgins Generating Station,NV,35.6139,-115.3561,86.4,72.0,Excellent,Natural Gas,688.4
+Toquop Energy Facility,NV,36.8056,-114.0666,0.0,0.0,Not Considered,Natural Gas,700.0
+UCI Facilities Management Central Plant,CA,33.665648,-117.854075,0.0,0.0,Not Considered,Natural Gas,19.0
+UCLA South Campus,CA,34.0692,-118.4439,0.0,0.0,Not Considered,Natural Gas,43.0
+United Cogen Incorporated,CA,37.4211,-122.3173,0.0,0.0,Not Considered,Natural Gas,31.0
+"University of California, San Diego (UCSD)",CA,32.8339,-117.2575,0.0,0.0,Not Considered,Natural Gas,30.0
+University of Colorado,CO,40.0894,-105.3556,0.0,0.0,Not Considered,Natural Gas,33.0
+Carty Generating Station,OR,45.839855,-119.700583,69.0,41.0,Good,Natural Gas,500.0
+Von Raesfeld,CA,37.3767,-121.9508,0.0,0.0,Not Considered,Natural Gas,154.0
+Watson Cogeneration,CA,33.8083,-118.235,0.0,0.0,Not Considered,Natural Gas,405.0
+Watsonville Cogeneration Project,CA,36.9112,-121.7685,0.0,0.0,Not Considered,Natural Gas,34.8
+West Phoenix,AZ,33.4417,-112.1583,17.0,15.7,Excellent,Natural Gas,1100.6
+Woodland,CA,37.6528,-121.0172,7.3,6.6,Good,Natural Gas,98.2
+Cimarron River,KS,37.1611,-100.7619,0.0,0.0,Not Considered,Natural Gas,61.3
+Fort Dodge (KS),KS,37.7328,-99.9497,0.0,0.0,Not Considered,Natural Gas,146.6
+Garden City,KS,37.9703,-100.8956,0.0,0.0,Not Considered,Natural Gas,97.5
+Great Bend 3,KS,38.41,-98.8689,0.0,0.0,Not Considered,Natural Gas,98.7
+Klamath Cogeneration Project,OR,42.1739,-121.8106,72.0,60.0,Good,Natural Gas,470.0
+Langley Gulch Power Plant,ID,43.969886,-116.81904,41.0,35.0,Good,Natural Gas,300.0
+Rathdrum Power LLC,ID,47.7861,-116.9214,29.0,25.0,Fair,Natural Gas,248.0
+Coyote Springs II,OR,45.8478,-119.6738,20.0,18.0,Fair,Natural Gas,242.7
+Wheelabrator Norwalk Energy,CA,34.3209,-118.2212,0.0,0.0,Not Considered,Natural Gas,30.7
+Yucca,AZ,32.7214,-114.7097,0.0,0.0,Not Considered,Natural Gas,86.7
+Yuma Cogeneration Associates,AZ,32.7298,-114.6641,0.0,0.0,Not Considered,Natural Gas,62.6
+Hermiston Power Project,OR,45.7931,-119.3117,74.0,64.0,Fair,Natural Gas,615.0
+Cass County,NE,40.9472,-95.9667,26.0,22.0,Fair,Natural Gas,190.0
+Coyote Springs,OR,45.8486,-119.6744,37.0,31.0,Fair,Natural Gas,225.4
+C W Burdick,NE,40.9228,-98.3269,0.0,0.0,Not Considered,Natural Gas,54.0
+Canaday,NE,40.6941,-99.7005,0.0,0.0,Not Considered,Natural Gas,110.9
+Anadarko (OK),OK,35.0847,-98.23,0.0,0.0,Not Considered,Natural Gas,315.3
+Hermiston Generating Plant,OR,45.8042,-119.37,86.0,72.0,Fair,Natural Gas,464.0
+Port Westward Generating Plant,OR,46.1792,-123.1717,0.0,0.0,Not Considered,Natural Gas,372.0
+Cheyenne Power Plant,WY,41.139981,-104.820246,18.0,15.0,Good,Natural Gas,132.0
+Blythe Energy Power Plant,CA,33.6157,-114.6865,0.0,0.0,Not Considered,Natural Gas,520.0
+California Institute of Technology,CA,34.3209,-118.2212,0.0,0.0,Not Considered,Natural Gas,13.0
+Camarillo,CA,34.4555,-119.0796,0.0,0.0,Not Considered,Natural Gas,31.1
+Clearwater Cogeneration Project,CA,33.8912,-117.6085,0.0,0.0,Not Considered,Natural Gas,49.0
+Crockett Cogeneration Project,CA,38.0569,-122.2161,0.0,0.0,Not Considered,Natural Gas,247.4
+EG178 Facility,TX,32.7467,-100.9536,0.0,0.0,Not Considered,Natural Gas,153.9
+Greenleaf 1 Power Plant,CA,39.0519,-121.6963,0.0,0.0,Not Considered,Natural Gas,66.0
+El Centro,CA,32.8022,-115.54,0.0,0.0,Not Considered,Natural Gas,124.4
+El Centro,CA,32.8022,-115.54,0.0,0.0,Not Considered,Natural Gas,124.4
+Beatrice,NE,40.3286,-96.8067,0.0,0.0,Not Considered,Natural Gas,237.0
+Terry Bundy Generating Station,NE,40.9108,-96.6147,0.0,0.0,Not Considered,Natural Gas,119.3
+El Segundo Refinery,CA,33.9106,-118.425,0.0,0.0,Not Considered,Natural Gas,134.2
+Harbor,CA,33.7856,-118.2644,0.0,0.0,Not Considered,Natural Gas,227.0
+Inland Empire Energy Center,CA,33.74583,-117.1742,0.0,0.0,Not Considered,Natural Gas,386.8
+La Paloma Generating,CA,35.2956,-119.5919,0.0,0.0,Not Considered,Natural Gas,1200.0
+Loma Linda University,CA,34.8428,-116.1729,0.0,0.0,Not Considered,Natural Gas,11.6
+NTC/MCRD Energy Facility,CA,32.7353,-117.2083,0.0,0.0,Not Considered,Natural Gas,25.6
+Panda Sherman Generating Station,TX,33.63556,-96.60861,0.0,0.0,Not Considered,Natural Gas,500.0
+Santa Clara Mill,CA,37.2273,-121.6827,0.0,0.0,Not Considered,Natural Gas,27.0
+Thermo Fort Lupton CC Plant,CO,40.0979,-104.7745,0.0,0.0,Not Considered,Natural Gas,386.5
+Thermo Power & Electric,CO,40.4084,-104.6843,0.0,0.0,Not Considered,Natural Gas,110.8
+West Texas Energy Facility,TX,31.7281,-106.3462,0.0,0.0,Not Considered,Natural Gas,500.0
+Arvah B Hopkins,FL,30.4522,-84.4,44.9,37.3,Fair,Natural Gas,446.75
+Attala Generating Plant,MS,33.0142,-89.6758,19.5,17.9,Fair,Natural Gas,500.0
+Autaugaville,AL,32.391885,-86.571064,177.2,147.2,Fair,Natural Gas,1304.0
+Barney M Davis,TX,27.6067,-97.3119,91.9,76.5,Good,Natural Gas,731.0
+Barry,AL,31.0069,-88.0103,48.9,44.6,Good,Natural Gas,1070.8
+Bastrop Energy Center,TX,30.1458,-97.55,62.0,54.6,Fair,Natural Gas,727.8
+Batesville Generation Facility,MS,34.3345,-89.9272,59.3,53.1,Fair,Natural Gas,891.0
+Baton Rouge Cogen,LA,30.4971,-91.1754,0.0,0.0,Not Considered,Natural Gas,336.8
+Amite South plant,LA,29.949803,-90.148745,0.0,0.0,Not Considered,Natural Gas,550.0
+Auburndale Energy Center,FL,28.0534,-81.8059,0.0,0.0,Not Considered,Natural Gas,173.5
+Baytown Power Plant,TX,29.7438,-94.6122,0.0,0.0,Not Considered,Natural Gas,914.6
+Bartow,FL,27.8613,-82.6012,0.0,0.0,Not Considered,Natural Gas,1280.0
+Beaumont Refinery,TX,30.0639,-94.0703,0.0,0.0,Not Considered,Natural Gas,677.8
+Bosque County,TX,31.8594,-97.3586,17.7,15.8,Fair,Natural Gas,499.0
+Brandy Branch,FL,30.3206,-81.9486,42.0,37.5,Good,Natural Gas,598.1
+Brazos Valley Project,TX,29.4731,-95.6244,73.4,62.8,Good,Natural Gas,675.6
+Caledonia Power Project,MS,33.6464,-88.2717,74.1,64.5,Fair,Natural Gas,801.0
+Cane Island Power Park,FL,28.2764,-81.533,15.4,13.9,Good,Natural Gas,370.0
+Chattahoochee Energy Facility,GA,33.407,-85.0387,11.4,10.6,Fair,Natural Gas,539.7
+"Choctaw Gas Generation, LLC",MS,33.3792,-89.2089,11.3,10.6,Fair,Natural Gas,735.2
+Chouteau,OK,36.2206,-95.2756,6.4,6.0,Fair,Natural Gas,532.9
+Buck (NC),NC,35.7133,-80.3767,0.0,0.0,Not Considered,Natural Gas,620.0
+C D McIntosh Jr,FL,28.0809,-81.9256,0.0,0.0,Not Considered,Natural Gas,369.0
+Butler Warner,NC,35.0986,-78.8294,0.0,0.0,Not Considered,Natural Gas,245.8
+Cape Canaveral,FL,28.4694,-80.7642,0.0,0.0,Not Considered,Natural Gas,1355.0
+Carville Energy Center,LA,30.2292,-91.065,0.0,0.0,Not Considered,Natural Gas,570.0
+Channel Energy Center,TX,29.7189,-95.2319,0.0,0.0,Not Considered,Natural Gas,715.0
+Channelview,TX,29.8356,-95.1242,0.0,0.0,Not Considered,Natural Gas,918.3
+BP Amoco Power Station 4,TX,29.3794,-94.9167,0.0,0.0,Not Considered,Natural Gas,191.1
+Cherokee County Cogeneration,SC,35.0727,-81.613,10.8,0.0,Fair,Natural Gas,101.2
+Colorado Bend Energy Center,TX,29.2878,-96.0683,59.8,40.5,Fair,Natural Gas,566.1
+Cedar Bayou 4,TX,29.7483,-94.9272,0.0,0.0,Not Considered,Natural Gas,535.5
+Central Energy Plant,FL,28.4263,-81.5806,0.0,0.0,Not Considered,Natural Gas,70.0
+Chouteau,OK,36.2206,-95.2756,0.0,0.0,Fair,Natural Gas,540.0
+Corpus Christi Energy Center,TX,27.8139,-97.4283,5.4,5.1,Good,Natural Gas,575.5
+Cottonwood Energy,TX,30.2588,-93.7353,42.8,35.6,Good,Natural Gas,1336.0
+Cogen Lyondell,TX,29.8144,-95.1103,0.0,0.0,Not Considered,Natural Gas,643.6
+Dan River,NC,36.4862,-79.7208,0.0,0.0,Not Considered,Natural Gas,620.0
+Decatur Energy Center (Solutia Cogen),AL,34.6292,-87.0214,0.0,0.0,Not Considered,Natural Gas,711.0
+Deer Park Energy Center,TX,29.7153,-95.1361,0.0,0.0,Not Considered,Natural Gas,996.0
+Deer Park Energy Center,TX,29.7153,-95.1361,0.0,0.0,Not Considered,Natural Gas,996.0
+Dow Chemical Louisiana Operations,LA,30.3186,-91.2325,0.0,0.0,Not Considered,Natural Gas,714.5
+Evangeline Power Project,LA,30.8442,-92.2606,71.7,63.4,Fair,Natural Gas,922.8
+Forney Generating Facility,TX,32.7563,-96.4916,246.8,205.8,Fair,Natural Gas,1783.8
+Columbia Energy Center,SC,33.8692,-81.0183,0.0,0.0,Not Considered,Natural Gas,668.5
+Crist,FL,30.5661,-87.2289,0.0,0.0,Not Considered,Natural Gas,600.0
+Dallas/Fort Worth Airport,TX,32.8967,-97.0406,0.0,0.0,Not Considered,Natural Gas,110.0
+Dow Chemical Texas Operations,TX,28.99,-95.36,0.0,0.0,Not Considered,Natural Gas,1010.6
+Dow Freeport,TX,28.9433,-95.4584,0.0,0.0,Not Considered,Natural Gas,260.0
+Eastex Cogeneration Project,TX,32.4573,-94.6541,0.0,0.0,Not Considered,Natural Gas,467.7
+Effingham County,GA,32.2792,-81.2842,0.0,0.0,Not Considered,Natural Gas,594.3
+Fort Myers,FL,26.6967,-81.7831,14.9,14.0,Good,Natural Gas,1644.2
+Franklin CC,AL,32.6094,-85.0961,163.4,140.4,Fair,Natural Gas,1995.7
+Franklin CC,AL,32.6094,-85.0961,76.3,65.5,Fair,Natural Gas,688.1
+Freestone Energy Center,TX,31.8907,-96.1128,35.4,32.6,Fair,Natural Gas,1036.0
+Frontera Generation Facility,TX,26.208,-98.3992,13.0,12.0,Fair,Natural Gas,529.0
+GenPower Anderson,SC,34.5299,-82.7122,83.8,69.7,Fair,Natural Gas,655.6
+GenPower Earleys,NC,36.305926,-76.986952,86.6,72.0,Good,Natural Gas,670.0
+GenPower Kelley,AL,33.5193,-86.8012,171.8,143.0,Fair,Natural Gas,1340.0
+GenPower McIntosh,GA,32.3558,-81.1683,86.6,72.0,Good,Natural Gas,670.0
+Green Country Energy Project,OK,35.9833,-95.9346,95.0,82.2,Good,Natural Gas,903.9
+Guadalupe,TX,29.6237,-98.1395,34.3,50.8,Good,Natural Gas,1142.2
+H L Culbreath Bayside,FL,27.9072,-82.4231,27.1,33.4,Good,Natural Gas,2014.4
+Elmore County Combined Cycle Plant,AL,32.4971,-86.331,0.0,0.0,Not Considered,Natural Gas,800.0
+Ennis-Tractebel Power Project,TX,32.3194,-96.6739,0.0,0.0,Not Considered,Natural Gas,418.0
+Formosa Plastics Corp,LA,30.4992,-91.1872,0.0,0.0,Not Considered,Natural Gas,93.5
+Formosa Utility Venture,TX,28.6917,-96.5417,0.0,0.0,Not Considered,Natural Gas,689.4
+Freeport,TX,28.9433,-95.4584,0.0,0.0,Not Considered,Natural Gas,92.7
+GE Plastics Cogen,AL,32.3102,-86.5242,0.0,0.0,Not Considered,Natural Gas,97.0
+Hidalgo Energy Center,TX,26.3417,-98.1757,21.2,19.5,Good,Natural Gas,551.3
+Hillabee Energy Center,AL,32.9346,-85.9597,46.3,41.8,Fair,Natural Gas,822.8
+Hinds Energy Facility,MS,32.412,-90.2315,30.2,27.2,Fair,Natural Gas,502.0
+Hines,FL,27.7886,-81.8694,38.4,35.1,Good,Natural Gas,2262.5
+Ingleside Cogeneration,TX,27.8827,-97.2429,37.0,33.1,Good,Natural Gas,548.2
+Horseshoe Lake,OK,35.5089,-97.1789,0.0,0.0,Not Considered,Natural Gas,247.0
+Jack Energy Facility,TX,33.1691,-97.8246,82.3,68.6,Good,Natural Gas,640.0
+Jack Energy Facility,TX,33.1691,-97.8246,82.3,68.6,Good,Natural Gas,640.0
+Gregory Power,TX,27.8881,-97.2572,0.0,0.0,Not Considered,Natural Gas,432.0
+H.F. Lee Energy Complex,NC,35.3775,-78.0875,0.0,0.0,Not Considered,Natural Gas,950.0
+Hansel,FL,28.2908,-81.4069,0.0,0.0,Not Considered,Natural Gas,55.0
+Hardee Power Station,FL,27.6364,-81.9636,0.0,0.0,Not Considered,Natural Gas,287.4
+Hays Energy Project,TX,29.7806,-97.9894,0.0,0.0,Not Considered,Natural Gas,989.0
+Henry D King,FL,27.45,-80.3239,0.0,0.0,Not Considered,Natural Gas,30.8
+Hiram Clarke,TX,29.65151,-95.452695,0.0,0.0,Not Considered,Natural Gas,150.0
+Hog Bayou Energy Center,AL,30.7478,-88.0575,0.0,0.0,Not Considered,Natural Gas,329.0
+Houston Chemical Complex Battleground,TX,29.7314,-95.0839,0.0,0.0,Not Considered,Natural Gas,316.4
+J L Bates,TX,26.2222,-98.3944,0.0,0.0,Not Considered,Natural Gas,182.0
+Jack McDonough,GA,33.8244,-84.475,0.0,0.0,Not Considered,Natural Gas,2520.0
+Jasper County,SC,32.3592,-81.1236,103.4,89.3,Good,Natural Gas,1001.7
+Johnson County,TX,32.3994,-97.4078,14.7,13.4,Good,Natural Gas,282.6
+Kiamichi Energy Facility,OK,34.6831,-95.9349,176.7,147.8,Fair,Natural Gas,1370.0
+Lagoon Creek,TN,35.6578,-89.3964,44.8,39.8,Good,Natural Gas,560.0
+Lamar Power,TX,33.6314,-95.589,60.4,54.2,Good,Natural Gas,1090.8
+Lansing Smith,FL,30.2689,-85.7003,9.9,9.2,Good,Natural Gas,619.7
+Limestone (TX),TX,31.4219,-96.2525,22.0,59.5,Fair,Natural Gas,1849.8
+Lost Pines 1 Power Plant,TX,30.1478,-97.27,8.4,7.9,Fair,Natural Gas,595.0
+Louisiana 1,LA,30.4903,-91.1875,19.2,17.4,Good,Natural Gas,406.3
+John Sevier,TN,36.3767,-82.9639,0.0,0.0,Not Considered,Natural Gas,880.0
+L V Sutton,NC,34.2824,-77.9864,0.0,0.0,Not Considered,Natural Gas,620.0
+La Palma,TX,26.124,-97.6197,0.0,0.0,Not Considered,Natural Gas,255.0
+Lake Charles Cogen,LA,30.2637,-93.2773,0.0,0.0,Not Considered,Natural Gas,493.0
+Lake Cogen,FL,28.9158,-81.676,0.0,0.0,Not Considered,Natural Gas,157.7
+Larsen Memorial,FL,28.0797,-81.9228,0.0,0.0,Not Considered,Natural Gas,126.5
+Lauderdale,FL,26.0681,-80.1983,0.0,0.0,Not Considered,Natural Gas,1042.4
+Lawton Energy Cogen Facility,OK,34.5431,-98.3244,0.0,0.0,Not Considered,Natural Gas,308.0
+Lewis Creek,TX,30.4364,-95.5215,0.0,0.0,Not Considered,Natural Gas,550.0
+Lon C Hill,TX,27.84613,-97.6149,0.0,0.0,Not Considered,Natural Gas,530.0
+Magic Valley Generating Station,TX,26.3403,-98.19,22.2,20.6,Good,Natural Gas,801.0
+Manatee,FL,27.6058,-82.3456,93.0,82.6,Good,Natural Gas,1224.6
+Martin,FL,27.0536,-80.5628,92.9,82.0,Good,Natural Gas,2448.5
+McClain Energy Facility,OK,35.2979,-97.5896,32.6,29.2,Good,Natural Gas,489.0
+McIntosh CC,GA,32.3558,-81.1683,152.3,130.6,Good,Natural Gas,1376.6
+McWilliams,AL,31.4001,-86.4767,11.8,11.0,Fair,Natural Gas,654.0
+Moselle,MS,31.5289,-89.2992,36.0,29.8,Good,Natural Gas,268.0
+Mulberry Cogen,FL,27.8489,-81.8775,8.3,7.4,Fair,Natural Gas,131.5
+Magnolia Energy,MS,34.8358,-89.2017,0.0,0.0,Not Considered,Natural Gas,1003.5
+Mid-Georgia Cogen,GA,32.4853,-83.6036,0.0,0.0,Not Considered,Natural Gas,323.0
+Midlothian Energy Project,TX,32.4302,-97.0537,0.0,0.0,Not Considered,Natural Gas,1734.0
+Midulla Generating Station,FL,27.6417,-81.9625,0.0,0.0,Not Considered,Natural Gas,587.0
+Mobile Bay Onshore Treating Facility,AL,30.7943,-88.2102,0.0,0.0,Not Considered,Natural Gas,12.0
+Monroe CC Plant,GA,33.8239,-83.713,0.0,0.0,Not Considered,Natural Gas,605.0
+Mountain Creek,TX,32.7253,-96.9361,0.0,0.0,Not Considered,Natural Gas,640.0
+Murray Generating Facility,GA,34.7189,-84.9353,0.0,0.0,Not Considered,Natural Gas,1192.0
+Northeastern,OK,36.4317,-95.7008,0.0,0.0,Not Considered,Natural Gas,527.0
+Nueces Bay,TX,27.80028,-97.39611,70.6,66.1,Good,Natural Gas,677.0
+Oneta Energy Center,OK,36.0119,-95.6967,308.0,130.2,Fair,Natural Gas,1214.0
+Osprey Energy Center,FL,28.0525,-81.8083,10.8,8.9,Fair,Natural Gas,644.2
+Ouachita Power,LA,32.7056,-92.0697,93.9,81.3,Fair,Natural Gas,903.9
+Oyster Creek Unit VIII,TX,28.9455,-95.3149,9.0,7.0,Fair,Natural Gas,497.9
+Paris Energy Center,TX,33.6968,-95.5577,10.0,9.1,Fair,Natural Gas,250.0
+Perryville,LA,32.6914,-92.0192,26.1,23.9,Fair,Natural Gas,830.9
+Orange Cogeneration,FL,27.8708,-81.8253,0.0,0.0,Not Considered,Natural Gas,136.6
+Orlando Cogen,FL,28.4422,-81.4119,0.0,0.0,Not Considered,Natural Gas,122.4
+Panda Rosemary,NC,36.4525,-77.6594,0.0,0.0,Not Considered,Natural Gas,180.0
+Panda Temple Facility,TX,31.09805,-97.3425,0.0,0.0,Not Considered,Natural Gas,1200.0
+Pasadena Power Plant,TX,29.7233,-95.1769,0.0,0.0,Not Considered,Natural Gas,815.0
+Pasco Cogen,FL,28.3744,-82.1892,0.0,0.0,Not Considered,Natural Gas,141.3
+Plaquemine Cogeneration,LA,30.3215,-91.2392,0.0,0.0,Not Considered,Natural Gas,987.0
+Polk,FL,27.7286,-81.9897,0.0,0.0,Not Considered,Natural Gas,555.0
+Ponca City,OK,36.7205,-97.0868,0.0,0.0,Not Considered,Natural Gas,73.8
+Pondera Capital CC,TX,29.7536,-95.3668,0.0,0.0,Not Considered,Natural Gas,3500.0
+Port Arthur,TX,29.8577,-93.9653,0.0,0.0,Not Considered,Natural Gas,139.3
+Port Arthur Refinery,TX,29.8606,-93.9672,0.0,0.0,Not Considered,Natural Gas,47.2
+Port Arthur Plant,TX,29.7569,-94.1898,0.0,1.0,Not Considered,Natural Gas,150.5
+PowerSmith Cogen Project,OK,35.4401,-97.6498,13.3,11.5,Fair,Natural Gas,122.4
+Rainey Generating Station,SC,34.3477,-82.776,24.5,22.3,Fair,Natural Gas,520.0
+Redbud Energy,OK,35.6853,-97.2242,173.4,144.8,Fair,Natural Gas,1338.0
+Richmond County,NC,34.8422,-79.7444,16.5,15.2,Fair,Natural Gas,585.9
+Rio Nogales Power Project,TX,29.5932,-97.9724,108.2,92.2,Fair,Natural Gas,898.2
+S O Purdom,FL,30.1619,-84.2014,6.9,6.4,Good,Natural Gas,247.0
+Sand Hill Energy Center,TX,30.2091,-97.6139,47.7,39.7,Good,Natural Gas,388.0
+Putnam,FL,29.6283,-81.5856,0.0,0.0,Not Considered,Natural Gas,580.0
+Reliant Energy Choctaw County,MS,33.2881,-89.4201,0.0,0.0,Not Considered,Natural Gas,899.0
+Richmond County,NC,34.8422,-79.7444,0.0,0.0,Not Considered,Natural Gas,585.9
+Riverdale Mill,AL,32.425,-86.8694,0.0,0.0,Not Considered,Natural Gas,55.2
+Riviera,FL,26.7653,-80.0528,0.0,0.0,Not Considered,Natural Gas,1344.0
+Rowan,NC,35.7325,-80.6019,0.0,0.0,Not Considered,Natural Gas,593.8
+Sabine Cogen,TX,30.0444,-93.7716,0.0,0.0,Not Considered,Natural Gas,101.4
+Sabine River Works,TX,30.0536,-93.7556,0.0,0.0,Not Considered,Natural Gas,102.3
+Sabine River Works Conoco,TX,30.0242,-93.875,0.0,0.0,Not Considered,Natural Gas,505.0
+Sand Hill Energy Center,TX,30.2091,-97.6139,0.0,0.0,Not Considered,Natural Gas,388.0
+Sanford,FL,28.8419,-81.3256,0.0,0.0,Not Considered,Natural Gas,2720.2
+Southaven Energy Center,MS,34.9597,-89.9817,93.8,81.3,Fair,Natural Gas,903.9
+Southeast Generating Station,FL,30.1546,-81.5055,38.6,34.6,Good,Natural Gas,545.0
+Stanton CC,FL,28.4836,-81.1686,13.5,13.1,Fair,Natural Gas,688.3
+Taft Cogeneration Facility,LA,29.9861,-90.4575,88.9,76.2,Good,Natural Gas,894.2
+Tenaska Frontier,TX,30.5924,-95.9178,111.5,94.9,Good,Natural Gas,939.7
+Tenaska Gateway,TX,32.0164,-94.6189,111.4,94.8,Fair,Natural Gas,939.6
+Santa Rosa Energy Center,FL,30.5928,-87.135,0.0,0.0,Not Considered,Natural Gas,241.0
+Seadrift Plant,TX,28.4792,-96.6448,0.0,0.0,Not Considered,Natural Gas,168.0
+Smith Pocola Energy Project,OK,35.27417,-94.4425,0.0,0.0,Not Considered,Natural Gas,1200.0
+Stanton Energy Center,FL,28.4836,-81.1686,0.0,0.0,Not Considered,Natural Gas,300.0
+Sterlington,LA,32.7047,-92.0792,0.0,0.0,Not Considered,Natural Gas,226.3
+Suwannee River,FL,30.3764,-83.1806,0.0,0.0,Not Considered,Natural Gas,1200.0
+T H Wharton,TX,29.9414,-95.5333,0.0,0.0,Not Considered,Natural Gas,647.4
+Taft Plant,LA,29.9861,-90.4575,0.0,0.0,Not Considered,Natural Gas,333.6
+Tenaska Central Alabama,AL,32.6503,-86.7386,0.0,0.0,Not Considered,Natural Gas,940.0
+Tenaska Lindsay Hill,AL,32.6514,-86.7386,0.0,0.0,Not Considered,Natural Gas,939.4
+Texas City,TX,29.3787,-94.944,0.0,0.0,Not Considered,Natural Gas,450.0
+Texas Medical Center,TX,29.3093,-94.7816,0.0,0.0,Not Considered,Natural Gas,45.0
+Texas Petrochemicals Corp,TX,29.6967,-95.255,0.0,0.0,Not Considered,Natural Gas,630.0
+Treasure Coast Energy Center,FL,27.44639,-80.32584,52.7,43.8,Good,Natural Gas,411.4
+Turkey Point,FL,25.4356,-80.3308,18.0,20.4,Good,Natural Gas,1224.0
+Victor J. Daniel Jr.,MS,30.5335,-88.5574,19.0,17.8,Good,Natural Gas,1132.4
+Von Rosenburg,TX,29.2575,-98.3828,24.8,22.7,Fair,Natural Gas,550.0
+Wansley CC,GA,33.4124,-85.0345,20.1,18.8,Fair,Natural Gas,1239.0
+West County Energy Center,FL,26.65833,-80.24167,120.8,105.0,Good,Natural Gas,2500.0
+Tiger Bay,FL,27.7447,-81.85,0.0,0.0,Not Considered,Natural Gas,278.1
+Tom G Smith,FL,26.6125,-80.0678,0.0,0.0,Not Considered,Natural Gas,31.4
+University of Texas at Austin,TX,30.2847,-97.7413,0.0,0.0,Not Considered,Natural Gas,130.6
+University of Texas at Austin,TX,30.2847,-97.7413,0.0,0.0,Not Considered,Natural Gas,130.6
+Urquhart,SC,33.435,-81.9111,0.0,0.0,Not Considered,Natural Gas,547.8
+Vero Beach,FL,27.6311,-80.3758,0.0,0.0,Not Considered,Natural Gas,57.9
+Victoria (TX),TX,28.6683,-96.9631,0.0,0.0,Not Considered,Natural Gas,478.0
+Wansley Unit 9,GA,33.4082,-85.0399,53.1,46.3,Fair,Natural Gas,568.0
+Washington County,AL,31.2504,-88.0156,0.0,0.0,Not Considered,Natural Gas,122.5
+Webber Falls Energy Facility,OK,35.553,-95.1702,0.0,0.0,Not Considered,Natural Gas,850.0
+Wise County Power Company,TX,33.0583,-97.9103,19.8,18.4,Good,Natural Gas,746.0
+Cecil Lynch,AR,34.7535,-92.1987,0.0,0.0,Not Considered,Natural Gas,110.0
+McClellan (AR),AR,33.5648,-92.7917,0.0,0.0,Not Considered,Natural Gas,134.0
+Harvey Couch,AR,33.3592,-93.4649,0.0,0.0,Not Considered,Natural Gas,123.0
+Lake Catherine,AR,34.4341,-92.9046,0.0,0.0,Not Considered,Natural Gas,712.0
+Coffeyville,KS,37.0456,-95.6076,0.0,0.0,Not Considered,Natural Gas,37.0
+East 12TH Street,KS,37.2376,-96.9619,0.0,0.0,Not Considered,Natural Gas,25.8
+Gordon Evans Energy Center,KS,37.7903,-97.5217,0.0,0.0,Not Considered,Natural Gas,537.0
+Hutchinson Energy Center,KS,38.0906,-97.8747,0.0,0.0,Not Considered,Natural Gas,162.0
+Murrey Gill,KS,37.5956,-97.4131,0.0,0.0,Not Considered,Natural Gas,293.0
+Pine Bluff Energy Center,AR,34.2181,-91.9025,32.0,27.0,Good,Natural Gas,192.0
+Harry L Oswald Power Facility,AR,34.5923,-92.2166,76.0,64.0,Fair,Natural Gas,548.0
+KGen Hot Spring,AR,34.2963,-92.8683,60.0,53.0,Fair,Natural Gas,630.0
+Wichita Falls Energy Company,TX,33.8631,-98.5894,0.0,0.0,Not Considered,Natural Gas,80.0
+Wilkins,MS,34.1809,-90.6118,0.0,0.0,Not Considered,Natural Gas,47.7
+Dell Power Station,AR,35.8619,-90.0253,0.0,0.0,Not Considered,Natural Gas,679.0
+Fitzhugh,AR,35.8619,-90.0253,0.0,0.0,Not Considered,Natural Gas,165.0
+Carl Bailey,AR,35.2597,-91.3631,0.0,0.0,Not Considered,Natural Gas,122.0
+Hot Spring Power Project,AR,34.4304,-92.8333,0.0,0.0,Not Considered,Natural Gas,641.5
+Neosho,KS,37.3062,-95.1118,0.0,0.0,Not Considered,Natural Gas,67.0
+Union Power,AR,33.2961,-92.5933,332.0,276.0,Fair,Natural Gas,2020.0
+Comanche (OK),OK,34.5431,-98.3244,0.0,0.0,Not Considered,Natural Gas,290.0
+Harrison County Power Project,TX,32.3958,-94.4361,58.7,0.0,Fair,Natural Gas,570.0
+Acadia Power Partners,LA,30.4284,-92.4112,0.0,0.0,Not Considered,Natural Gas,1376.0
+Arsenal Hill,LA,32.5181,-93.7611,0.0,0.0,Not Considered,Natural Gas,508.0
+Cane Island Power Park,FL,28.2764,-81.533,0.0,0.0,Not Considered,Natural Gas,300.0
+Clear Lake Power Plant,TX,29.6255,-95.067,0.0,0.0,Not Considered,Natural Gas,465.2
+Gleason Power Facility,TN,36.2454,-88.612,0.0,0.0,Not Considered,Natural Gas,375.0
+Greenville Electric Generating Plant,TX,33.13833,-96.11056,0.0,0.0,Not Considered,Natural Gas,1750.0
+John R Kelly,FL,29.6467,-82.3219,0.0,1.8,Not Considered,Natural Gas,146.1
+Madison Bell Energy Center,TX,30.987,-95.9161,0.0,0.0,Not Considered,Natural Gas,550.0
+Morgan Energy Center,AL,34.6397,-87.0639,0.0,0.0,Not Considered,Natural Gas,900.0
+PPG Powerhouse C,LA,30.2242,-93.2831,0.0,0.0,Not Considered,Natural Gas,357.7
+Sam Rayburn,TX,28.8947,-97.1347,0.0,0.0,Not Considered,Natural Gas,189.6
+Silas Ray,TX,25.9131,-97.5214,0.0,0.0,Not Considered,Natural Gas,86.0
+Theodore Co-gen Fac,AL,30.5248,-88.1289,0.0,0.0,Not Considered,Natural Gas,317.4
+West County Energy Center,FL,26.65833,-80.24167,0.0,0.0,Not Considered,Natural Gas,2500.0

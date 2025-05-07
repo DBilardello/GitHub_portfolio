@@ -1,0 +1,207 @@
+Site Name,Power Plant Type,Plant Status,State,Lat,Lon,Plant Owner,Plant Operator,Nameplate Capacity (MW),Planned Capacity (MW),Max Tower  Capacity (MWe),Max Trough Capacity (MWe),Solar-Augment Potential,Reason Not Considered
+TS Power Plant,Pulverized Coal,Operating,NV,40.6422,-116.937,Newmont Nevada Energy Investment LLC,Newmont Nevada Energy Investment LLC,220,NA,64.7,16.4,Good,
+Desert Rock,Pulverized Coal,Planned,NM,36.5435,-108.2235,Multi-Owned,(blank),0,1500,169.2,111.6,Good,
+Oak Grove Project,Pulverized Coal,Operating,TX,31.0494,-96.4813,Luminant Generation Company LLC,Luminant Generation Company LLC,944,803,484.4,140.4,Good,
+Tenaska Trailblazer Energy Center,Pulverized Coal,Planned,TX,32.8043,-100.158,Multi-Owned,Tenaska Inc.,0,600,174.7,44.6,Good,
+Rio Bravo Jasmin,Pulverized Coal,Operating,CA,35.7415,-119.0512,Multi-Owned,"Constellation Operating Services, Inc.",38.2,NA,9.8,2.5,Good,
+Savannah Mill,Pulverized Coal,Operating,GA,32.3683,-81.3413,International Paper Company,International Paper Company,154,NA,21,5.3,Good,
+E S Joslin,Pulverized Coal,Planned,TX,28.67945,-96.56,ReNu Power LLC,(blank),0,303,88.7,22.5,Good,
+Sandy Creek,Pulverized Coal,Under Construction,TX,31.5031,-96.9602,Multi-Owned,(blank),0,900,243.6,66.9,Good,
+Shady Point,Pulverized Coal,Operating,OK,35.1931,-94.6458,"AES Endeavor, Inc.","AES Shady Point, LLC",350,NA,102.5,26,Good,
+"Jefferson Smurfit Nassau County,  FL",Pulverized Coal,Operating,FL,30.6833,-81.4592,Smurfit-Stone Container Corporation,Smurfit-Stone Container Corporation,74.4,NA,22,5.5,Good,
+Limestone (TX),Pulverized Coal,Operating,TX,31.4219,-96.2525,NRG Texas Power LLC,NRG Texas Power LLC,1849.8,800,487.9,137.3,Good,
+Rio Bravo Poso,Pulverized Coal,Operating,CA,35.5556,-119.0832,Multi-Owned,"Constellation Operating Services, Inc.",38.2,NA,11.3,2.8,Fair,
+Cholla,Pulverized Coal,Operating,AZ,34.9394,-110.3033,Multi-Owned,Arizona Public Service Company,1128.8,NA,212.4,54,Excellent,
+Southport NC,Pulverized Coal,Operating,NC,33.9444,-78.0125,Primary Energy Holdings LLC,(blank),135,NA,39.8,10,Fair,
+W A Parish,Pulverized Coal,Operating,TX,29.4828,-95.6311,NRG Texas Power LLC,NRG Texas Power LLC,2697.4,NA,357.6,91.4,Good,
+J K Spruce,Pulverized Coal,Operating,TX,29.3091,-98.3205,CPS Energy,CPS Energy,566,760,203.4,103.1,Good,
+Charles R Lowman,Pulverized Coal,Operating,AL,31.4858,-87.9106,PowerSouth Energy Cooperative,PowerSouth Energy Corporation,538,NA,69.2,17.6,Fair,
+Stockton Cogen,Pulverized Coal,Operating,CA,37.9119,-121.2611,Air Products Manufacturing Corporation,"Air Products Energy Enterprises, L.P.",60,NA,17.8,4.5,Good,
+Valmy,Pulverized Coal,Operating,NV,40.8831,-117.1542,Multi-Owned,Sierra Pacific Power Company,567,500,166.2,42.2,Good,
+Ben Hill Plant,Pulverized Coal,Planned,GA,31.5,-83.1504,Power4Georgians LLC,(blank),0,850,0,0,Not Considered,Other
+Cates Cogen Plant,Pulverized Coal,Planned,NC,35.6598,-78.2456,University of North Carolina,(blank),0,11,0,0,Not Considered,Other
+Carbon Alloy Synthesis Facility,Pulverized Coal,Planned,AL,32.6825,-88.1044,United States Steel Corporation,United States Steel Corporation,0,20.5,0,0,Not Considered,Other
+Ely Energy Center,Pulverized Coal,Planned,NV,39.2512,-114.88,Multi-Owned,Nevada Power Company,0,1500,0,0,Not Considered,Other
+Raton,Pulverized Coal,Operating,NM,36.893,-104.442,Raton Public Service Co,Raton Public Service Co,7.5,NA,0,0,Not Considered,Plant Too Old
+Plant Crisp,Pulverized Coal,Operating,GA,31.8477,-83.9421,Crisp County Power Comm,Crisp County Power Comm,12.5,NA,0,0,Not Considered,Plant Too Old
+Green County,Pulverized Coal,Operating,AL,32.6017,-87.7811,Multi-Owned,Alabama Power Company,568.4,NA,0,0,Not Considered,Plant Too Old
+Kennecott Utah Copper,Pulverized Coal,Operating,UT,40.7119,-112.1225,Kennecott Utah Copper Corporation,Kennecott Utah Copper Corporation,213.8,NA,0,0,Not Considered,Plant Too Old
+Kinston,Pulverized Coal,Operating,NC,35.3298,-77.4752,"Unifi, Inc.","Unifi, Inc.",15,NA,0,0,Not Considered,Plant Too Old
+Bountiful City Petroleum Coke Plant,Pulverized Coal,Planned,UT,40.9897,-112.1096,"Consolidated Energy, Inc.",(blank),0,109,0,0,Not Considered,Other
+Savannah Sugar Refinery,Pulverized Coal,Operating,GA,32.1491,-81.1449,Imperial Holly Corp.,Imperial Holly Corp.,11.7,NA,0,0,Not Considered,Low Operation
+Argus Cogen Plant,Pulverized Coal,Operating,CA,35.765,-117.3833,Searles Valley Minerals Operations Inc.,Searles Valley Minerals Operations Inc.,55,NA,0,0,Not Considered,Plant Too Old
+Yates,Pulverized Coal,Operating,GA,33.4622,-84.8986,Georgia Power Company,Georgia Power Company,1487.3,NA,0,0,Not Considered,Plant Too Old
+Carbon,Pulverized Coal,Operating,UT,39.7272,-110.8644,PacifiCorp,PacifiCorp,188.6,NA,0,0,Not Considered,Plant Too Old
+Canadys,Pulverized Coal,Operating,SC,33.0647,-80.6228,South Carolina Electric & Gas Co.,South Carolina Electric & Gas Co.,489.6,NA,0,0,Not Considered,Plant Too Old
+"Roanoke Rapids, North Carolina",Pulverized Coal,Operating,NC,36.4758,-77.6407,Kapstone Kraft Paper Corporation,Kapstone Kraft Paper Corporation,22.5,NA,0,0,Not Considered,Plant Too Old
+Valmy,Pulverized Coal,Planned,NV,40.8831,-117.1542,Multi-Owned,Sierra Pacific Power Company,567,500,145.9,37.2,Good,
+Intermountain,Pulverized Coal,Operating,UT,39.5108,-112.5792,Intermountain Power Agency,Intermountain Power Agency,1640,NA,470.2,122,Good,
+UNC - Chapel Hill,Pulverized Coal,Operating,NC,35.9069,-79.0617,University of North Carolina,University of North Carolina,28,20,15.4,3.9,Fair,
+Hunter,Pulverized Coal,Operating,UT,39.1747,-111.0289,Multi-Owned,PacifiCorp,1472.2,NA,286.8,73.2,Good,
+Victor J. Daniel Jr.,Pulverized Coal,Operating,MS,30.5335,-88.5574,Multi-Owned,Mississippi Power Company,1096.6,NA,159.8,40.8,Good,
+Stanton Energy Center,Pulverized Coal,Operating,FL,28.4836,-81.1686,Multi-Owned,Orlando Utilities Commission,929,NA,12.3,12.6,Fair,
+Mayo,Pulverized Coal,Operating,NC,36.5278,-78.8917,Multi-Owned,Carolina Power & Light Company,735.8,NA,212.9,54.7,Fair,
+Rocky Mount,Pulverized Coal,Operating,NC,36.0378,-77.7542,Multi-Owned,"Cogentrix Energy, LLC",114.8,NA,33.9,8.6,Good,
+Roxboro,Pulverized Coal,Operating,NC,36.4833,-79.0731,Multi-Owned,Carolina Power & Light Company,2558.2,NA,215.6,55.4,Fair,
+Indiantown Cogeneration Facility,Pulverized Coal,Operating,FL,27.0393,-80.5144,Multi-Owned,U.S. Operating Services Company,395.4,NA,115.4,29.4,Good,
+San Miguel,Pulverized Coal,Operating,TX,28.7044,-98.4781,San Miguel Electric Cooperative Inc.,San Miguel Electric Cooperative Inc.,410,NA,119.8,30.5,Good,
+Big Bend,Pulverized Coal,Operating,FL,27.7944,-82.4036,Tampa Electric Company,Tampa Electric Company,1822.5,NA,139.8,36.1,Good,
+Bonanza,Pulverized Coal,Operating,UT,40.0864,-109.2844,Multi-Owned,Deseret Generation & Transmission Cooperative,499.5,NA,145.8,37.2,Good,
+C D McIntosh Jr,Pulverized Coal,Operating,FL,28.0809,-81.9256,Multi-Owned,Lakeland City of,363.8,NA,45.4,27.1,Fair,
+Comanche (CO),Pulverized Coal,Under Construction,CO,38.2081,-104.5747,Multi-Owned,Public Service Company of Colorado,0,780,235.4,61,Good,
+Cross,Pulverized Coal,Operating,SC,33.3692,-80.1119,South Carolina Public Service Authority,South Carolina Public Service Authority,2390.1,NA,147.6,92.5,Good,
+Crystal River,Pulverized Coal,Operating,FL,28.9594,-82.7003,Florida Power Corporation,Florida Power Corporation,2442.7,NA,123.2,98.6,Fair,
+Deerhaven,Pulverized Coal,Operating,FL,29.7586,-82.3883,Gainsville Regional Utilities,Gainsville Regional Utilities,250.7,NA,73.5,18.7,Good,
+Dolet Hills,Pulverized Coal,Operating,LA,32.0306,-93.5692,Multi-Owned,Cleco Corporation,720.7,NA,209.2,53.6,Fair,
+Dan River,Pulverized Coal,Operating,NC,36.4862,-79.7208,"Duke Energy Carolinas, LLC","Duke Energy Carolinas, LLC",290,NA,0,0,Not Considered,Low Land
+Asheville,Pulverized Coal,Operating,NC,35.4714,-82.5431,Carolina Power & Light Company,Carolina Power & Light Company,413.6,NA,0,0,Not Considered,Plant Too Old
+Barry,Pulverized Coal,Operating,AL,31.0069,-88.0103,Alabama Power Company,Alabama Power Company,1770.7,NA,0,0,Not Considered,Plant Too Old
+Belews Creek,Pulverized Coal,Operating,NC,36.2811,-80.0603,"Duke Energy Carolinas, LLC","Duke Energy Carolinas, LLC",2160.2,NA,0,0,Not Considered,Plant Too Old
+Big Brown,Pulverized Coal,Operating,TX,31.8206,-96.0561,Luminant Generation Company LLC,Luminant Generation Company LLC,1186.8,NA,0,0,Not Considered,Plant Too Old
+Bowen,Pulverized Coal,Operating,GA,34.1256,-84.9192,Georgia Power Company,Georgia Power Company,3498.6,NA,0,0,Not Considered,Plant Too Old
+Buck (NC),Pulverized Coal,Operating,NC,35.7133,-80.3767,"Duke Energy Carolinas, LLC","Duke Energy Carolinas, LLC",370,NA,0,0,Not Considered,Plant Too Old
+Bull Run (TN),Pulverized Coal,Operating,TN,36.0211,-84.1567,Tennessee Valley Authority,Tennessee Valley Authority,950,NA,0,0,Not Considered,Plant Too Old
+Cameo,Pulverized Coal,Operating,CO,39.1486,-108.3189,Public Service Company of Colorado,Public Service Company of Colorado,66,NA,0,0,Not Considered,Plant Too Old
+Cape Fear,Pulverized Coal,Operating,NC,35.595,-79.0492,Carolina Power & Light Company,Carolina Power & Light Company,328.5,NA,0,0,Not Considered,Plant Too Old
+Colbert,Pulverized Coal,Operating,AL,34.7439,-87.8486,Tennessee Valley Authority,Tennessee Valley Authority,1350,NA,0,0,Not Considered,Plant Too Old
+Comanche (CO),Pulverized Coal,Operating,CO,38.2081,-104.5747,Public Service Company of Colorado,Public Service Company of Colorado,778.5,NA,0,0,Not Considered,Plant Too Old
+Crist,Pulverized Coal,Operating,FL,30.5661,-87.2289,Gulf Power Company,Gulf Power Company,1135.1,NA,0,0,Not Considered,Plant Too Old
+Cumberland (TN),Pulverized Coal,Operating,TN,36.3903,-87.6539,Tennessee Valley Authority,Tennessee Valley Authority,2600,NA,0,0,Not Considered,Plant Too Old
+Dolphus M Grainger,Pulverized Coal,Operating,SC,33.8253,-79.0528,South Carolina Public Service Authority,South Carolina Public Service Authority,163.2,NA,0,0,Not Considered,Plant Too Old
+Drake,Pulverized Coal,Operating,CO,38.8244,-104.8331,Colorado Springs Utilities,Colorado Springs Utilities,257,NA,0,0,Not Considered,Plant Too Old
+Escalante,Pulverized Coal,Operating,NM,35.4159,-108.082,Tri-State Generation & Transmission Association,"Tri-State Generation & Transmission Association, Inc.",257,NA,75.4,19.1,Good,
+Fayette Power Project,Pulverized Coal,Operating,TX,29.9172,-96.7506,Multi-Owned,Lower Colorado River Authority,1690,NA,291.4,90,Fair,
+Florence Mill,Pulverized Coal,Operating,SC,34.1519,-79.5587,Smurfit-Stone Container Corporation,Smurfit-Stone Container Corporation,107.6,NA,23.4,5.9,Good,
+GRDA,Pulverized Coal,Operating,OK,36.1906,-95.2889,Multi-Owned,Grand River Dam Authority,1010,NA,293.7,75.1,Fair,
+Hugo,Pulverized Coal,Operating,OK,34.0158,-95.3206,Western Farmers Electric Cooperative Inc.,Western Farmers Electric Cooperative Inc.,446,NA,130,33.2,Good,
+Muskogee,Pulverized Coal,Operating,OK,35.7617,-95.2847,Oklahoma Gas and Electric Company,Oklahoma Gas and Electric Company,1716,NA,166.5,42.4,Fair,
+Northeastern,Pulverized Coal,Operating,OK,36.4317,-95.7008,Public Service Company of Oklahoma,Public Service Company of Oklahoma,946,NA,138,35.2,Good,
+Nucla,Pulverized Coal,Operating,CO,38.2387,-108.5083,Tri-State Generation & Transmission Association,"Tri-State Generation & Transmission Association, Inc.",113.8,NA,23.5,5.9,Good,
+Pawnee,Pulverized Coal,Operating,CO,40.2217,-103.6803,Public Service Company of Colorado,Public Service Company of Colorado,552.3,NA,160.8,41.1,Fair,
+Pirkey,Pulverized Coal,Operating,TX,32.4607,-94.4852,Multi-Owned,Southwestern Electric Power Company,721,NA,209.2,53.6,Fair,
+Elizabethtown,Pulverized Coal,Operating,NC,34.6474,-78.6407,Multi-Owned,"Elizabethtown Energy, LLC",34.7,NA,0,0,Not Considered,Low Operation
+G G Allen,Pulverized Coal,Operating,NC,35.1897,-81.0122,"Duke Energy Carolinas, LLC","Duke Energy Carolinas, LLC",1155,NA,0,0,Not Considered,Plant Too Old
+Gallatin,Pulverized Coal,Operating,TN,36.3156,-86.4006,Tennessee Valley Authority,Tennessee Valley Authority,1255.2,NA,0,0,Not Considered,Plant Too Old
+H B Robinson,Pulverized Coal,Operating,SC,34.4017,-80.1589,Carolina Power & Light Company,Carolina Power & Light Company,206.6,NA,0,0,Not Considered,Plant Too Old
+H.F. Lee Energy Complex,Pulverized Coal,Operating,NC,35.3775,-78.0875,Carolina Power & Light Company,Carolina Power & Light Company,402.4,NA,0,0,Not Considered,Plant Too Old
+Harllee Branch,Pulverized Coal,Operating,GA,33.1942,-83.2994,Georgia Power Company,Georgia Power Company,1746.2,NA,0,0,Not Considered,Plant Too Old
+Hayden,Pulverized Coal,Operating,CO,40.4856,-107.185,Multi-Owned,Public Service Company of Colorado,465.4,NA,0,0,Not Considered,Plant Too Old
+Huntington,Pulverized Coal,Operating,UT,39.3792,-111.0781,PacifiCorp,PacifiCorp,996,NA,0,0,Not Considered,Plant Too Old
+Irvington,Pulverized Coal,Operating,AZ,32.16,-110.9047,Tucson Electric Power Company,Tuscon Electric Power Company,173.3,NA,0,0,Not Considered,Plant Too Old
+J T Deely,Pulverized Coal,Operating,TX,29.3072,-98.3228,CPS Energy,CPS Energy,932,NA,0,0,Not Considered,Plant Too Old
+Jack McDonough,Pulverized Coal,Operating,GA,33.8244,-84.475,Georgia Power Company,Georgia Power Company,598.4,NA,0,0,Not Considered,Plant Too Old
+Jack Watson,Pulverized Coal,Operating,MS,30.4408,-89.0265,Mississippi Power Company,Mississippi Power Company,877.2,NA,0,0,Not Considered,Plant Too Old
+John Sevier,Pulverized Coal,Operating,TN,36.3767,-82.9639,Tennessee Valley Authority,Tennessee Valley Authority,800,NA,0,0,Not Considered,Plant Too Old
+Johnsonville (TN),Pulverized Coal,Operating,TN,36.0278,-87.9861,Tennessee Valley Authority,Tennessee Valley Authority,1485.2,NA,0,0,Not Considered,Plant Too Old
+Kingston,Pulverized Coal,Operating,TN,35.8992,-84.5194,Tennessee Valley Authority,Tennessee Valley Authority,1700,NA,0,0,Not Considered,Plant Too Old
+Marshall,Pulverized Coal,Operating,NC,35.5975,-80.9658,"Duke Energy Carolinas, LLC","Duke Energy Carolinas, LLC",1996,NA,0,0,Not Considered,Plant Too Old
+Martin Lake,Pulverized Coal,Operating,TX,32.2597,-94.5703,Luminant Generation Company LLC,Luminant Generation Company LLC,2379.6,NA,0,0,Not Considered,Plant Too Old
+McIntosh,Pulverized Coal,Operating,GA,32.3558,-81.1683,Georgia Power Company,Georgia Power Company,177.6,NA,0,0,Not Considered,Plant Too Old
+Mitchell (GA),Pulverized Coal,Operating,GA,31.4444,-84.1322,Georgia Power Company,Georgia Power Company,163.2,NA,0,0,Not Considered,Plant Too Old
+Monticello (TX),Pulverized Coal,Operating,TX,33.0917,-95.0417,Luminant Generation Company LLC,Luminant Generation Company LLC,1980,NA,0,0,Not Considered,Plant Too Old
+Old Hickory Plant,Pulverized Coal,Operating,TN,36.2756,-86.6644,E I Dupont De Nemours & Co,E I Dupont De Nemours & Co,1,NA,0,0,Not Considered,Low DNI
+R D Morrow,Pulverized Coal,Operating,MS,31.2194,-89.3933,South Mississippi Electric Power Association,South Mississippi Electric Power Association,400,NA,0,0,Not Considered,Plant Too Old
+R S Nelson,Pulverized Coal,Operating,LA,30.2861,-93.2917,Multi-Owned,"Entergy Gulf States Louisiana, L.L.C.",614.6,NA,0,0,Not Considered,Low DNI
+Rawhide,Pulverized Coal,Operating,CO,40.8611,-105.0206,Platte River Power Authority,Platte River Power Authority,293.6,NA,86.1,21.8,Good,
+Ray D Nixon,Pulverized Coal,Operating,CO,38.6306,-104.7056,Colorado Springs Utilities,Colorado Springs Utilities,207,NA,60.8,15.4,Good,
+Red Hills,Pulverized Coal,Operating,MS,33.3761,-89.2183,SUEZ Energy Generation NA,Choctow Generation LP,513.7,NA,149.8,38.2,Fair,
+Reid Gardner,Pulverized Coal,Operating,NV,36.6531,-114.6364,Multi-Owned,Nevada Power Company,636.8,NA,86.5,21.9,Excellent,
+Roanoke Valley I,Pulverized Coal,Operating,NC,36.4364,-77.6167,Westmoreland Coal Company,Westmoreland Coal Company,182.3,NA,53.6,13.6,Good,
+Roanoke Valley II,Pulverized Coal,Operating,NC,36.4364,-77.6167,Westmoreland Coal Company,Westmoreland Coal Company,57.8,NA,17.1,4.3,Good,
+Roxboro NC,Pulverized Coal,Operating,NC,36.435,-78.9619,Capital Power Income L . P .,(blank),67.5,NA,20,5,Fair,
+Sandow,Pulverized Coal,Operating,TX,30.5642,-97.0639,Luminant Generation Company LLC,Luminant Generation Company LLC,590.6,NA,171.8,44,Fair,
+Welsh,Pulverized Coal,Operating,TX,33.0583,-94.844,Southwestern Electric Power Company,Southwestern Electric Power Company,1674,NA,324.8,83,Fair,
+Winyah,Pulverized Coal,Operating,SC,33.3303,-79.3611,South Carolina Public Service Authority,South Carolina Public Service Authority,1260,NA,182.9,46.8,Good,
+Coronado,Pulverized Coal,Operating,AZ,34.5778,-109.2717,Salt River Project,Salt River Project,821.8,NA,120.2,30.6,Excellent,
+Sooner,Pulverized Coal,Operating,OK,36.4537,-97.0527,Oklahoma Gas and Electric Company,Oklahoma Gas and Electric Company,1138,NA,165.7,42.3,Fair,
+Springerville,Pulverized Coal,Operating,AZ,34.3186,-109.1636,Multi-Owned,Tuscon Electric Power Company,1299.6,NA,511.6,130.2,Excellent,
+Coleto Creek,Pulverized Coal,Operating,TX,28.7128,-97.2142,"International Power America, Inc.","International Power America, Inc.",600.4,NA,174.7,44.7,Good,
+Coleto Creek,Pulverized Coal,Planned,TX,28.7128,-97.2142,Multi-Owned,"International Power America, Inc.",0,650,174.7,44.7,Good,
+"Colorado Energy Nations Company, LLP",Pulverized Coal,Operating,CO,39.7606,-105.215,Trigen Energy Corporation,Trigen Energy Corporation,35.4,NA,6,1.5,Good,
+Tolk,Pulverized Coal,Operating,TX,34.1847,-102.5686,Southwestern Public Service Company,Southwestern Public Service Company,1136,NA,330.8,84.4,Good,
+Washington County Power Station,Pulverized Coal,Planned,GA,33.0917,-82.9803,Power4Georgians LLC,Power4Georgians LLC,0,850,242.6,63.2,Fair,
+"Rodemacher (Rapides Parish, LA)",Pulverized Coal,Operating,LA,31.395,-92.7167,Multi-Owned,(blank),558,NA,55.6,41.5,Good,
+St Johns River Power,Pulverized Coal,Operating,FL,30.4311,-81.5508,Multi-Owned,JEA,1358,NA,134.5,99.9,Good,
+Seminole (FL),Pulverized Coal,Operating,FL,29.7333,-81.6339,Seminole Electric Cooperative Inc.,Seminole Electric Cooperative Inc.,1429.2,NA,410.8,106.2,Good,
+Craig (CO),Pulverized Coal,Operating,CO,40.4627,-107.5912,Multi-Owned,"Tri-State Generation & Transmission Association, Inc.",1339.2,NA,257,66.4,Good,
+James H. Miller Jr.,Pulverized Coal,Operating,AL,33.6319,-87.0597,Multi-Owned,Alabama Power Company,2822,NA,202.1,155.4,Fair,
+Oklaunion,Pulverized Coal,Operating,TX,34.0825,-99.1753,Multi-Owned,Public Service Company of Oklahoma,720,NA,208.8,53.6,Fair,
+Central Power & Lime,Pulverized Coal,Operating,FL,28.5814,-82.4303,Central Power & Lime LLC,Central Power & Lime LLC,125,NA,36.8,9.3,Good,
+Scholz,Pulverized Coal,Operating,FL,30.6689,-84.8869,Gulf Power Company,Gulf Power Company,98,NA,0,0,Not Considered,Plant Too Old
+Tennessee Eastman Division,Pulverized Coal,Operating,TN,36.5192,-82.535,Tennessee Eastman Co,Tennessee Eastman Co,194.3,NA,0,0,Not Considered,Low DNI
+Thomas H Allen,Pulverized Coal,Operating,TN,35.0742,-90.1439,Tennessee Valley Authority,Tennessee Valley Authority,990,NA,0,0,Not Considered,Plant Too Old
+W H Weatherspoon,Pulverized Coal,Operating,NC,34.5889,-78.975,Carolina Power & Light Company,Carolina Power & Light Company,165.5,NA,0,0,Not Considered,Plant Too Old
+W S Lee,Pulverized Coal,Operating,SC,34.6022,-82.435,"Duke Energy Carolinas, LLC","Duke Energy Carolinas, LLC",355,NA,0,0,Not Considered,Plant Too Old
+Wateree,Pulverized Coal,Operating,SC,33.8264,-80.6218,South Carolina Electric & Gas Co.,South Carolina Electric & Gas Co.,771.8,NA,0,0,Not Considered,Plant Too Old
+Widows Creek,Pulverized Coal,Operating,AL,34.8825,-85.7547,Tennessee Valley Authority,Tennessee Valley Authority,1968.6,NA,0,0,Not Considered,Plant Too Old
+Williams,Pulverized Coal,Operating,SC,33.0163,-79.9285,South Carolina Electric & Gas Co.,"South Carolina Generating Company, Inc.",632.7,NA,0,0,Not Considered,Plant Too Old
+Vanderbilt University Power Plant,Pulverized Coal,Operating,TN,36.1456,-86.8042,Vanderbilt University,Vanderbilt University,11,NA,0,0,Not Considered,Low Operation
+Gadsden,Pulverized Coal,Operating,AL,34.0128,-85.9708,Alabama Power Company,Alabama Power Company,138,NA,0,0,Not Considered,Plant Too Old
+Big Cajun 2,Pulverized Coal,Operating,LA,30.7261,-91.3669,Multi-Owned,Louisiana Generating LLC,1871,NA,321.2,139.2,Good,
+San Juan,Pulverized Coal,Operating,NM,36.8006,-108.4386,Multi-Owned,Public Service Company of New Mexico,1848,NA,161.6,41.3,Good,
+Scherer,Pulverized Coal,Operating,GA,33.0583,-83.8072,Multi-Owned,Georgia Power Company,3564,NA,373.8,263.9,Fair,
+Gibbons Creek,Pulverized Coal,Operating,TX,30.6167,-96.0778,Texas Municipal Power Agency,Texas Municipal Power Agency,453.5,NA,132.5,33.7,Good,
+Harrington,Pulverized Coal,Operating,TX,35.2972,-101.7475,Southwestern Public Service Company,Southwestern Public Service Company,1080,NA,105.4,26.8,Good,
+Twin Oaks Power,Pulverized Coal,Operating,TX,31.0932,-96.6965,Multi-Owned,"Optim Energy, LLC",349.2,NA,102.3,26,Good,
+Navajo,Pulverized Coal,Operating,AZ,36.9047,-111.3886,Multi-Owned,Salt River Project,2250,NA,198.5,158.3,Good,
+Muskogee Mill,Pulverized Coal,Operating,OK,35.7322,-95.2939,Georgia-Pacific LLC,Georgia-Pacific LLC,114,NA,13.2,3.3,Good,
+Sandow (Alcoa),Pulverized Coal,Operating,TX,30.5642,-97.0639,Luminant Generation Company LLC,Luminant Generation Company LLC,661.5,NA,192,49.2,Good,
+Longleaf,Pulverized Coal,Planned,GA,31.1844,-85.0359,LS Power Group,"Longleaf Energy Associates, LLC",0,1200,174.5,89.2,Good,
+La Cygne,Pulverized Coal,Operating,KS,38.3472,-94.6389,"Kansas City Power & Light Co, Kansas Gas & Electric Co",Kansas City Power & Light Co,1418,NA,0,0,Not Considered,Plant Too Old
+Flint Creek (AR),Pulverized Coal,Operating,AR,36.2561,-94.5241,"Arkansas Electric Coop Corp, Southwestern Electric Power Co",Southwestern Electric Power Co,528,NA,0,0,Not Considered,Plant Too Old
+Lawrence Energy Center (KS),Pulverized Coal,Operating,KS,39.0072,-95.2692,Westar Energy Inc,Westar Energy Inc,529,NA,0,0,Not Considered,Plant Too Old
+Quindaro,Pulverized Coal,Operating,KS,39.1486,-94.6405,Kansas City Board Public Utilities,Kansas City Board Public Utilities,183,NA,0,0,Not Considered,Plant Too Old
+Nearman Creek,Pulverized Coal,Operating,KS,39.1714,-94.6958,Kansas City Board Public Utilities,Kansas City Board Public Utilities,229,NA,0,0,Not Considered,Plant Too Old
+Riverton,Pulverized Coal,Operating,KS,37.0719,-94.6986,Empire District Electric Co (The),Empire District Electric Co (The),92,NA,0,0,Not Considered,Plant Too Old
+Tecumseh Energy Center,Pulverized Coal,Operating,KS,39.0522,-95.5669,Westar Energy Inc,Westar Energy Inc,202,NA,0,0,Not Considered,Plant Too Old
+Canton,Pulverized Coal,Operating,NC,35.535,-82.8411,Blue Ridge Paper Products Inc,Blue Ridge Paper Products Inc,52.5,NA,0,0,Not Considered,Plant Too Old
+Henderson (MS),Pulverized Coal,Operating,MS,33.5153,-90.2072,Greenwood Utilities Commission,Greenwood Utilities Commission,32.6,NA,0,0,Not Considered,Plant Too Old
+Cherokee (CO),Pulverized Coal,Operating,CO,39.8034,-104.9458,Public Service Company of Colorado,Public Service Company of Colorado,801.2,NA,0,0,Not Considered,Plant Too Old
+Lumberton,Pulverized Coal,Operating,NC,34.59,-78.9968,Multi-Owned,"Lumberton Energy, LLC",34.7,NA,0,0,Not Considered,Low Operation
+Wansley,Pulverized Coal,Operating,GA,33.4124,-85.0345,Multi-Owned,Georgia Power Company,1904,NA,0,0,Not Considered,Plant Too Old
+Arapahoe,Pulverized Coal,Operating,CO,39.67,-105.0028,Public Service Company of Colorado,Public Service Company of Colorado,160,NA,0,0,Not Considered,Plant Too Old
+Cliffside,Pulverized Coal,Operating,NC,35.22,-81.7594,"Duke Energy Carolinas, LLC","Duke Energy Carolinas, LLC",780.9,825,0,0,Not Considered,Plant Too Old
+Kraft,Pulverized Coal,Operating,GA,32.1486,-81.1458,Georgia Power Company,Georgia Power Company,207.9,NA,0,0,Not Considered,Plant Too Old
+Hammond,Pulverized Coal,Operating,GA,34.2533,-85.3456,Georgia Power Company,Georgia Power Company,953,NA,0,0,Not Considered,Plant Too Old
+Provo,Pulverized Coal,Operating,UT,40.1183,-111.6686,Provo City Corporation,Provo City Corporation,7.5,NA,0,0,Not Considered,Plant Too Old
+Four Corners,Pulverized Coal,Operating,NM,36.69,-108.4814,Multi-Owned,Arizona Public Service Company,2269.6,NA,0,0,Not Considered,Plant Too Old
+Lansing Smith,Pulverized Coal,Operating,FL,30.2689,-85.7003,Gulf Power Company,Gulf Power Company,340,NA,0,0,Not Considered,Plant Too Old
+Snowflake Mill,Pulverized Coal,Operating,AZ,34.5025,-110.3361,Catalyst Paper (Snowflake) Inc.,Catalyst Paper (Snowflake) Inc.,70.5,NA,0,0,Not Considered,Plant Too Old
+Gorgas,Pulverized Coal,Operating,AL,33.6446,-87.2003,Alabama Power Company,Alabama Power Company,1416.7,NA,0,0,Not Considered,Plant Too Old
+TXI Riverside Cement Power House,Pulverized Coal,Operating,CA,34.6,-117.3333,U S West Financial Service Inc,U S West Financial Service Inc,24,NA,0,0,Not Considered,Plant Too Old
+USDOE Savannah River Site (D Area),Pulverized Coal,Operating,SC,32.3683,-81.3413,Department of Energy,Washington Savannah River Company LLC,78.2,NA,0,0,Not Considered,Plant Too Old
+North Omaha,Pulverized Coal,Operating,NE,41.3297,-95.9458,Omaha Public Power District,Omaha Public Power District,646.3,NA,0,0,Not Considered,Plant Too Old
+Lon Wright,Pulverized Coal,Operating,NE,41.4275,-96.4619,Fremont Dept of Public Utilities,Fremont Dept of Public Utilities,85,NA,0,0,Not Considered,Plant Too Old
+Whelan Energy Center,Pulverized Coal,Operating,NE,40.5806,-98.3106,"Grand Island Utilities, Hastings Utilities (NE), Heartland Consumers Power District, Municipal Energy Agency of Nebraska, Nebraska City Utilities",Hastings Utilities (NE),297,NA,66,16,Fair,
+Sheldon (NE),Pulverized Coal,Operating,NE,40.5589,-96.7842,Nebraska Public Power District,Nebraska Public Power District,225,NA,0,0,Not Considered,Plant Too Old
+Boardman (OR),Pulverized Coal,Operating,OR,45.6933,-119.8056,"General Electric Capital Corp, Idaho Power Co, Pacific Northwest Generating Coop, Portland General Electric Co",Portland General Electric Co,585,NA,0,0,Not Considered,Plant Too Old
+Jim Bridger,Pulverized Coal,Operating,WY,41.7378,-108.7875,"Idaho Power Co, PacifiCorp",PacifiCorp,2118,NA,0,0,Not Considered,Plant Too Old
+Dave Johnston,Pulverized Coal,Operating,WY,42.8378,-105.7769,PacifiCorp,PacifiCorp,762,NA,0,0,Not Considered,Plant Too Old
+Dry Fork Station,Pulverized Coal,Operating,WY,44.291092,-105.502221,"Basin Electric Power Coop, Wyoming Municipal Power Agency",Basin Electric Power Coop,390,NA,114,29,Fair,
+Naughton,Pulverized Coal,Operating,WY,41.7572,-110.5986,PacifiCorp,PacifiCorp,700,NA,0,0,Not Considered,Plant Too Old
+Plum Point Energy,Pulverized Coal,Operating,AR,35.6763,-90.0131,Plum Point Energy Associates LLC,Plum Point Energy Associates LLC,670,NA,156,54,Good,
+Holcomb East,Pulverized Coal,Operating,KS,37.9306,-100.9725,Arkansas Electric Coop Corp,Sunflower Electric Power Corp,362,NA,102,26,Good,
+Independence (AR),Pulverized Coal,Operating,AR,35.6733,-91.4083,"Arkansas Electric Coop Corp, Conway (City of), Entergy Arkansas Inc, Entergy Mississippi Inc, Jonesboro Water & Light, Osceola AR (City of), West Memphis Utility Dept",Entergy Arkansas Inc,1678,NA,304,126,Good,
+Jeffrey Energy Center,Pulverized Coal,Operating,KS,39.2825,-96.1153,"Kansas Gas & Electric Co, KCP&L Greater Missouri Operations Co, Westar Energy Inc",Westar Energy Inc,2164,NA,208,52,Fair,
+White Bluff,Pulverized Coal,Operating,AR,34.4236,-92.1392,"Arkansas Electric Coop Corp, Conway (City of), Entergy Arkansas Inc, Jonesboro Water & Light, West Memphis Utility Dept",Entergy Arkansas Inc,1659,NA,0,0,Not Considered,Plant Too Old
+Wygen III,Pulverized Coal,Operating,WY,44.287,-105.387,"Black Hills Power Inc, Gillette WY (City of), MDU Resources Group Inc",Black Hills Power Inc,100,NA,34,9,Good,
+Gerald Gentleman,Pulverized Coal,Operating,NE,41.0808,-101.1408,Nebraska Public Power District,Nebraska Public Power District,1365,NA,203,52,Good,
+Nebraska City,Pulverized Coal,Operating,NE,40.6215,-95.7765,Omaha Public Power District,Omaha Public Power District,1330.2,NA,198,51,Good,
+Platte,Pulverized Coal,Operating,NE,40.8538,-98.3481,Grand Island Utilities,Grand Island Utilities,100,NA,32,8,Good,
+Laramie River,Pulverized Coal,Operating,WY,42.1103,-104.8828,"Basin Electric Power Coop, Los Alamos County, Municipal Energy Agency of Nebraska, Tri State Generation & Transmission Association Inc, Wyoming Municipal Power Agency",Basin Electric Power Coop,1710,NA,166,42,Good,
+Neil Simpson II,Pulverized Coal,Operating,WY,44.2853,-105.3841,Black Hills Power Inc,Black Hills Power Inc,80,NA,24,6,Fair,
+Wygen,Pulverized Coal,Operating,WY,44.2862,-105.3843,"Black Hills Power Inc, Municipal Energy Agency of Nebraska",Black Hills Power Inc,91,NA,26,7,Good,
+Wygen II,Pulverized Coal,Operating,WY,44.2911,-105.3815,Cheyenne Light Fuel & Power Co,Cheyenne Light Fuel & Power Co,85,NA,28,7,Good,
+Wyodak,Pulverized Coal,Operating,WY,44.2886,-105.3847,"Black Hills Power Inc, PacifiCorp",PacifiCorp,335,NA,0,0,Not Considered,Plant Too Old
+Holcomb East,Pulverized Coal,Planned,KS,37.986135,-100.989333,"Golden Spread Electric Coop Inc, Sunflower Electric Power Corp",Sunflower Electric Power Corp,895,895,246,67,Good,
+John W Turk Jr Power Plant,Pulverized Coal,Under Construction,AR,33.614565,-93.813516,"Northeast Texas Electric Coop Inc, Oklahoma Municipal Power Authority, Southwestern Electric Power Co",Southwestern Electric Power Co,609,609,177,45,Good,
+May Plant,Pulverized Coal,Operating,SC,34.2338,-80.6558,INVISTA,INVISTA,30,NA,0,0,Not Considered,Low Operation
+Red River Parish-PAC,Pulverized Coal,Planned,LA,32.0306,-93.5692,"Red River Environmental Products, LLC","Red River Environmental Products, LLC",0,36.76,0,0,Not Considered,Other
+Coosa Pines,Pulverized Coal,Operating,AL,33.3278,-86.3583,Bowater Incorporated,Bowater Alabama LLC,26.1,NA,0,1,Not Considered,Unit Too Small for Tower
+Apache Station,Pulverized Coal,Operating,AZ,32.0619,-109.8931,Arizona Electric Power Cooperative Inc.,"Arizona Electric Power Cooperative, Inc.",408,NA,0,0,Not Considered,Plant Too Old
+E C Gaston,Pulverized Coal,Operating,AL,33.2442,-86.4567,Multi-Owned,Alabama Power Company,2012.8,NA,0,0,Not Considered,Plant Too Old
+Jefferies,Pulverized Coal,Operating,SC,33.2422,-79.9875,South Carolina Public Service Authority,South Carolina Public Service Authority,345.6,NA,0,0,Not Considered,Plant Too Old
+Riverbend,Pulverized Coal,Operating,NC,35.36,-80.9742,"Duke Energy Carolinas, LLC","Duke Energy Carolinas, LLC",466,NA,0,0,Not Considered,Plant Too Old
+Valmont,Pulverized Coal,Operating,CO,40.0195,-105.202,Public Service Company of Colorado,Public Service Company of Colorado,191.7,NA,0,0,Not Considered,Plant Too Old
+L V Sutton,Pulverized Coal,Operating,NC,34.2824,-77.9864,Carolina Power & Light Company,Carolina Power & Light Company,671.6,NA,0,0,Not Considered,Plant Too Old
+W N Clark,Pulverized Coal,Operating,CO,38.4344,-105.25,Black Hills Colorado Electric Utility Corporation,"Black Hills Colorado Electric Utility Company, LP",43.7,NA,0,0,Not Considered,Plant Too Old
