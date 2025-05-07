@@ -1,13 +1,21 @@
-# Data Analyst Projects
+# Dario Bilardello – Data & Geoscience Portfolio
 
-This repository contains selected projects completed as part of the Udacity Data Analyst Nanodegree (2025). Each project involved defining an original problem, identifying and sourcing appropriate datasets, and applying rigorous data wrangling and analysis techniques to address real-world questions. Projects were required to demonstrate issues with data quality and structure, and include strategies for cleaning, reshaping, and validating data.
+ Welcome to my GitHub portfolio. This space highlights select projects at the intersection of data analytics, environmental science, and geophysics. Projects here reflect a transition from a research-intensive background in Earth sciences to applied work in data science, with a focus on reproducible workflows, Python-based analysis, and real-world energy applications.
 
-## Projects
+## Contents
 
-- **Udacity_Adv_Data_Wrangling**  
-  Cleaned and analyzed renewable energy production and consumption data across U.S. states. Included clustering analysis and supervised regression to identify regional patterns in energy resilience.
+### Data_Analyst_Projects/
+Projects developed as part of the Udacity Data Analyst Nanodegree (2025), focusing on exploratory data analysis, wrangling, visualization, and introductory machine learning.
+
+- **Udacity_Advanced_Data_Wrangling**  
+  Explores renewable energy production and consumption trends across U.S. states. Includes a supervised regression model and clustering to identify regional energy resilience patterns.  
+  *Skills:* pandas, scikit-learn, matplotlib, data cleaning, ML modeling
 
 - **Udacity_Data_Visualization**  
-  Developed geospatial visualizations of solar augmentation potential for fossil fuel power plants across 22 U.S. states, using data from NREL and EPRI. Focused on identifying high-impact sites based on augmentation potential and fossil fuel type.
+  Investigates the solar augmentation potential of fossil power plants across 22 U.S. states. Geospatial analysis and custom visualizations highlight technology-specific and regional trends.  
+  *Skills:* pandas, matplotlib, seaborn, GeoPandas, data storytelling
 
-Each project folder contains the original Jupyter Notebook(s), data files (where license permits), and a summary of key findings.
+## About Me
+I bring 15+ years of scientific research experience, now focused on applying data science skills to environmental, energy, and public sector challenges. My work emphasizes clarity, collaboration, and robust analytics.
+
+Thanks for stopping by.
